@@ -14,14 +14,14 @@ class Client:
             self.socket.connect((self.address, self.port))
             self.socket.send(self.name)
         except :
-            print 'Unable to connect'
+            print utils.CLIENT_CANNOT_CONNECT.format(address, port)
             sys.exit()
-        print 'Connected to remote host. You can start sending messages'
         sys.stdout.write('[Me] ')
         sys.stdout.flush()
         self.broadcast()
 
     def broadcast(self):
+        cache = ""
         while True:
             socket_list = [sys.stdin, self.socket]
 
@@ -31,15 +31,25 @@ class Client:
             for sock in ready_to_read:
                 if sock == self.socket:
                     # incoming message from remote server, s
-                    data = sock.recv(200)
-                    if not data :
-                        print '\nDisconnected from chat server'
+                    data = sock.recv(utils.MESSAGE_LENGTH)
+                    if not data:
+                        print utils.CLIENT_WIPE_ME + "\r" + utils.CLIENT_SERVER_DISCONNECTED.format(self.address, str(self.port))
                         sys.exit()
                     else :
-                        #print data
-                        sys.stdout.write(data)
-                        # sys.stdout.write('[Me] ')
-                        sys.stdout.flush()
+                        if cache == utils.MESSAGE_LENGTH:
+                            cache = data.rstrip()
+                            sys.stdout.write(cache)
+                            sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
+                            sys.stdout.flush()
+                            cache = ""
+                        elif len(data) == utils.MESSAGE_LENGTH:
+                            data = data.rstrip()
+                            sys.stdout.write(data)
+                            sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
+                            sys.stdout.flush()
+                        else:
+                            cache += data
+
 
                 else :
                     # user entered a message
