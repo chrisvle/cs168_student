@@ -12,7 +12,7 @@ class Client:
         self.socket = socket.socket()
         try :
             self.socket.connect((self.address, self.port))
-            self.socket.send(self.name)
+            self.socket.send(self.pad(self.name))
         except :
             print utils.CLIENT_CANNOT_CONNECT.format(address, port)
             sys.exit()
@@ -33,33 +33,35 @@ class Client:
                     # incoming message from remote server, s
                     data = sock.recv(utils.MESSAGE_LENGTH)
                     if not data:
-                        print utils.CLIENT_WIPE_ME + "\r" + utils.CLIENT_SERVER_DISCONNECTED.format(self.address, str(self.port))
+                        sys.stdout.write(utils.CLIENT_WIPE_ME + "\r" + utils.CLIENT_SERVER_DISCONNECTED.format(self.address, str(self.port)))
+                        sys.stdout.flush()
                         sys.exit()
                     else :
-                        if cache == utils.MESSAGE_LENGTH:
-                            cache = data.rstrip()
-                            sys.stdout.write(cache)
-                            sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
-                            sys.stdout.flush()
-                            cache = ""
-                        elif len(data) == utils.MESSAGE_LENGTH:
-                            data = data.rstrip()
-                            sys.stdout.write(data)
-                            sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
-                            sys.stdout.flush()
-                        else:
+                        if len(data) < utils.MESSAGE_LENGTH:
                             cache += data
-
+                            if len(cache) == utils.MESSAGE_LENGTH:
+                                sys.stdout.write(cache)
+                                sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
+                                sys.stdout.flush()
+                                cache = ""
+                        else:
+                            data = data.rstrip()
+                            sys.stdout.write(data + "\n")
+                            sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
+                            sys.stdout.flush()
 
                 else :
                     # user entered a message
                     msg = sys.stdin.readline()
-                    self.socket.send(msg)
-                    sys.stdout.write('[Me] ')
+                    self.socket.send(self.pad(msg))
+                    sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
                     sys.stdout.flush()
 
 
-# if __name__ == "__main__":
+    def pad(self, m):
+        return m + " " * (utils.MESSAGE_LENGTH - len(m))
+
+
 args = sys.argv
 if len(args) != 4:
     print "Please supply a name, server address, and port."
