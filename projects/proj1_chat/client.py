@@ -14,9 +14,10 @@ class Client:
             self.socket.connect((self.address, self.port))
             self.socket.send(self.pad(self.name))
         except :
-            print utils.CLIENT_CANNOT_CONNECT.format(address, port)
+            sys.stdout.write(utils.CLIENT_CANNOT_CONNECT.format(address, port))
+            sys.stdout.flush()
             sys.exit()
-        sys.stdout.write('[Me] ')
+        sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
         sys.stdout.flush()
         self.broadcast()
 
@@ -31,16 +32,17 @@ class Client:
             for sock in ready_to_read:
                 if sock == self.socket:
                     # incoming message from remote server, s
-                    data = sock.recv(utils.MESSAGE_LENGTH)
+                    data = sock.recv(utils.MESSAGE_LENGTH - len(cache))
                     if not data:
-                        sys.stdout.write(utils.CLIENT_WIPE_ME + "\r" + utils.CLIENT_SERVER_DISCONNECTED.format(self.address, str(self.port)))
+                        sys.stdout.write(utils.CLIENT_WIPE_ME + "\r" + utils.CLIENT_SERVER_DISCONNECTED.format(self.address, str(self.port)) + "\n")
                         sys.stdout.flush()
                         sys.exit()
-                    else :
+                    else:
+
                         if len(data) < utils.MESSAGE_LENGTH:
                             cache += data
                             if len(cache) == utils.MESSAGE_LENGTH:
-                                sys.stdout.write(cache)
+                                sys.stdout.write(cache.rstrip() + "\n")
                                 sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
                                 sys.stdout.flush()
                                 cache = ""

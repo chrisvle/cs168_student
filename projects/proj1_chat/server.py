@@ -14,16 +14,16 @@ class Server:
     def __init__(self, port):
         self.port = int(port)
         self.socket = socket.socket()
-        self.socket.bind(("localhost", self.port)) #### localhost????
+        self.socket.bind(("", self.port))
         self.socket.listen(5)
         Server.SOCKET_LIST.append(self.socket)
         self.rec()
-        # ANYTHING PRINT ON INIT?
 
     def rec(self):
         while True:
             ready_to_read , ready_to_write, in_error = select.select(Server.SOCKET_LIST,[],[])
             for sock in ready_to_read:
+
                 # a new connection request recieved
                 if sock == self.socket:
                     sockfd, addr = self.socket.accept()
@@ -34,11 +34,13 @@ class Server:
                     # process data recieved from client,
                     try:
                         # receiving data from the socket.
-                        data = sock.recv(utils.MESSAGE_LENGTH)
+                        if sock in Server.sock_to_message:
+                            data = sock.recv(utils.MESSAGE_LENGTH - len(Server.sock_to_message[sock]))
+                        else:
+                            data = sock.recv(utils.MESSAGE_LENGTH)
                         if data:
                             if len(data) < utils.MESSAGE_LENGTH:
                                 if sock in Server.sock_to_message:
-                                    print "Inside sock" + str(len(data))
                                     Server.sock_to_message[sock] += data
 
                                 else:
@@ -46,36 +48,46 @@ class Server:
 
 
                                 if len(Server.sock_to_message[sock]) == utils.MESSAGE_LENGTH:
-                                    # print "SENDING"
                                     if sock not in Server.client_names:
                                         name = Server.sock_to_message[sock].rstrip()
                                         Server.client_names[sock] = name
                                     else:
-                                        self.process_send(sock, Server.sock_to_message[sock])
+                                        self.process_send(sock, Server.sock_to_message[sock].rstrip())
                                     Server.sock_to_message[sock] = ""
-
-                                print len(Server.sock_to_message[sock])
 
                             else:
                                 if sock not in Server.client_names:
                                     name = data.rstrip()
                                     Server.client_names[sock] = name
                                 else:
-                                    self.process_send(sock, data)
+                                    print 1
+                                    self.process_send(sock, data.rstrip())
                         else:
-                            # remove the socket that's broken
+
                             if sock in Server.SOCKET_LIST:
                                 Server.SOCKET_LIST.remove(sock)
-                            # at this stage, no data means probably the connection has been broken
+
                             if sock in Server.sock_to_channels:
+                                print "LEAVING FROM NO data"
                                 m = utils.CLIENT_WIPE_ME + "\r" + utils.SERVER_CLIENT_LEFT_CHANNEL.format(Server.client_names[sock]) + "\n"
                                 self.broadcast(self.socket, sock, self.pad(m))
-                    # exception
+
+                            if sock in Server.client_names:
+                                del Server.client_names[sock]
+
+                            if sock in Server.sock_to_message:
+                                del Server.sock_to_message[sock]
+
+                            sock.close()
+
                     except Exception as e:
+                        print e
                         if sock in Server.sock_to_channels:
+                            print "LEAVING FROM EXCEPT"
                             m = utils.CLIENT_WIPE_ME + "\r" + utils.SERVER_CLIENT_LEFT_CHANNEL.format(Server.client_names[sock]) + "\n"
                             self.broadcast(self.socket, sock, self.pad(m))
                         continue
+
         self.socket.close()
 
     def pad(self, m):
@@ -83,9 +95,11 @@ class Server:
 
     def process_send(self, sock, data):
         if data[0] == "/":
+            print 1
             split = data.split()
 
             if split[0] == "/list":
+                print 2
                 for c in Server.channels:
                     m = utils.CLIENT_WIPE_ME + "\r" + c + "\n"
                     sock.send(self.pad(m))
@@ -98,6 +112,7 @@ class Server:
                     channel_name = split[1]
                     if channel_name not in Server.channels:
                         if sock in Server.sock_to_channels:
+                            print "LEAVING FROM CREATE"
                             m = utils.CLIENT_WIPE_ME + "\r" + utils.SERVER_CLIENT_LEFT_CHANNEL.format(Server.client_names[sock]) + "\n"
                             self.broadcast(self.socket, sock, self.pad(m))
                         Server.sock_to_channels[sock] = channel_name
@@ -117,6 +132,7 @@ class Server:
                         sock.send(self.pad(m))
                     else:
                         if sock in Server.sock_to_channels:
+                            print "LEAVING FROM JOIN"
                             m = utils.CLIENT_WIPE_ME + "\r" + utils.SERVER_CLIENT_LEFT_CHANNEL.format(Server.client_names[sock])
                             self.broadcast(self.socket, sock, self.pad(m))
                         Server.sock_to_channels[sock] = channel_name
@@ -134,7 +150,7 @@ class Server:
             m = utils.CLIENT_WIPE_ME + "\r" + utils.SERVER_CLIENT_NOT_IN_CHANNEL + "\n"
             sock.send(self.pad(m))
 
-    # broadcast chat messages to all connected clients
+    # broadcast chat messages to all connected clients in the same channel
     def broadcast(self, server_socket, sock, message):
         channel = None
         if sock in Server.sock_to_channels:
@@ -144,7 +160,7 @@ class Server:
             if Server.sock_to_channels[s] == channel and s != sock:
                 same_channel.append(s)
         for socket in same_channel:
-            # send the message only to peer
+            # send the message only to people in channel
             try :
                 socket.send(message)
             except :
@@ -152,7 +168,7 @@ class Server:
                 socket.close()
                 # broken socket, remove it
                 if socket in Server.SOCKET_LIST:
-                    SOCKET_LIST.remove(socket)
+                    Server.SOCKET_LIST.remove(socket)
 
 args = sys.argv
 if len(args) != 2:
