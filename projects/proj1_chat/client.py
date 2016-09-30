@@ -14,7 +14,7 @@ class Client:
             self.socket.connect((self.address, self.port))
             self.socket.send(self.pad(self.name))
         except :
-            sys.stdout.write(utils.CLIENT_CANNOT_CONNECT.format(address, port))
+            sys.stdout.write(utils.CLIENT_CANNOT_CONNECT.format(address, port) + "\n")
             sys.stdout.flush()
             sys.exit()
         sys.stdout.write(utils.CLIENT_MESSAGE_PREFIX)
