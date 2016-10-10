@@ -24,13 +24,7 @@ class LearningSwitch(api.Entity):
     """
 
     def __init__(self):
-        """
-        Do some initialization.
-
-        You probablty want to do something in this method.
-
-        """
-        pass
+        self.lookup = {}
 
     def handle_link_down(self, port):
         """
@@ -40,7 +34,12 @@ class LearningSwitch(api.Entity):
         valid here.
 
         """
-        pass
+        toDel = []
+        for dest in self.lookup:
+            if self.lookup[dest] == port:
+                toDel.append(dest)
+        for d in toDel:
+            del self.lookup[d]
 
     def handle_rx(self, packet, in_port):
         """
@@ -51,16 +50,18 @@ class LearningSwitch(api.Entity):
         or flooding them.
 
         """
-
-        # The source of the packet can obviously be reached via the input port, so
-        # we should "learn" that the source host is out that port.  If we later see
-        # a packet with that host as the *destination*, we know where to send it!
-        # But it's up to you to implement that.  For now, we just implement a
-        # simple hub.
-
+        # learn from source
+        src = packet.src
+        if src not in self.lookup:
+            self.lookup[packet.src] = in_port
+            
         if isinstance(packet, basics.HostDiscoveryPacket):
             # Don't forward discovery messages
             return
-
-        # Flood out all ports except the input port
-        self.send(packet, in_port, flood=True)
+        else:
+            dest = packet.dst
+            if dest in self.lookup:
+                self.send(packet, self.lookup[dest], flood=False)
+            else:
+                # Flood out all ports except the input port
+                self.send(packet, in_port, flood=True)
