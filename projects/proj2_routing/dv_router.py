@@ -9,7 +9,7 @@ INFINITY = 16
 
 class DVRouter(basics.DVRouterBase):
     # NO_LOG = True # Set to True on an instance to disable its logging
-    POISON_MODE = False # Can override POISON_MODE here
+    POISON_MODE = True # Can override POISON_MODE here
     DEFAULT_TIMER_INTERVAL = 5 # Can override this yourself for testing
 
     def __init__(self):
@@ -50,10 +50,16 @@ class DVRouter(basics.DVRouterBase):
 
         """
         dest = []
-
         for r in self.routing_table:
             if self.routing_table[r][1] == port:
                 dest.append(r)
+
+        del_direct = []
+        for x in self.direct:
+            if self.direct[x][0] == port:
+                del_direct.append(x)
+        if del_direct:
+            del self.direct[del_direct[0]]
 
         if DVRouter.POISON_MODE:
             for d in dest:
@@ -90,7 +96,7 @@ class DVRouter(basics.DVRouterBase):
 
             else:
                 if packet.latency == INFINITY and port == self.routing_table[packet.destination][1]: #TEST THIS LATER!!
-                    if packet.destination in self.direct:
+                    if packet.destination in self.direct: # and self.routing_table[packet.destination][0] is not packet.destination:
                         self.routing_table[packet.destination] = [packet.destination, self.direct[packet.destination][0], self.direct[packet.destination][1], api.current_time()]
                     else:
                         new_route_packet = basics.RoutePacket(packet.destination, INFINITY)
@@ -143,7 +149,13 @@ class DVRouter(basics.DVRouterBase):
         for r in self.routing_table:
             if api.current_time() - self.routing_table[r][3] > self.ROUTE_TIMEOUT:
                 if not isinstance(self.routing_table[r][0], api.HostEntity):
-                    delete.append(r)
+                    if r in self.direct:
+                        self.routing_table[r] = [r, self.direct[r][0], self.direct[r][1], api.current_time()]
+                        latency = self.routing_table[r][2]
+                        new_route_packet = basics.RoutePacket(r, latency)
+                        self.send(new_route_packet, self.routing_table[r][1], flood=True)
+                    else:
+                        delete.append(r)
                 else:
                     self.routing_table[r][3] = api.current_time()
             else:

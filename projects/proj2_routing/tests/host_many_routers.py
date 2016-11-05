@@ -191,8 +191,9 @@ def launch():
         r2.unlinkTo(c2)
         c2.unlinkTo(h3)
 
-        yield 25
 
+        yield 25
+        print(r3.routing_table)
         api.userlog.debug('Sending pings')
         h1.ping(h2)
         h1.ping(h3)

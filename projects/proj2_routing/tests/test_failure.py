@@ -57,7 +57,6 @@ def launch():
         s1.unlinkTo(s2)
 
         yield t
-
         api.userlog.debug("Sending test ping 2")
         h1.ping(h2)
 

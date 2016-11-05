@@ -25,7 +25,7 @@ def main():
     # t.test('learning_switch', 'tests.super_learning')
     # t.test('learning_switch', 'tests.test_learning')
 
-    t.test('dv_router', 'tests.host_many_routers')
+    # t.test('dv_router', 'tests.host_many_routers')
     # t.test('dv_router', 'tests.triangle')
     # t.test('dv_router', 'tests.multiple_failures')
     # t.test('dv_router', 'tests.diamond2')
@@ -42,17 +42,21 @@ def main():
     # t.test('dv_router', 'tests.piazza_test_link_weights_multi_router_host')
     # t.test('dv_router', 'tests.piazza_test_low_cost_late')
     # t.test('dv_router', 'tests.test_expire_routes')
-    # t.test('dv_router', 'tests.test_failure')
+    t.test('dv_router2', 'tests.test_failure')
     # t.test('dv_router', 'tests.test_initialize_neighbor')
     # t.test('dv_router', 'tests.test_link_weights')
     # t.test('dv_router', 'tests.test_no_hairpin')
     # t.test('dv_router', 'tests.test_simple')
     # t.test('dv_router', 'tests.test_split')
-
-    t.test(
-        'dv_router',
-        'tests.test_route_poisoning',
-        extra_args=['--poison-mode'])
+    # t.test('dv_router', 'tests.mul_routers')
+    # t.test('dv_router', 'tests.dc')
+    # t.test('dv_router', 'tests.host2')
+    # t.test('dv_router', 'tests.complex2')
+    #
+    # t.test(
+    #     'dv_router',
+    #     'tests.test_route_poisoning',
+    #     extra_args=['--poison-mode'])
 
     # Add your own tests here.
 
