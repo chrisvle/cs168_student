@@ -1,0 +1,1272 @@
+[
+  {
+    "Name": "google.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 196,
+        "Answers": [
+          {
+            "Queried name": "google.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 589243
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 280,
+        "Answers": [
+          {
+            "Queried name": "google.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 589243
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 206,
+        "Answers": [
+          {
+            "Queried name": "google.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 589243
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 207,
+        "Answers": [
+          {
+            "Queried name": "google.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 589242
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 190,
+        "Answers": [
+          {
+            "Queried name": "google.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 589242
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "youtube.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 218,
+        "Answers": [
+          {
+            "Queried name": "youtube.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 570151
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "youtube.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 197,
+        "Answers": [
+          {
+            "Queried name": "youtube.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 570151
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "youtube.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 196,
+        "Answers": [
+          {
+            "Queried name": "youtube.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 570151
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "youtube.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 197,
+        "Answers": [
+          {
+            "Queried name": "youtube.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 570150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "youtube.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 240,
+        "Answers": [
+          {
+            "Queried name": "youtube.com.",
+            "Data": "216.58.213.174",
+            "Type": "A",
+            "TTL": 570150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "facebook.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 215,
+        "Answers": [
+          {
+            "Queried name": "facebook.com.",
+            "Data": "31.13.92.36",
+            "Type": "A",
+            "TTL": 589410
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "facebook.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 209,
+        "Answers": [
+          {
+            "Queried name": "facebook.com.",
+            "Data": "31.13.92.36",
+            "Type": "A",
+            "TTL": 589410
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "facebook.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 211,
+        "Answers": [
+          {
+            "Queried name": "facebook.com.",
+            "Data": "31.13.92.36",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "facebook.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 317,
+        "Answers": [
+          {
+            "Queried name": "facebook.com.",
+            "Data": "31.13.92.36",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "facebook.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 199,
+        "Answers": [
+          {
+            "Queried name": "facebook.com.",
+            "Data": "31.13.92.36",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "baidu.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 216,
+        "Answers": [
+          {
+            "Queried name": "baidu.com.",
+            "Data": "180.149.132.47",
+            "Type": "A",
+            "TTL": 589410
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "123.125.114.144",
+            "Type": "A",
+            "TTL": 589410
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "111.13.101.208",
+            "Type": "A",
+            "TTL": 589410
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "220.181.57.217",
+            "Type": "A",
+            "TTL": 589410
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "baidu.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 197,
+        "Answers": [
+          {
+            "Queried name": "baidu.com.",
+            "Data": "180.149.132.47",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "123.125.114.144",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "111.13.101.208",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "220.181.57.217",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "baidu.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 213,
+        "Answers": [
+          {
+            "Queried name": "baidu.com.",
+            "Data": "180.149.132.47",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "123.125.114.144",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "111.13.101.208",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "220.181.57.217",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "baidu.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 190,
+        "Answers": [
+          {
+            "Queried name": "baidu.com.",
+            "Data": "180.149.132.47",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "123.125.114.144",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "111.13.101.208",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "220.181.57.217",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "baidu.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 190,
+        "Answers": [
+          {
+            "Queried name": "baidu.com.",
+            "Data": "180.149.132.47",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "123.125.114.144",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "111.13.101.208",
+            "Type": "A",
+            "TTL": 589409
+          },
+          {
+            "Queried name": "baidu.com.",
+            "Data": "220.181.57.217",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "wikipedia.org",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 235,
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.",
+            "Data": "91.198.174.192",
+            "Type": "A",
+            "TTL": 589409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "wikipedia.org",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 196,
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.",
+            "Data": "91.198.174.192",
+            "Type": "A",
+            "TTL": 589408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "wikipedia.org",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 203,
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.",
+            "Data": "91.198.174.192",
+            "Type": "A",
+            "TTL": 589408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "wikipedia.org",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 191,
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.",
+            "Data": "91.198.174.192",
+            "Type": "A",
+            "TTL": 589408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "wikipedia.org",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 212,
+        "Answers": [
+          {
+            "Queried name": "wikipedia.org.",
+            "Data": "91.198.174.192",
+            "Type": "A",
+            "TTL": 589408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "yahoo.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 196,
+        "Answers": [
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.138.253.109",
+            "Type": "A",
+            "TTL": 551211
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "206.190.36.45",
+            "Type": "A",
+            "TTL": 551211
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.139.183.24",
+            "Type": "A",
+            "TTL": 551211
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "yahoo.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 239,
+        "Answers": [
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.138.253.109",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "206.190.36.45",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.139.183.24",
+            "Type": "A",
+            "TTL": 551210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "yahoo.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 198,
+        "Answers": [
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.138.253.109",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "206.190.36.45",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.139.183.24",
+            "Type": "A",
+            "TTL": 551210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "yahoo.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 286,
+        "Answers": [
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.138.253.109",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "206.190.36.45",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.139.183.24",
+            "Type": "A",
+            "TTL": 551210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "yahoo.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 313,
+        "Answers": [
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.138.253.109",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "206.190.36.45",
+            "Type": "A",
+            "TTL": 551210
+          },
+          {
+            "Queried name": "yahoo.com.",
+            "Data": "98.139.183.24",
+            "Type": "A",
+            "TTL": 551210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.co.in",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 197,
+        "Answers": [
+          {
+            "Queried name": "google.co.in.",
+            "Data": "216.58.204.99",
+            "Type": "A",
+            "TTL": 589407
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.co.in",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 267,
+        "Answers": [
+          {
+            "Queried name": "google.co.in.",
+            "Data": "216.58.204.99",
+            "Type": "A",
+            "TTL": 589407
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.co.in",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 245,
+        "Answers": [
+          {
+            "Queried name": "google.co.in.",
+            "Data": "216.58.204.99",
+            "Type": "A",
+            "TTL": 589407
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.co.in",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 194,
+        "Answers": [
+          {
+            "Queried name": "google.co.in.",
+            "Data": "216.58.204.99",
+            "Type": "A",
+            "TTL": 589406
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "google.co.in",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 198,
+        "Answers": [
+          {
+            "Queried name": "google.co.in.",
+            "Data": "216.58.204.99",
+            "Type": "A",
+            "TTL": 589406
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "twitter.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 237,
+        "Answers": [
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.129",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.1",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.193",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.65",
+            "Type": "A",
+            "TTL": 589406
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "twitter.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 209,
+        "Answers": [
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.129",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.1",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.193",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.65",
+            "Type": "A",
+            "TTL": 589406
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "twitter.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 195,
+        "Answers": [
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.129",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.1",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.193",
+            "Type": "A",
+            "TTL": 589406
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.65",
+            "Type": "A",
+            "TTL": 589406
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "twitter.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 264,
+        "Answers": [
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.129",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.1",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.193",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.65",
+            "Type": "A",
+            "TTL": 589405
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "twitter.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 288,
+        "Answers": [
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.129",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.1",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.193",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "twitter.com.",
+            "Data": "104.244.42.65",
+            "Type": "A",
+            "TTL": 589405
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "amazon.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 196,
+        "Answers": [
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.192",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.7",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.6",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.208",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.200",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.26.128",
+            "Type": "A",
+            "TTL": 589405
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "amazon.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 244,
+        "Answers": [
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.192",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.7",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.6",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.208",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.200",
+            "Type": "A",
+            "TTL": 589405
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.26.128",
+            "Type": "A",
+            "TTL": 589405
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "amazon.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 321,
+        "Answers": [
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.192",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.7",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.6",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.208",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.200",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.26.128",
+            "Type": "A",
+            "TTL": 589404
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "amazon.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 324,
+        "Answers": [
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.192",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.7",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.6",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.208",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.200",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.26.128",
+            "Type": "A",
+            "TTL": 589404
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "amazon.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 260,
+        "Answers": [
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.192",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.7",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.17.6",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.208",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.25.200",
+            "Type": "A",
+            "TTL": 589404
+          },
+          {
+            "Queried name": "amazon.com.",
+            "Data": "54.239.26.128",
+            "Type": "A",
+            "TTL": 589404
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "qq.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 194,
+        "Answers": [
+          {
+            "Queried name": "qq.com.",
+            "Data": "61.135.157.156",
+            "Type": "A",
+            "TTL": 589399
+          },
+          {
+            "Queried name": "qq.com.",
+            "Data": "125.39.240.113",
+            "Type": "A",
+            "TTL": 589399
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "qq.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 224,
+        "Answers": [
+          {
+            "Queried name": "qq.com.",
+            "Data": "61.135.157.156",
+            "Type": "A",
+            "TTL": 589399
+          },
+          {
+            "Queried name": "qq.com.",
+            "Data": "125.39.240.113",
+            "Type": "A",
+            "TTL": 589399
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "qq.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 200,
+        "Answers": [
+          {
+            "Queried name": "qq.com.",
+            "Data": "61.135.157.156",
+            "Type": "A",
+            "TTL": 589399
+          },
+          {
+            "Queried name": "qq.com.",
+            "Data": "125.39.240.113",
+            "Type": "A",
+            "TTL": 589399
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "qq.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 196,
+        "Answers": [
+          {
+            "Queried name": "qq.com.",
+            "Data": "61.135.157.156",
+            "Type": "A",
+            "TTL": 589399
+          },
+          {
+            "Queried name": "qq.com.",
+            "Data": "125.39.240.113",
+            "Type": "A",
+            "TTL": 589399
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "qq.com",
+    "Success": true,
+    "Queries": [
+      {
+        "Time in millis": 191,
+        "Answers": [
+          {
+            "Queried name": "qq.com.",
+            "Data": "61.135.157.156",
+            "Type": "A",
+            "TTL": 589398
+          },
+          {
+            "Queried name": "qq.com.",
+            "Data": "125.39.240.113",
+            "Type": "A",
+            "TTL": 589398
+          }
+        ]
+      }
+    ]
+  }
+]

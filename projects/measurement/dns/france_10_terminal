@@ -1,0 +1,1985 @@
+; <<>> DiG 9.8.3-P1 <<>> google.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 667
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.com.		589243	IN	A	216.58.213.174
+
+
+
+;; Query time: 196 msec
+
+196 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:50 2016
+
+;; MSG SIZE  rcvd: 44
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56802
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.com.		589243	IN	A	216.58.213.174
+
+
+
+;; Query time: 280 msec
+
+280 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:50 2016
+
+;; MSG SIZE  rcvd: 44
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10920
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.com.		589243	IN	A	216.58.213.174
+
+
+
+;; Query time: 206 msec
+
+206 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:50 2016
+
+;; MSG SIZE  rcvd: 44
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23117
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.com.		589242	IN	A	216.58.213.174
+
+
+
+;; Query time: 207 msec
+
+207 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:50 2016
+
+;; MSG SIZE  rcvd: 44
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8308
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.com.		589242	IN	A	216.58.213.174
+
+
+
+;; Query time: 190 msec
+
+190 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:51 2016
+
+;; MSG SIZE  rcvd: 44
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> youtube.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47525
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;youtube.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+youtube.com.		570151	IN	A	216.58.213.174
+
+
+
+;; Query time: 218 msec
+
+218 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:51 2016
+
+;; MSG SIZE  rcvd: 45
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> youtube.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20653
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;youtube.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+youtube.com.		570151	IN	A	216.58.213.174
+
+
+
+;; Query time: 197 msec
+
+197 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:51 2016
+
+;; MSG SIZE  rcvd: 45
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> youtube.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41846
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;youtube.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+youtube.com.		570151	IN	A	216.58.213.174
+
+
+
+;; Query time: 196 msec
+
+196 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:51 2016
+
+;; MSG SIZE  rcvd: 45
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> youtube.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53313
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;youtube.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+youtube.com.		570150	IN	A	216.58.213.174
+
+
+
+;; Query time: 197 msec
+
+197 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:52 2016
+
+;; MSG SIZE  rcvd: 45
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> youtube.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4395
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;youtube.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+youtube.com.		570150	IN	A	216.58.213.174
+
+
+
+;; Query time: 240 msec
+
+240 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:52 2016
+
+;; MSG SIZE  rcvd: 45
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> facebook.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52433
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;facebook.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+facebook.com.		589410	IN	A	31.13.92.36
+
+
+
+;; Query time: 215 msec
+
+215 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:52 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> facebook.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27020
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;facebook.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+facebook.com.		589410	IN	A	31.13.92.36
+
+
+
+;; Query time: 209 msec
+
+209 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:52 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> facebook.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46280
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;facebook.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+facebook.com.		589409	IN	A	31.13.92.36
+
+
+
+;; Query time: 211 msec
+
+211 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:52 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> facebook.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11732
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;facebook.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+facebook.com.		589409	IN	A	31.13.92.36
+
+
+
+;; Query time: 317 msec
+
+317 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:53 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> facebook.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53359
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;facebook.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+facebook.com.		589409	IN	A	31.13.92.36
+
+
+
+;; Query time: 199 msec
+
+199 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:53 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> baidu.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8380
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;baidu.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+baidu.com.		589410	IN	A	180.149.132.47
+
+baidu.com.		589410	IN	A	123.125.114.144
+
+baidu.com.		589410	IN	A	111.13.101.208
+
+baidu.com.		589410	IN	A	220.181.57.217
+
+
+
+;; Query time: 216 msec
+
+216 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:53 2016
+
+;; MSG SIZE  rcvd: 91
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> baidu.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7153
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;baidu.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+baidu.com.		589409	IN	A	180.149.132.47
+
+baidu.com.		589409	IN	A	123.125.114.144
+
+baidu.com.		589409	IN	A	111.13.101.208
+
+baidu.com.		589409	IN	A	220.181.57.217
+
+
+
+;; Query time: 197 msec
+
+197 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:53 2016
+
+;; MSG SIZE  rcvd: 91
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> baidu.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27323
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;baidu.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+baidu.com.		589409	IN	A	180.149.132.47
+
+baidu.com.		589409	IN	A	123.125.114.144
+
+baidu.com.		589409	IN	A	111.13.101.208
+
+baidu.com.		589409	IN	A	220.181.57.217
+
+
+
+;; Query time: 213 msec
+
+213 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:54 2016
+
+;; MSG SIZE  rcvd: 91
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> baidu.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60896
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;baidu.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+baidu.com.		589409	IN	A	180.149.132.47
+
+baidu.com.		589409	IN	A	123.125.114.144
+
+baidu.com.		589409	IN	A	111.13.101.208
+
+baidu.com.		589409	IN	A	220.181.57.217
+
+
+
+;; Query time: 190 msec
+
+190 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:54 2016
+
+;; MSG SIZE  rcvd: 91
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> baidu.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10074
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;baidu.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+baidu.com.		589409	IN	A	180.149.132.47
+
+baidu.com.		589409	IN	A	123.125.114.144
+
+baidu.com.		589409	IN	A	111.13.101.208
+
+baidu.com.		589409	IN	A	220.181.57.217
+
+
+
+;; Query time: 190 msec
+
+190 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:54 2016
+
+;; MSG SIZE  rcvd: 91
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> wikipedia.org @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55325
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;wikipedia.org.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+wikipedia.org.		589409	IN	A	91.198.174.192
+
+
+
+;; Query time: 235 msec
+
+235 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:54 2016
+
+;; MSG SIZE  rcvd: 47
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> wikipedia.org @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4749
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;wikipedia.org.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+wikipedia.org.		589408	IN	A	91.198.174.192
+
+
+
+;; Query time: 196 msec
+
+196 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:55 2016
+
+;; MSG SIZE  rcvd: 47
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> wikipedia.org @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53720
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;wikipedia.org.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+wikipedia.org.		589408	IN	A	91.198.174.192
+
+
+
+;; Query time: 203 msec
+
+203 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:55 2016
+
+;; MSG SIZE  rcvd: 47
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> wikipedia.org @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41876
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;wikipedia.org.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+wikipedia.org.		589408	IN	A	91.198.174.192
+
+
+
+;; Query time: 191 msec
+
+191 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:55 2016
+
+;; MSG SIZE  rcvd: 47
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> wikipedia.org @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4916
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;wikipedia.org.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+wikipedia.org.		589408	IN	A	91.198.174.192
+
+
+
+;; Query time: 212 msec
+
+212 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:55 2016
+
+;; MSG SIZE  rcvd: 47
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> yahoo.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50864
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;yahoo.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+yahoo.com.		551211	IN	A	98.138.253.109
+
+yahoo.com.		551211	IN	A	206.190.36.45
+
+yahoo.com.		551211	IN	A	98.139.183.24
+
+
+
+;; Query time: 196 msec
+
+196 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:55 2016
+
+;; MSG SIZE  rcvd: 75
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> yahoo.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27147
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;yahoo.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+yahoo.com.		551210	IN	A	98.138.253.109
+
+yahoo.com.		551210	IN	A	206.190.36.45
+
+yahoo.com.		551210	IN	A	98.139.183.24
+
+
+
+;; Query time: 239 msec
+
+239 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:56 2016
+
+;; MSG SIZE  rcvd: 75
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> yahoo.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48566
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;yahoo.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+yahoo.com.		551210	IN	A	98.138.253.109
+
+yahoo.com.		551210	IN	A	206.190.36.45
+
+yahoo.com.		551210	IN	A	98.139.183.24
+
+
+
+;; Query time: 198 msec
+
+198 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:56 2016
+
+;; MSG SIZE  rcvd: 75
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> yahoo.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22806
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;yahoo.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+yahoo.com.		551210	IN	A	98.138.253.109
+
+yahoo.com.		551210	IN	A	206.190.36.45
+
+yahoo.com.		551210	IN	A	98.139.183.24
+
+
+
+;; Query time: 286 msec
+
+286 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:56 2016
+
+;; MSG SIZE  rcvd: 75
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> yahoo.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15944
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;yahoo.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+yahoo.com.		551210	IN	A	98.138.253.109
+
+yahoo.com.		551210	IN	A	206.190.36.45
+
+yahoo.com.		551210	IN	A	98.139.183.24
+
+
+
+;; Query time: 313 msec
+
+313 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:56 2016
+
+;; MSG SIZE  rcvd: 75
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.co.in @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52703
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.co.in.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.co.in.		589407	IN	A	216.58.204.99
+
+
+
+;; Query time: 197 msec
+
+197 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:57 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.co.in @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10806
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.co.in.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.co.in.		589407	IN	A	216.58.204.99
+
+
+
+;; Query time: 267 msec
+
+267 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:57 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.co.in @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20419
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.co.in.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.co.in.		589407	IN	A	216.58.204.99
+
+
+
+;; Query time: 245 msec
+
+245 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:57 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.co.in @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26344
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.co.in.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.co.in.		589406	IN	A	216.58.204.99
+
+
+
+;; Query time: 194 msec
+
+194 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:57 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> google.co.in @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47209
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;google.co.in.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+google.co.in.		589406	IN	A	216.58.204.99
+
+
+
+;; Query time: 198 msec
+
+198 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:58 2016
+
+;; MSG SIZE  rcvd: 46
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> twitter.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29497
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;twitter.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+twitter.com.		589406	IN	A	104.244.42.129
+
+twitter.com.		589406	IN	A	104.244.42.1
+
+twitter.com.		589406	IN	A	104.244.42.193
+
+twitter.com.		589406	IN	A	104.244.42.65
+
+
+
+;; Query time: 237 msec
+
+237 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:58 2016
+
+;; MSG SIZE  rcvd: 93
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> twitter.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38789
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;twitter.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+twitter.com.		589406	IN	A	104.244.42.129
+
+twitter.com.		589406	IN	A	104.244.42.1
+
+twitter.com.		589406	IN	A	104.244.42.193
+
+twitter.com.		589406	IN	A	104.244.42.65
+
+
+
+;; Query time: 209 msec
+
+209 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:58 2016
+
+;; MSG SIZE  rcvd: 93
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> twitter.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39440
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;twitter.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+twitter.com.		589406	IN	A	104.244.42.129
+
+twitter.com.		589406	IN	A	104.244.42.1
+
+twitter.com.		589406	IN	A	104.244.42.193
+
+twitter.com.		589406	IN	A	104.244.42.65
+
+
+
+;; Query time: 195 msec
+
+195 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:58 2016
+
+;; MSG SIZE  rcvd: 93
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> twitter.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52499
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;twitter.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+twitter.com.		589405	IN	A	104.244.42.129
+
+twitter.com.		589405	IN	A	104.244.42.1
+
+twitter.com.		589405	IN	A	104.244.42.193
+
+twitter.com.		589405	IN	A	104.244.42.65
+
+
+
+;; Query time: 264 msec
+
+264 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:59 2016
+
+;; MSG SIZE  rcvd: 93
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> twitter.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28077
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;twitter.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+twitter.com.		589405	IN	A	104.244.42.129
+
+twitter.com.		589405	IN	A	104.244.42.1
+
+twitter.com.		589405	IN	A	104.244.42.193
+
+twitter.com.		589405	IN	A	104.244.42.65
+
+
+
+;; Query time: 288 msec
+
+288 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:59 2016
+
+;; MSG SIZE  rcvd: 93
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> amazon.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18826
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;amazon.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+amazon.com.		589405	IN	A	54.239.25.192
+
+amazon.com.		589405	IN	A	54.239.17.7
+
+amazon.com.		589405	IN	A	54.239.17.6
+
+amazon.com.		589405	IN	A	54.239.25.208
+
+amazon.com.		589405	IN	A	54.239.25.200
+
+amazon.com.		589405	IN	A	54.239.26.128
+
+
+
+;; Query time: 196 msec
+
+196 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:59 2016
+
+;; MSG SIZE  rcvd: 124
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> amazon.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28764
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;amazon.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+amazon.com.		589405	IN	A	54.239.25.192
+
+amazon.com.		589405	IN	A	54.239.17.7
+
+amazon.com.		589405	IN	A	54.239.17.6
+
+amazon.com.		589405	IN	A	54.239.25.208
+
+amazon.com.		589405	IN	A	54.239.25.200
+
+amazon.com.		589405	IN	A	54.239.26.128
+
+
+
+;; Query time: 244 msec
+
+244 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:04:59 2016
+
+;; MSG SIZE  rcvd: 124
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> amazon.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34620
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;amazon.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+amazon.com.		589404	IN	A	54.239.25.192
+
+amazon.com.		589404	IN	A	54.239.17.7
+
+amazon.com.		589404	IN	A	54.239.17.6
+
+amazon.com.		589404	IN	A	54.239.25.208
+
+amazon.com.		589404	IN	A	54.239.25.200
+
+amazon.com.		589404	IN	A	54.239.26.128
+
+
+
+;; Query time: 321 msec
+
+321 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:00 2016
+
+;; MSG SIZE  rcvd: 124
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> amazon.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30057
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;amazon.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+amazon.com.		589404	IN	A	54.239.25.192
+
+amazon.com.		589404	IN	A	54.239.17.7
+
+amazon.com.		589404	IN	A	54.239.17.6
+
+amazon.com.		589404	IN	A	54.239.25.208
+
+amazon.com.		589404	IN	A	54.239.25.200
+
+amazon.com.		589404	IN	A	54.239.26.128
+
+
+
+;; Query time: 324 msec
+
+324 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:00 2016
+
+;; MSG SIZE  rcvd: 124
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> amazon.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 553
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;amazon.com.			IN	A
+
+
+
+;; ANSWER SECTION:
+
+amazon.com.		589404	IN	A	54.239.25.192
+
+amazon.com.		589404	IN	A	54.239.17.7
+
+amazon.com.		589404	IN	A	54.239.17.6
+
+amazon.com.		589404	IN	A	54.239.25.208
+
+amazon.com.		589404	IN	A	54.239.25.200
+
+amazon.com.		589404	IN	A	54.239.26.128
+
+
+
+;; Query time: 260 msec
+
+260 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:00 2016
+
+;; MSG SIZE  rcvd: 124
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> qq.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14988
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;qq.com.				IN	A
+
+
+
+;; ANSWER SECTION:
+
+qq.com.			589399	IN	A	61.135.157.156
+
+qq.com.			589399	IN	A	125.39.240.113
+
+
+
+;; Query time: 194 msec
+
+194 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:06 2016
+
+;; MSG SIZE  rcvd: 56
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> qq.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39572
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;qq.com.				IN	A
+
+
+
+;; ANSWER SECTION:
+
+qq.com.			589399	IN	A	61.135.157.156
+
+qq.com.			589399	IN	A	125.39.240.113
+
+
+
+;; Query time: 224 msec
+
+224 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:06 2016
+
+;; MSG SIZE  rcvd: 56
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> qq.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36708
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;qq.com.				IN	A
+
+
+
+;; ANSWER SECTION:
+
+qq.com.			589399	IN	A	61.135.157.156
+
+qq.com.			589399	IN	A	125.39.240.113
+
+
+
+;; Query time: 200 msec
+
+200 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:06 2016
+
+;; MSG SIZE  rcvd: 56
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> qq.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4787
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;qq.com.				IN	A
+
+
+
+;; ANSWER SECTION:
+
+qq.com.			589399	IN	A	61.135.157.156
+
+qq.com.			589399	IN	A	125.39.240.113
+
+
+
+;; Query time: 196 msec
+
+196 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:06 2016
+
+;; MSG SIZE  rcvd: 56
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> qq.com @80.65.225.62
+
+;; global options: +cmd
+
+;; Got answer:
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56601
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+
+
+;; QUESTION SECTION:
+
+;qq.com.				IN	A
+
+
+
+;; ANSWER SECTION:
+
+qq.com.			589398	IN	A	61.135.157.156
+
+qq.com.			589398	IN	A	125.39.240.113
+
+
+
+;; Query time: 191 msec
+
+191 msec
+;; SERVER: 80.65.225.62#53(80.65.225.62)
+
+;; WHEN: Wed Nov  9 20:05:06 2016
+
+;; MSG SIZE  rcvd: 56

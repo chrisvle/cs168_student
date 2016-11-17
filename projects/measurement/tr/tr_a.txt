@@ -1,0 +1,865 @@
+timestamp 1478406236.89
+hostname google.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.304 ms  15.627 ms  17.760 ms  16.261 ms  20.932 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  18.062 ms  19.123 ms  17.285 ms  15.606 ms  16.844 ms
+ 3  [AS25] xe-5-2-0.inr-002-reccev.berkeley.edu (128.32.0.38)  19.073 ms  17.993 ms  18.314 ms  22.652 ms  14.971 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  14.705 ms  20.492 ms  19.213 ms  17.467 ms  19.553 ms
+ 5  [AS15169] 74.125.48.172 (74.125.48.172)  18.319 ms  22.528 ms  17.303 ms  20.399 ms  17.466 ms
+ 6  [AS15169] 108.170.242.81 (108.170.242.81)  20.240 ms  19.372 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  21.441 ms  22.154 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  21.348 ms
+ 7  [AS15169] 108.170.237.147 (108.170.237.147)  19.986 ms  44.948 ms  75.834 ms
+    [AS15169] 108.170.237.145 (108.170.237.145)  16.938 ms
+    [AS15169] 108.170.237.147 (108.170.237.147)  242.087 ms
+ 8  [AS15169] nuq04s29-in-f14.1e100.net (216.58.192.14)  20.631 ms  17.922 ms  17.542 ms  134.313 ms  18.683 ms
+
+hostname facebook.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  20.232 ms  16.131 ms  17.647 ms  136.030 ms  171.886 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  15.564 ms  15.442 ms  16.182 ms  138.803 ms  169.842 ms
+ 3  [AS25] xe-0-2-0.inr-002-reccev.berkeley.edu (128.32.0.36)  20.273 ms  15.116 ms  15.162 ms  15.287 ms  15.739 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  16.304 ms  79.027 ms  17.543 ms  16.861 ms  16.504 ms
+ 5  [AS2152] zayo--oak-agg4-paix-sv8.cenic.net (198.32.251.126)  18.330 ms  18.606 ms  18.093 ms  19.054 ms  18.444 ms
+ 6  [AS0] ae6.cr1.sjc2.us.zip.zayo.com (64.125.31.45)  18.960 ms  21.282 ms *  20.367 ms  17.995 ms
+ 7  [AS0] ae27.cs1.sjc2.us.eth.zayo.com (64.125.30.230)  86.890 ms  113.642 ms  87.755 ms  85.813 ms  87.472 ms
+ 8  [AS0] ae2.cs1.lax112.us.eth.zayo.com (64.125.28.145)  84.459 ms  101.884 ms  86.639 ms  86.201 ms  158.444 ms
+ 9  [AS0] ae3.cs1.dfw2.us.eth.zayo.com (64.125.29.52)  86.201 ms  85.514 ms  131.348 ms  85.127 ms  85.428 ms
+10  [AS0] ae5.cs1.iah1.us.eth.zayo.com (64.125.28.98)  121.600 ms  86.646 ms  87.888 ms  88.147 ms  97.141 ms
+11  [AS0] ae3.cs1.dca2.us.eth.zayo.com (64.125.29.48)  108.263 ms  85.501 ms  86.728 ms  85.343 ms  86.294 ms
+12  [AS0] ae27.cr1.dca2.us.zip.zayo.com (64.125.30.247)  118.512 ms  83.047 ms  82.607 ms  84.803 ms  82.232 ms
+13  * * * * *
+14  [AS3557] 128.177.165.238.ipyx-100687-840-zyo.zip.zayo.com (128.177.165.238)  92.691 ms  94.522 ms  101.074 ms  87.700 ms  162.305 ms
+15  [AS32934] po101.psw01c.iad3.tfbnw.net (31.13.27.99)  126.798 ms
+    [AS32934] po101.psw01a.iad3.tfbnw.net (31.13.27.89)  88.508 ms
+    [AS32934] po101.psw01c.iad3.tfbnw.net (31.13.27.99)  87.155 ms
+    [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  148.649 ms
+    [AS32934] po101.psw01d.iad3.tfbnw.net (31.13.27.215)  88.736 ms
+16  [AS32934] 173.252.67.147 (173.252.67.147)  87.885 ms
+    [AS32934] 173.252.67.45 (173.252.67.45)  126.318 ms
+    [AS32934] 173.252.67.137 (173.252.67.137)  87.828 ms
+    [AS32934] 173.252.67.27 (173.252.67.27)  140.087 ms
+    [AS32934] 173.252.67.147 (173.252.67.147)  87.646 ms
+17  [AS32934] edge-star-mini-shv-01-iad3.facebook.com (31.13.69.228)  88.163 ms  87.726 ms  90.477 ms  87.174 ms  90.237 ms
+
+hostname www.berkeley.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  47.043 ms  16.111 ms  15.590 ms  14.997 ms  16.422 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.763 ms  16.133 ms  21.232 ms  16.845 ms  20.337 ms
+ 3  [AS25] e3-47.inr-310-ewdc.berkeley.edu (128.32.0.99)  19.954 ms  15.771 ms  15.739 ms  16.705 ms  16.231 ms
+ 4  [AS25] calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  15.526 ms  18.478 ms  160.021 ms  15.605 ms  15.232 ms
+
+hostname allspice.lcs.mit.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.506 ms  15.898 ms  14.971 ms  15.228 ms  15.458 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.519 ms  19.600 ms  15.932 ms  17.410 ms  15.717 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  16.686 ms  18.843 ms  15.828 ms  17.226 ms  15.695 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  18.511 ms  17.198 ms  17.151 ms  20.644 ms  19.915 ms
+ 5  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  42.744 ms  90.921 ms  45.137 ms  42.528 ms  42.190 ms
+ 6  [AS0] et-7-3-0.4070.rtsw.salt.net.internet2.edu (198.71.45.24)  44.990 ms  45.092 ms  57.404 ms  63.393 ms  44.353 ms
+ 7  [AS0] et-4-1-0.4070.rtsw.kans.net.internet2.edu (198.71.45.18)  71.690 ms  142.116 ms  74.205 ms  71.371 ms  71.326 ms
+ 8  [AS0] et-5-3-0.4070.rtsw.chic.net.internet2.edu (198.71.45.14)  86.982 ms  83.170 ms  219.263 ms  174.682 ms  92.737 ms
+ 9  [AS0] et-4-1-0.4070.rtsw.clev.net.internet2.edu (198.71.45.9)  91.919 ms  94.313 ms  92.082 ms  94.345 ms  91.124 ms
+10  [AS0] nox1sumgw1-i2-re.nox.org (192.5.89.17)  105.087 ms  108.272 ms  104.862 ms  106.278 ms  104.925 ms
+11  [AS549] mit-re-nox1sumgw1.nox.org (207.210.143.110)  143.560 ms  109.469 ms  149.256 ms  227.969 ms  248.176 ms
+12  [AS3] dmz-rtr-1-external-rtr-3.mit.edu (18.192.7.1)  151.926 ms  168.642 ms  171.498 ms *  107.265 ms
+13  [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  107.438 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  106.754 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  105.903 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  105.363 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  105.785 ms
+14  * * * * *
+15  [AS3] helicon-ext.trantor.csail.mit.edu (128.30.13.6)  231.565 ms  167.744 ms  172.527 ms  167.400 ms  178.118 ms
+16  * * * * *
+17  [AS3] mercury.lcs.mit.edu (18.26.0.122)  106.536 ms !Z  104.858 ms !Z  143.282 ms !Z  106.029 ms !Z  106.577 ms !Z
+
+hostname todayhumor.co.kr
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.180 ms  15.419 ms  15.774 ms  17.729 ms  15.593 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  17.085 ms  15.852 ms  15.512 ms  15.881 ms  16.685 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  15.398 ms  15.550 ms  16.509 ms  15.634 ms  24.677 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  18.414 ms  17.126 ms  78.565 ms  18.141 ms  19.506 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7)  18.984 ms  21.057 ms  21.459 ms  19.604 ms  19.451 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  17.573 ms  21.165 ms  18.347 ms  17.836 ms  18.462 ms
+ 7  * * * * *
+ 8  [AS12956] 213.140.53.132 (213.140.53.132)  84.861 ms  85.874 ms  84.794 ms  84.796 ms  87.124 ms
+ 9  [AS0] te0-8-0-3-grtmiabr6.net.telefonicaglobalsolutions.com (94.142.126.185)  110.430 ms
+    [AS0] te0-3-0-10-grtmiabr6.net.telefonicaglobalsolutions.com (94.142.122.158)  97.028 ms
+    [AS0] te0-2-0-8-grtmiabr6.net.telefonicaglobalsolutions.com (176.52.255.10)  98.008 ms
+    [AS0] te0-1-0-8-grtmiabr6.net.telefonicaglobalsolutions.com (5.53.5.214)  98.306 ms
+    [AS0] xe13-1-8-0-grtmiabr4.red.telefonica-wholesale.net (176.52.249.121)  94.417 ms
+10  [AS12956] et-27-0-0-0-4-grtmiabr4.red.telefonica-wholesale.net (84.16.15.129)  105.631 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  99.888 ms *
+    [AS12956] et-27-0-0-0-4-grtmiabr4.red.telefonica-wholesale.net (84.16.15.129)  248.968 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  199.361 ms
+11  [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  167.059 ms * *
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  104.259 ms *
+12  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  156.534 ms
+    [AS13335] 141.101.121.192 (141.101.121.192)  171.232 ms  98.222 ms
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  100.068 ms  104.252 ms
+
+hostname www.city.kobe.lg.jp
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  43.110 ms  17.089 ms  16.217 ms  15.782 ms  15.868 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.493 ms  16.013 ms  16.525 ms  18.075 ms  17.070 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  16.347 ms  15.928 ms  15.711 ms  19.460 ms  16.590 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  21.828 ms  17.966 ms  17.763 ms  17.029 ms  16.026 ms
+ 5  [AS2152] dc-oak-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.11)  16.823 ms  17.668 ms  16.739 ms  17.394 ms  17.257 ms
+ 6  [AS2152] dc-paix-px1--oak-agg4-10ge.cenic.net (137.164.47.174)  19.228 ms  18.176 ms  21.363 ms  22.489 ms  18.274 ms
+ 7  [AS4637] ix-pa3.kddnet.ad.jp (198.32.176.66)  21.563 ms  22.058 ms  18.239 ms  36.442 ms  17.772 ms
+ 8  [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  17.815 ms
+    [AS2516] pajbb001.kddnet.ad.jp (124.211.34.125)  75.874 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  22.790 ms
+    [AS2516] pajbb002.kddnet.ad.jp (124.211.34.133)  17.788 ms
+    [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  21.747 ms
+ 9  [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  163.156 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.85)  203.834 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  135.306 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.181)  176.278 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  130.872 ms
+10  [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.86)  125.928 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.118)  157.850 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.10)  137.946 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.82)  132.825 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.34)  122.844 ms
+11  [AS2516] 125.29.30.126 (125.29.30.126)  129.399 ms  189.162 ms  132.133 ms  122.836 ms  146.438 ms
+12  [AS17511] 121.83.230.226 (121.83.230.226)  252.367 ms  130.192 ms  129.728 ms
+    [AS17511] 121.83.230.230 (121.83.230.230)  130.757 ms  176.012 ms
+13  [AS17511] 121.83.231.122 (121.83.231.122)  172.382 ms  124.309 ms  130.346 ms
+    [AS17511] 121.83.231.126 (121.83.231.126)  135.785 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  131.240 ms
+14  [AS17511] 218.228.242.6 (218.228.242.6)  123.591 ms  204.106 ms  143.914 ms  171.749 ms  126.643 ms
+15  [AS17511] kobecity.kobe-ic.net (203.140.74.187)  170.262 ms  171.139 ms  168.165 ms  169.460 ms  170.609 ms
+16  [AS17511] 202.246.160.48 (202.246.160.48)  128.581 ms  143.391 ms  126.902 ms  130.979 ms  190.432 ms
+
+hostname www.vutbr.cz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.392 ms  15.361 ms  16.110 ms  21.265 ms  18.447 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  15.956 ms  17.402 ms  16.003 ms  16.302 ms  15.478 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  15.870 ms  18.780 ms  18.332 ms  15.780 ms  17.236 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  18.157 ms  21.313 ms  20.113 ms  18.156 ms  17.658 ms
+ 5  [AS2152] hpr-lax-hpr3--svl-hpr3-100ge.cenic.net (137.164.25.73)  25.594 ms  25.084 ms  26.924 ms  28.632 ms  26.455 ms
+ 6  [AS2152] hpr-i2--lax-hpr2-r&e.cenic.net (137.164.26.201)  25.929 ms  26.612 ms  26.142 ms  25.125 ms  25.317 ms
+ 7  [AS0] et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  59.150 ms  58.142 ms  58.042 ms  66.220 ms  107.978 ms
+ 8  [AS0] et-3-3-0.4070.rtsw.atla.net.internet2.edu (198.71.45.12)  84.715 ms  84.716 ms  77.164 ms  84.864 ms  82.225 ms
+ 9  [AS0] et-11-1-0.4072.rtsw.wash.net.internet2.edu (198.71.45.7)  143.899 ms  273.495 ms  97.790 ms  95.060 ms  94.607 ms
+10  [AS21320] internet2.mx1.lon.uk.geant.net (62.40.124.44)  174.589 ms  169.771 ms  169.954 ms  171.920 ms  170.528 ms
+11  [AS21320] ae0.mx1.ams.nl.geant.net (62.40.98.81)  194.551 ms  194.016 ms  197.785 ms  194.334 ms  197.770 ms
+12  [AS21320] ae0.mx1.fra.de.geant.net (62.40.98.128)  194.988 ms  199.204 ms  265.717 ms  194.454 ms  193.683 ms
+13  [AS21320] ae4.mx1.pra.cz.geant.net (62.40.98.74)  194.126 ms  192.489 ms  190.549 ms  195.026 ms  186.562 ms
+14  [AS21320] cesnet-gw.mx1.pra.cz.geant.net (62.40.124.30)  192.108 ms  198.039 ms  192.942 ms  190.259 ms  192.162 ms
+15  [AS2852] 195.113.235.81 (195.113.235.81)  199.924 ms  227.710 ms  246.026 ms  317.976 ms  200.502 ms
+16  [AS5588] 62.168.32.34 (62.168.32.34)  313.475 ms  303.943 ms  296.971 ms  194.199 ms  316.830 ms
+17  [AS197451] pe-kou.net.vutbr.cz (147.229.252.113)  195.707 ms  194.834 ms  202.388 ms  195.464 ms  197.007 ms
+18  [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  197.068 ms  196.767 ms  195.508 ms  198.240 ms  194.957 ms
+19  [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  210.906 ms !Z  308.764 ms !Z  305.221 ms !Z  208.495 ms !Z  303.517 ms !Z
+
+hostname zanvarsity.ac.tz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  73.843 ms  15.874 ms  15.286 ms  15.665 ms  16.123 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  16.229 ms  20.466 ms  17.412 ms  15.720 ms  17.856 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  18.650 ms  16.796 ms  15.889 ms  17.490 ms  17.320 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  20.441 ms  17.276 ms  16.915 ms  17.372 ms  16.807 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  18.808 ms  18.181 ms  18.516 ms  18.248 ms  20.889 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  19.264 ms  22.874 ms  20.387 ms  18.713 ms  17.955 ms
+ 7  [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  152.663 ms
+    [AS3356] ae-116-3502.edge3.london15.level3.net (4.69.167.78)  154.167 ms
+    [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  153.252 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  154.554 ms
+    [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  154.728 ms
+ 8  [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  194.226 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  155.798 ms
+    [AS3356] ae-227-3603.edge3.london15.level3.net (4.69.167.98)  154.069 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  154.834 ms
+    [AS3356] ae-115-3501.edge3.london15.level3.net (4.69.167.74)  152.542 ms
+ 9  [AS9057] wananchi-gr.edge3.london15.level3.net (212.113.9.182)  194.175 ms  152.442 ms  156.401 ms  153.535 ms  157.331 ms
+10  [AS15399] 41.212.1.86 (41.212.1.86)  153.248 ms  186.908 ms  184.509 ms  182.146 ms  165.116 ms
+11  [AS15399] 82.2.212.41.in-addr.arpa (41.212.2.82)  336.984 ms  288.000 ms  336.194 ms  339.188 ms  345.045 ms
+12  [AS36930] 41.204.128.169 (41.204.128.169)  328.509 ms  340.852 ms  344.547 ms  317.720 ms  287.605 ms
+13  * * * * *
+14  [AS36930] 41.204.148.5 (41.204.148.5)  290.121 ms  329.989 ms  355.818 ms *  337.835 ms
+15  [AS36930] 41.204.148.1 (41.204.148.1)  384.598 ms  344.159 ms  300.549 ms  311.231 ms  409.534 ms
+
+done
+
+timestamp 1478410135.82
+hostname google.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.980 ms  18.447 ms  18.503 ms  32.812 ms  17.524 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  62.910 ms  16.246 ms  16.158 ms  16.602 ms  15.533 ms
+ 3  [AS25] xe-5-2-0.inr-002-reccev.berkeley.edu (128.32.0.38)  15.610 ms  17.419 ms  18.100 ms  17.456 ms  15.064 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  16.670 ms  20.303 ms  28.868 ms  16.571 ms  16.586 ms
+ 5  [AS15169] 74.125.48.172 (74.125.48.172)  16.984 ms  17.237 ms  17.071 ms  26.690 ms  23.053 ms
+ 6  [AS15169] 108.170.242.81 (108.170.242.81)  17.651 ms  33.123 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  17.603 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  22.719 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  90.801 ms
+ 7  [AS15169] 108.170.235.237 (108.170.235.237)  18.892 ms  18.160 ms  50.045 ms
+    [AS15169] 108.170.235.239 (108.170.235.239)  414.286 ms  95.842 ms
+ 8  [AS15169] sfo07s16-in-f14.1e100.net (216.58.195.78)  18.288 ms  20.253 ms  134.883 ms  126.958 ms  19.802 ms
+
+hostname facebook.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  169.270 ms  17.340 ms  15.505 ms  138.135 ms  15.826 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  15.022 ms  17.072 ms  15.801 ms  15.895 ms  15.977 ms
+ 3  [AS25] xe-0-2-0.inr-002-reccev.berkeley.edu (128.32.0.36)  26.371 ms  15.890 ms  17.124 ms  15.435 ms  15.571 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  17.198 ms  16.034 ms  15.863 ms  16.316 ms  16.652 ms
+ 5  [AS2152] zayo--oak-agg4-paix-sv8.cenic.net (198.32.251.126)  17.285 ms  18.260 ms  17.228 ms  16.954 ms  18.620 ms
+ 6  [AS0] ae6.cr1.sjc2.us.zip.zayo.com (64.125.31.45)  18.961 ms  19.181 ms  46.847 ms  74.970 ms  20.709 ms
+ 7  [AS0] ae27.cs1.sjc2.us.eth.zayo.com (64.125.30.230)  82.273 ms  85.230 ms  104.070 ms  84.939 ms  82.260 ms
+ 8  [AS0] ae2.cs1.lax112.us.eth.zayo.com (64.125.28.145)  82.586 ms  109.565 ms  81.876 ms  130.730 ms  82.470 ms
+ 9  [AS0] ae3.cs1.dfw2.us.eth.zayo.com (64.125.29.52)  82.860 ms  83.734 ms  87.058 ms  91.995 ms  150.894 ms
+10  [AS0] ae5.cs1.iah1.us.eth.zayo.com (64.125.28.98)  110.693 ms  83.569 ms  83.615 ms  85.543 ms  83.220 ms
+11  [AS0] ae3.cs1.dca2.us.eth.zayo.com (64.125.29.48)  84.370 ms  82.766 ms  82.517 ms  85.989 ms  90.956 ms
+12  [AS0] ae27.cr1.dca2.us.zip.zayo.com (64.125.30.247)  83.632 ms  81.495 ms  85.306 ms  83.615 ms  87.630 ms
+13  * * * * *
+14  [AS3557] 128.177.165.238.ipyx-100687-840-zyo.zip.zayo.com (128.177.165.238)  132.607 ms  172.009 ms  168.821 ms  170.741 ms  172.277 ms
+15  [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  88.066 ms
+    [AS32934] po101.psw01a.iad3.tfbnw.net (31.13.27.89)  88.498 ms  133.109 ms
+    [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  88.495 ms
+    [AS32934] po101.psw01a.iad3.tfbnw.net (31.13.27.89)  91.176 ms
+16  [AS32934] 173.252.67.187 (173.252.67.187)  87.143 ms
+    [AS32934] 173.252.67.199 (173.252.67.199)  111.212 ms
+    [AS32934] 173.252.67.95 (173.252.67.95)  89.797 ms  90.337 ms
+    [AS32934] 173.252.67.137 (173.252.67.137)  92.868 ms
+17  [AS32934] edge-star-mini-shv-01-iad3.facebook.com (31.13.69.228)  86.435 ms  91.942 ms  86.689 ms  87.075 ms  89.294 ms
+
+hostname www.berkeley.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.171 ms  15.162 ms  15.161 ms  15.738 ms  18.285 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  17.840 ms  15.848 ms  15.947 ms  15.366 ms  15.231 ms
+ 3  [AS25] e3-47.inr-310-ewdc.berkeley.edu (128.32.0.99)  15.195 ms  17.239 ms  15.203 ms  14.952 ms  16.221 ms
+ 4  [AS25] calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  14.970 ms  15.512 ms  19.200 ms  18.255 ms  15.806 ms
+
+hostname allspice.lcs.mit.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  17.009 ms  15.311 ms  17.007 ms  16.090 ms  18.453 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.804 ms  15.771 ms  25.050 ms  16.053 ms  15.267 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  19.437 ms  23.687 ms  16.960 ms  15.199 ms  16.046 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  17.692 ms  18.025 ms  17.500 ms  17.638 ms  17.304 ms
+ 5  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  45.281 ms  42.081 ms  100.142 ms  42.156 ms  42.296 ms
+ 6  [AS0] et-7-3-0.4070.rtsw.salt.net.internet2.edu (198.71.45.24)  46.611 ms  44.638 ms  47.505 ms  44.517 ms  44.524 ms
+ 7  [AS0] et-4-1-0.4070.rtsw.kans.net.internet2.edu (198.71.45.18)  75.575 ms  72.049 ms  75.390 ms  139.776 ms  74.370 ms
+ 8  [AS0] et-5-3-0.4070.rtsw.chic.net.internet2.edu (198.71.45.14)  82.442 ms  82.989 ms  87.609 ms  82.605 ms  82.364 ms
+ 9  [AS0] et-4-1-0.4070.rtsw.clev.net.internet2.edu (198.71.45.9)  92.362 ms  92.724 ms  92.175 ms  95.876 ms  93.628 ms
+10  [AS0] nox1sumgw1-i2-re.nox.org (192.5.89.17)  115.372 ms  105.583 ms  118.314 ms  105.414 ms  114.544 ms
+11  [AS549] mit-re-nox1sumgw1.nox.org (207.210.143.110)  108.724 ms  108.194 ms  105.537 ms  108.954 ms  104.702 ms
+12  [AS3] dmz-rtr-1-external-rtr-3.mit.edu (18.192.7.1)  106.120 ms  106.255 ms  108.594 ms  106.483 ms  104.912 ms
+13  [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  172.759 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  104.949 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  110.503 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  104.715 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  106.840 ms
+14  * * * * *
+15  [AS3] helicon-ext.trantor.csail.mit.edu (128.30.13.6)  109.491 ms  105.026 ms  106.450 ms  107.542 ms  105.194 ms
+16  * * * * *
+17  [AS3] mercury.lcs.mit.edu (18.26.0.122)  123.211 ms !Z  104.703 ms !Z  111.387 ms !Z  106.130 ms !Z  104.125 ms !Z
+
+hostname todayhumor.co.kr
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  19.307 ms  15.713 ms  15.183 ms  14.954 ms  15.721 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  16.628 ms  15.314 ms  15.359 ms  16.314 ms  16.015 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  17.186 ms  21.512 ms  17.594 ms  15.950 ms  50.405 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  16.294 ms  16.911 ms  16.445 ms  16.943 ms  16.920 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7)  18.222 ms  17.926 ms  17.731 ms  17.831 ms  20.792 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  21.611 ms  17.442 ms  17.304 ms  20.165 ms  18.023 ms
+ 7  * * * * *
+ 8  [AS12956] 213.140.53.132 (213.140.53.132)  114.604 ms  171.420 ms  170.162 ms  173.639 ms  151.650 ms
+ 9  [AS0] te0-3-0-9-grtmiabr6.red.telefonica-wholesale.net (176.52.249.129)  147.607 ms
+    [AS12956] xe9-0-16-0-grtmiabr2.red.telefonica-wholesale.net (213.140.35.51)  150.578 ms
+    [AS0] te0-3-0-10-grtmiabr6.net.telefonicaglobalsolutions.com (94.142.122.158)  150.751 ms
+    [AS0] te0-3-0-9-grtmiabr6.red.telefonica-wholesale.net (176.52.249.129)  179.383 ms  172.157 ms
+10  * [AS12956] et-27-0-0-0-4-grtmiabr4.red.telefonica-wholesale.net (84.16.15.129)  98.797 ms  97.688 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  117.032 ms  107.020 ms
+11  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  99.524 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  106.380 ms * *
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  102.355 ms
+12  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  93.879 ms
+    [AS13335] 141.101.121.191 (141.101.121.191)  120.783 ms  100.860 ms
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  105.768 ms  96.828 ms
+
+hostname www.city.kobe.lg.jp
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.616 ms  16.218 ms  17.533 ms  18.379 ms  16.967 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.363 ms  16.171 ms  15.623 ms  16.409 ms  15.007 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  15.713 ms  21.960 ms  15.141 ms  15.937 ms  15.805 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  15.897 ms  20.233 ms  22.038 ms  15.976 ms  16.060 ms
+ 5  [AS2152] dc-oak-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.11)  17.260 ms  17.206 ms  16.713 ms  20.663 ms  19.321 ms
+ 6  [AS2152] dc-paix-px1--oak-agg4-10ge.cenic.net (137.164.47.174)  18.230 ms  17.540 ms  16.961 ms  33.398 ms  22.495 ms
+ 7  [AS4637] ix-pa3.kddnet.ad.jp (198.32.176.66)  38.509 ms  18.586 ms  18.152 ms  92.651 ms  28.844 ms
+ 8  [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  21.180 ms
+    [AS2516] pajbb002.kddnet.ad.jp (124.211.34.133)  18.501 ms
+    [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  18.063 ms
+    [AS2516] pajbb001.kddnet.ad.jp (124.211.34.125)  58.870 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  25.449 ms
+ 9  [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  155.432 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.181)  189.399 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  152.745 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.85)  124.241 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  140.824 ms
+10  [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.10)  143.331 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.82)  200.620 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.38)  129.233 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.118)  124.892 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.114)  134.139 ms
+11  [AS2516] 125.29.30.126 (125.29.30.126)  128.788 ms  129.062 ms  129.686 ms  131.580 ms  132.458 ms
+12  [AS17511] 121.83.230.230 (121.83.230.230)  126.680 ms
+    [AS17511] 121.83.230.226 (121.83.230.226)  134.005 ms
+    [AS17511] 121.83.230.230 (121.83.230.230)  129.568 ms  133.870 ms  187.559 ms
+13  [AS17511] 121.83.231.122 (121.83.231.122)  132.607 ms  129.244 ms  134.082 ms  124.676 ms  128.905 ms
+14  [AS17511] 218.228.242.6 (218.228.242.6)  130.149 ms  129.921 ms  127.452 ms  128.513 ms  190.333 ms
+15  [AS17511] kobecity.kobe-ic.net (203.140.74.187)  136.553 ms  149.236 ms  137.419 ms  132.869 ms  137.824 ms
+16  [AS17511] 202.246.160.48 (202.246.160.48)  124.717 ms  132.154 ms  128.153 ms  129.013 ms  127.494 ms
+
+hostname www.vutbr.cz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  148.888 ms  20.625 ms  160.038 ms  28.508 ms  15.605 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  408.855 ms  28.030 ms *  34.355 ms  70.770 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  16.690 ms  15.154 ms  18.999 ms  17.191 ms  16.665 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  21.527 ms  41.539 ms  46.940 ms  52.294 ms  20.522 ms
+ 5  [AS2152] hpr-lax-hpr3--svl-hpr3-100ge.cenic.net (137.164.25.73)  32.242 ms  58.434 ms  23.414 ms  27.149 ms  29.132 ms
+ 6  [AS2152] hpr-i2--lax-hpr2-r&e.cenic.net (137.164.26.201)  27.870 ms  48.362 ms  89.457 ms  29.766 ms  24.762 ms
+ 7  [AS0] et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  59.272 ms  69.150 ms  159.126 ms  78.050 ms  122.394 ms
+ 8  [AS0] et-3-3-0.4070.rtsw.atla.net.internet2.edu (198.71.45.12)  84.264 ms  81.981 ms  84.164 ms  95.278 ms  90.991 ms
+ 9  [AS0] et-11-1-0.4072.rtsw.wash.net.internet2.edu (198.71.45.7)  94.456 ms  95.631 ms  96.572 ms  163.578 ms  95.532 ms
+10  [AS21320] internet2.mx1.lon.uk.geant.net (62.40.124.44)  169.348 ms  320.928 ms  169.887 ms  172.571 ms  169.655 ms
+11  [AS21320] ae0.mx1.ams.nl.geant.net (62.40.98.81)  194.631 ms  196.306 ms  244.955 ms  194.575 ms  198.277 ms
+12  [AS21320] ae0.mx1.fra.de.geant.net (62.40.98.128)  194.729 ms  574.628 ms  218.150 ms  222.364 ms  200.567 ms
+13  * [AS21320] ae4.mx1.pra.cz.geant.net (62.40.98.74)  271.105 ms  253.043 ms  191.894 ms  195.165 ms
+14  [AS21320] cesnet-gw.mx1.pra.cz.geant.net (62.40.124.30)  192.525 ms  197.583 ms  187.213 ms  188.523 ms  192.800 ms
+15  [AS2852] 195.113.235.81 (195.113.235.81)  196.755 ms  197.615 ms *  202.675 ms  330.632 ms
+16  [AS5588] 62.168.32.34 (62.168.32.34)  208.529 ms  243.879 ms  302.172 ms  196.992 ms  194.765 ms
+17  [AS197451] pe-kou.net.vutbr.cz (147.229.252.113)  195.372 ms  195.738 ms  199.502 ms  196.164 ms  198.504 ms
+18  [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  196.264 ms  196.524 ms  264.300 ms  224.009 ms  247.491 ms
+19  [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  318.267 ms !Z  321.313 ms !Z  205.394 ms !Z  454.120 ms !Z  320.880 ms !Z
+
+hostname zanvarsity.ac.tz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.560 ms  83.241 ms  18.576 ms  14.973 ms  15.599 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  155.607 ms  23.089 ms  16.375 ms  15.760 ms  16.873 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  19.442 ms  15.872 ms  17.005 ms  21.090 ms  15.681 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  17.655 ms  52.340 ms  16.168 ms  16.708 ms  16.706 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  17.506 ms  17.898 ms  17.441 ms  18.387 ms  21.022 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  30.218 ms  17.191 ms  17.853 ms  17.359 ms  17.292 ms
+ 7  [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  199.407 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  175.541 ms  185.984 ms
+    [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  151.686 ms
+    [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  151.839 ms
+ 8  [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  153.306 ms
+    [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  155.924 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  152.114 ms
+    [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  152.138 ms
+    [AS3356] ae-227-3603.edge3.london15.level3.net (4.69.167.98)  152.183 ms
+ 9  [AS9057] wananchi-gr.edge3.london15.level3.net (212.113.9.182)  153.535 ms  152.606 ms  155.284 ms  155.697 ms  204.760 ms
+10  [AS15399] 41.212.1.86 (41.212.1.86)  202.688 ms  152.569 ms  156.131 ms *  197.516 ms
+11  [AS15399] 82.2.212.41.in-addr.arpa (41.212.2.82)  345.867 ms  343.753 ms  290.192 ms  328.355 ms  317.799 ms
+12  [AS36930] 41.204.128.169 (41.204.128.169)  397.315 ms  407.433 ms  342.519 ms  297.960 ms  343.969 ms
+13  * * * * *
+14  [AS36930] 41.204.148.5 (41.204.148.5)  327.500 ms  346.011 ms *  374.341 ms  292.173 ms
+15  [AS36930] 41.204.148.1 (41.204.148.1)  300.061 ms  298.741 ms  321.774 ms  312.884 ms  403.784 ms
+
+done
+
+timestamp 1478414031.88
+hostname google.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  20.848 ms  16.337 ms  19.283 ms  15.368 ms  15.785 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  16.607 ms  15.660 ms  15.390 ms  15.675 ms  16.280 ms
+ 3  [AS25] xe-5-2-0.inr-002-reccev.berkeley.edu (128.32.0.38)  22.896 ms  18.013 ms  16.853 ms  19.136 ms  16.825 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  18.736 ms  18.068 ms  17.047 ms  16.693 ms  16.804 ms
+ 5  [AS15169] 74.125.48.172 (74.125.48.172)  17.389 ms  18.448 ms  18.029 ms  17.390 ms  17.425 ms
+ 6  [AS15169] 108.170.242.241 (108.170.242.241)  17.751 ms  21.549 ms  22.306 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  19.697 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  98.409 ms
+ 7  [AS15169] 108.170.235.237 (108.170.235.237)  126.509 ms  118.001 ms
+    [AS15169] 108.170.235.239 (108.170.235.239)  21.130 ms  17.911 ms  17.173 ms
+ 8  [AS15169] sfo07s16-in-f14.1e100.net (216.58.195.78)  17.405 ms  18.347 ms  20.997 ms  20.458 ms  18.790 ms
+
+hostname facebook.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  17.162 ms  47.281 ms  15.065 ms  14.832 ms  16.021 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  18.169 ms  75.732 ms  83.171 ms  16.821 ms  14.993 ms
+ 3  [AS25] xe-0-2-0.inr-002-reccev.berkeley.edu (128.32.0.36)  16.805 ms  16.681 ms  16.235 ms  19.458 ms  18.854 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  17.833 ms  17.098 ms  27.083 ms  17.698 ms  16.284 ms
+ 5  [AS2152] zayo--oak-agg4-paix-sv8.cenic.net (198.32.251.126)  17.593 ms  20.635 ms  18.020 ms  17.739 ms  17.100 ms
+ 6  [AS0] ae6.cr1.sjc2.us.zip.zayo.com (64.125.31.45)  18.299 ms  20.352 ms  23.345 ms  22.476 ms  20.981 ms
+ 7  [AS0] ae27.cs1.sjc2.us.eth.zayo.com (64.125.30.230)  124.007 ms  101.908 ms  82.701 ms  85.244 ms  82.619 ms
+ 8  [AS0] ae2.cs1.lax112.us.eth.zayo.com (64.125.28.145)  103.143 ms  87.106 ms  91.660 ms  82.862 ms  133.493 ms
+ 9  [AS0] ae3.cs1.dfw2.us.eth.zayo.com (64.125.29.52)  83.146 ms  141.882 ms  86.994 ms  83.103 ms  90.521 ms
+10  [AS0] ae5.cs1.iah1.us.eth.zayo.com (64.125.28.98)  84.139 ms  83.708 ms  82.127 ms  83.046 ms  82.609 ms
+11  [AS0] ae3.cs1.dca2.us.eth.zayo.com (64.125.29.48)  96.985 ms  92.115 ms  89.287 ms  94.330 ms  83.443 ms
+12  [AS0] ae27.cr1.dca2.us.zip.zayo.com (64.125.30.247)  82.724 ms  82.234 ms  109.880 ms  82.813 ms  87.727 ms
+13  * * * * *
+14  [AS3557] 128.177.165.238.ipyx-100687-840-zyo.zip.zayo.com (128.177.165.238)  87.342 ms  148.396 ms  90.422 ms  94.794 ms  153.901 ms
+15  [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  132.870 ms
+    [AS32934] po101.psw01a.iad3.tfbnw.net (31.13.27.89)  88.195 ms  111.786 ms
+    [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  86.695 ms
+    [AS32934] po101.psw01c.iad3.tfbnw.net (31.13.27.99)  93.375 ms
+16  [AS32934] 173.252.67.29 (173.252.67.29)  90.416 ms
+    [AS32934] 173.252.67.91 (173.252.67.91)  87.069 ms
+    [AS32934] 173.252.67.27 (173.252.67.27)  87.282 ms
+    [AS32934] 173.252.67.201 (173.252.67.201)  87.709 ms
+    [AS32934] 173.252.67.43 (173.252.67.43)  88.622 ms
+17  [AS32934] edge-star-mini-shv-01-iad3.facebook.com (31.13.69.228)  114.588 ms  87.889 ms  119.328 ms  87.480 ms  96.586 ms
+
+hostname www.berkeley.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.734 ms  34.380 ms  16.398 ms  16.616 ms  15.340 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.577 ms  15.328 ms  14.929 ms  15.500 ms  15.838 ms
+ 3  [AS25] e3-47.inr-310-ewdc.berkeley.edu (128.32.0.99)  16.701 ms  16.122 ms  15.590 ms  16.504 ms  15.229 ms
+ 4  [AS25] calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  15.059 ms  16.003 ms  15.354 ms  15.645 ms  16.192 ms
+
+hostname allspice.lcs.mit.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.439 ms  15.062 ms  15.983 ms  15.794 ms  15.424 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  17.946 ms  17.402 ms  16.375 ms  15.546 ms  16.274 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  15.869 ms  39.250 ms  16.586 ms  21.375 ms  15.925 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  22.486 ms  17.298 ms  19.424 ms  17.296 ms  17.712 ms
+ 5  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  44.343 ms  44.464 ms  44.156 ms  43.270 ms  42.303 ms
+ 6  [AS0] et-7-3-0.4070.rtsw.salt.net.internet2.edu (198.71.45.24)  52.863 ms  47.108 ms  49.983 ms  44.728 ms  44.814 ms
+ 7  [AS0] et-4-1-0.4070.rtsw.kans.net.internet2.edu (198.71.45.18)  72.705 ms  71.867 ms  76.241 ms  71.409 ms  71.590 ms
+ 8  [AS0] et-5-3-0.4070.rtsw.chic.net.internet2.edu (198.71.45.14)  85.441 ms  82.216 ms  122.528 ms  95.478 ms  119.596 ms
+ 9  [AS0] et-4-1-0.4070.rtsw.clev.net.internet2.edu (198.71.45.9)  92.371 ms  91.829 ms  95.777 ms  92.858 ms  91.887 ms
+10  [AS0] nox1sumgw1-i2-re.nox.org (192.5.89.17)  104.530 ms  106.383 ms  106.377 ms  105.710 ms  109.098 ms
+11  [AS549] mit-re-nox1sumgw1.nox.org (207.210.143.110)  160.857 ms  109.467 ms  104.945 ms  106.158 ms  105.413 ms
+12  [AS3] dmz-rtr-1-external-rtr-3.mit.edu (18.192.7.1)  108.009 ms  106.953 ms  110.130 ms  122.275 ms  122.355 ms
+13  [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  105.090 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  106.058 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  105.398 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  105.519 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  108.933 ms
+14  * * * * [AS3] mitnet.helicon-ext.csail.mit.edu (18.4.7.65)  145.312 ms
+15  [AS3] helicon-ext.trantor.csail.mit.edu (128.30.13.6)  105.177 ms  119.116 ms  105.044 ms  104.558 ms  108.354 ms
+16  [AS3] asperta.helicon.csail.mit.edu (128.30.0.246)  121.002 ms * * * *
+17  [AS3] mercury.lcs.mit.edu (18.26.0.122)  105.728 ms !Z  104.831 ms !Z  119.481 ms !Z  107.076 ms !Z  125.489 ms !Z
+
+hostname todayhumor.co.kr
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  32.450 ms  17.876 ms  15.965 ms  16.293 ms  35.325 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  15.863 ms  17.911 ms  18.447 ms  17.849 ms  17.197 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  17.344 ms  19.772 ms  19.075 ms  18.925 ms  17.721 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  19.257 ms  17.204 ms  83.020 ms  22.028 ms  18.122 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7)  21.753 ms  18.329 ms  17.787 ms  17.656 ms  18.129 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  20.156 ms  17.630 ms  17.949 ms  18.088 ms *
+ 7  * * * * *
+ 8  [AS12956] 213.140.53.132 (213.140.53.132)  85.120 ms  86.019 ms  84.742 ms  84.963 ms  87.553 ms
+ 9  [AS0] xe13-2-0-0-grtmiabr2.net.telefonicaglobalsolutions.com (176.52.249.113)  95.452 ms
+    [AS0] te0-7-0-12-grtmiabr6.net.telefonicaglobalsolutions.com (5.53.6.18)  143.335 ms
+    [AS0] te0-3-0-9-grtmiabr6.red.telefonica-wholesale.net (176.52.249.129)  97.273 ms
+    [AS0] xe13-2-0-0-grtmiabr2.net.telefonicaglobalsolutions.com (176.52.249.113)  94.450 ms
+    [AS0] xe0-0-16-0-grtmiabr2.net.telefonicaglobalsolutions.com (94.142.124.205)  99.049 ms
+10  [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  217.204 ms *  112.575 ms
+    [AS12956] et-27-0-0-0-4-grtmiabr4.red.telefonica-wholesale.net (84.16.15.129)  101.636 ms  106.028 ms
+11  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  104.979 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  101.833 ms  101.499 ms
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  93.844 ms  96.355 ms
+12  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  93.241 ms  126.616 ms  105.015 ms  96.147 ms  106.991 ms
+13  [AS13335] 141.101.121.192 (141.101.121.192)  101.600 ms  105.612 ms  96.220 ms  141.335 ms  109.059 ms
+
+hostname www.city.kobe.lg.jp
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  19.585 ms  73.398 ms  18.925 ms  16.505 ms  14.898 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.566 ms  18.626 ms  73.108 ms  81.930 ms  15.555 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  15.551 ms  15.963 ms  16.070 ms  14.990 ms  17.111 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  17.493 ms  16.645 ms  16.386 ms  16.307 ms  16.228 ms
+ 5  [AS2152] dc-oak-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.11)  19.359 ms  18.744 ms  21.048 ms  18.162 ms  17.788 ms
+ 6  [AS2152] dc-paix-px1--oak-agg4-10ge.cenic.net (137.164.47.174)  17.352 ms  18.005 ms  17.792 ms  17.854 ms  18.919 ms
+ 7  [AS4637] ix-pa3.kddnet.ad.jp (198.32.176.66)  18.461 ms  18.697 ms  18.929 ms  21.831 ms  28.666 ms
+ 8  [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  17.774 ms
+    [AS2516] pajbb001.kddnet.ad.jp (124.211.34.125)  18.560 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  18.149 ms
+    [AS2516] pajbb002.kddnet.ad.jp (124.211.34.133)  18.462 ms
+    [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  36.189 ms
+ 9  [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  128.833 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.85)  123.748 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  142.634 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.181)  125.264 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  127.621 ms
+10  [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.34)  125.397 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.38)  139.091 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.114)  162.141 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.10)  137.941 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.34)  123.144 ms
+11  [AS2516] 125.29.30.126 (125.29.30.126)  158.833 ms  133.093 ms  129.212 ms  123.390 ms  129.867 ms
+12  [AS17511] 121.83.230.226 (121.83.230.226)  155.939 ms  131.343 ms
+    [AS17511] 121.83.230.230 (121.83.230.230)  127.097 ms
+    [AS17511] 121.83.230.226 (121.83.230.226)  135.545 ms
+    [AS17511] 121.83.230.230 (121.83.230.230)  135.225 ms
+13  [AS17511] 121.83.231.126 (121.83.231.126)  171.591 ms  129.410 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  129.175 ms
+    [AS17511] 121.83.231.126 (121.83.231.126)  133.816 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  129.583 ms
+14  [AS17511] 218.228.242.6 (218.228.242.6)  123.748 ms  248.553 ms  233.384 ms  148.301 ms  171.518 ms
+15  [AS17511] kobecity.kobe-ic.net (203.140.74.187)  171.115 ms  169.691 ms  298.534 ms  170.456 ms  173.272 ms
+16  [AS17511] 202.246.160.48 (202.246.160.48)  169.263 ms  130.191 ms  166.745 ms  169.337 ms  174.335 ms
+
+hostname www.vutbr.cz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  19.187 ms  22.606 ms  40.129 ms  15.409 ms  15.359 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  17.181 ms  87.278 ms  80.969 ms  16.062 ms  15.629 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  15.517 ms  17.270 ms  15.335 ms  15.398 ms  15.720 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  20.019 ms  19.230 ms  22.622 ms  17.442 ms  21.723 ms
+ 5  [AS2152] hpr-lax-hpr3--svl-hpr3-100ge.cenic.net (137.164.25.73)  32.233 ms  25.243 ms  25.433 ms  25.363 ms  24.979 ms
+ 6  [AS2152] hpr-i2--lax-hpr2-r&e.cenic.net (137.164.26.201)  25.286 ms  27.312 ms  38.222 ms  26.798 ms  25.952 ms
+ 7  [AS0] et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  58.649 ms  57.858 ms  58.326 ms  61.651 ms  69.208 ms
+ 8  [AS0] et-3-3-0.4070.rtsw.atla.net.internet2.edu (198.71.45.12)  81.535 ms  82.209 ms  81.739 ms  88.545 ms  82.543 ms
+ 9  [AS0] et-11-1-0.4072.rtsw.wash.net.internet2.edu (198.71.45.7)  112.270 ms  95.226 ms  144.831 ms  92.112 ms  95.877 ms
+10  [AS21320] internet2.mx1.lon.uk.geant.net (62.40.124.44)  169.455 ms  170.641 ms  169.691 ms  169.682 ms  172.784 ms
+11  [AS21320] ae0.mx1.ams.nl.geant.net (62.40.98.81)  194.132 ms  205.254 ms  202.995 ms  198.996 ms  194.438 ms
+12  [AS21320] ae0.mx1.fra.de.geant.net (62.40.98.128)  193.949 ms  193.254 ms  197.415 ms  202.004 ms  193.792 ms
+13  [AS21320] ae4.mx1.pra.cz.geant.net (62.40.98.74)  198.698 ms  191.198 ms  196.824 ms  192.108 ms  194.959 ms
+14  [AS21320] cesnet-gw.mx1.pra.cz.geant.net (62.40.124.30)  192.686 ms  192.127 ms  191.935 ms  191.938 ms  189.990 ms
+15  [AS2852] 195.113.235.81 (195.113.235.81)  198.459 ms  199.608 ms  199.864 ms  199.762 ms  208.573 ms
+16  [AS5588] 62.168.32.34 (62.168.32.34)  195.567 ms  194.584 ms  194.187 ms  194.010 ms  209.283 ms
+17  [AS197451] pe-kou.net.vutbr.cz (147.229.252.113)  197.016 ms  261.935 ms  195.112 ms  266.242 ms  196.122 ms
+18  [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  219.816 ms  199.220 ms *  197.871 ms  195.014 ms
+19  [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  206.333 ms !Z  208.453 ms !Z  206.624 ms !Z  207.383 ms !Z  210.952 ms !Z
+
+hostname zanvarsity.ac.tz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  17.118 ms  16.338 ms  16.494 ms  16.045 ms  16.741 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  16.636 ms  15.772 ms  15.564 ms  15.362 ms  17.243 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  16.274 ms  15.385 ms  15.674 ms  15.413 ms  15.463 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  16.199 ms  16.467 ms  16.579 ms  16.084 ms  16.122 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  17.669 ms  17.769 ms  17.982 ms  18.048 ms  18.310 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  17.666 ms  21.307 ms  18.163 ms  17.799 ms  72.472 ms
+ 7  [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  211.465 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  153.341 ms
+    [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  152.880 ms
+    [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  151.944 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  152.224 ms
+ 8  [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  155.728 ms
+    [AS3356] ae-227-3603.edge3.london15.level3.net (4.69.167.98)  152.447 ms
+    [AS3356] ae-116-3502.edge3.london15.level3.net (4.69.167.78)  155.723 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  288.562 ms
+    [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  152.106 ms
+ 9  [AS9057] wananchi-gr.edge3.london15.level3.net (212.113.9.182)  154.341 ms  157.136 ms *  178.605 ms  154.267 ms
+10  [AS15399] 41.212.1.86 (41.212.1.86)  159.145 ms  167.564 ms  152.461 ms  172.705 ms  152.348 ms
+11  [AS15399] 82.2.212.41.in-addr.arpa (41.212.2.82)  333.868 ms  374.731 ms  411.770 ms  306.445 ms  287.618 ms
+12  [AS36930] 41.204.128.169 (41.204.128.169)  288.655 ms  287.791 ms  308.210 ms  304.685 ms  302.652 ms
+13  * * * * *
+14  [AS36930] 41.204.148.5 (41.204.148.5)  392.743 ms  335.604 ms  299.121 ms  343.593 ms  341.167 ms
+15  [AS36930] 41.204.148.1 (41.204.148.1)  307.357 ms  366.918 ms  295.768 ms  314.469 ms  413.188 ms
+
+done
+
+timestamp 1478417895.05
+hostname google.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.476 ms  16.658 ms  16.227 ms  16.101 ms  16.869 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.443 ms  15.901 ms  15.799 ms  17.585 ms  15.740 ms
+ 3  [AS25] xe-5-2-0.inr-002-reccev.berkeley.edu (128.32.0.38)  15.624 ms  20.727 ms  18.738 ms  15.444 ms  16.373 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  16.205 ms  24.431 ms  16.551 ms  16.209 ms  16.461 ms
+ 5  [AS15169] 74.125.48.172 (74.125.48.172)  23.288 ms  17.127 ms  17.219 ms  23.466 ms  19.244 ms
+ 6  [AS15169] 108.170.242.81 (108.170.242.81)  17.802 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  22.120 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  21.628 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  19.011 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  17.893 ms
+ 7  [AS15169] 108.170.235.237 (108.170.235.237)  18.375 ms  18.032 ms  17.563 ms
+    [AS15169] 108.170.235.239 (108.170.235.239)  17.313 ms
+    [AS15169] 108.170.235.237 (108.170.235.237)  18.237 ms
+ 8  [AS15169] sfo07s16-in-f14.1e100.net (216.58.195.78)  16.872 ms  17.588 ms  21.926 ms  19.906 ms  16.765 ms
+
+hostname facebook.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  17.117 ms  15.974 ms  15.454 ms  16.029 ms  19.506 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  17.805 ms  20.985 ms  16.730 ms  15.933 ms  82.244 ms
+ 3  [AS25] xe-0-2-0.inr-002-reccev.berkeley.edu (128.32.0.36)  28.920 ms  68.637 ms  16.811 ms  154.375 ms  21.846 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  17.921 ms  18.912 ms  18.917 ms  131.679 ms  18.449 ms
+ 5  [AS2152] zayo--oak-agg4-paix-sv8.cenic.net (198.32.251.126)  17.836 ms  148.169 ms  311.455 ms  20.870 ms  137.247 ms
+ 6  [AS0] ae6.cr1.sjc2.us.zip.zayo.com (64.125.31.45)  24.527 ms  135.147 ms  25.293 ms  153.081 ms  23.906 ms
+ 7  * [AS0] ae27.cs1.sjc2.us.eth.zayo.com (64.125.30.230)  89.526 ms * * *
+ 8  [AS0] ae2.cs1.lax112.us.eth.zayo.com (64.125.28.145)  85.799 ms  90.322 ms  85.711 ms  111.392 ms  139.774 ms
+ 9  [AS0] ae3.cs1.dfw2.us.eth.zayo.com (64.125.29.52)  86.711 ms  86.316 ms  86.527 ms  148.305 ms  144.698 ms
+10  [AS0] ae5.cs1.iah1.us.eth.zayo.com (64.125.28.98)  85.661 ms  94.609 ms  87.343 ms  85.275 ms  94.724 ms
+11  [AS0] ae3.cs1.dca2.us.eth.zayo.com (64.125.29.48)  96.751 ms  87.718 ms  85.408 ms  85.751 ms  89.533 ms
+12  [AS0] ae27.cr1.dca2.us.zip.zayo.com (64.125.30.247)  101.131 ms  82.360 ms  124.471 ms  162.272 ms  82.195 ms
+13  [AS0] ae6.er1.iad10.us.zip.zayo.com (64.125.20.118)  86.432 ms  85.739 ms * * *
+14  [AS3557] 128.177.165.238.ipyx-100687-840-zyo.zip.zayo.com (128.177.165.238)  100.318 ms  101.119 ms  88.903 ms  139.867 ms  130.110 ms
+15  [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  93.881 ms  91.522 ms
+    [AS32934] po101.psw01c.iad3.tfbnw.net (31.13.27.99)  91.297 ms
+    [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  89.043 ms
+    [AS32934] po101.psw01d.iad3.tfbnw.net (31.13.27.215)  93.162 ms
+16  [AS32934] 173.252.67.191 (173.252.67.191)  96.840 ms
+    [AS32934] 173.252.67.81 (173.252.67.81)  87.754 ms
+    [AS32934] 173.252.67.187 (173.252.67.187)  90.113 ms
+    [AS32934] 173.252.67.99 (173.252.67.99)  91.091 ms
+    [AS32934] 173.252.67.135 (173.252.67.135)  87.131 ms
+17  [AS32934] edge-star-mini-shv-01-iad3.facebook.com (31.13.69.228)  87.969 ms  124.069 ms  122.903 ms  88.458 ms  91.437 ms
+
+hostname www.berkeley.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  17.620 ms  23.150 ms  19.447 ms  15.983 ms  15.168 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.486 ms  20.875 ms  23.711 ms  16.414 ms  48.296 ms
+ 3  [AS25] e3-47.inr-310-ewdc.berkeley.edu (128.32.0.99)  19.271 ms  16.168 ms  15.209 ms  14.990 ms  15.374 ms
+ 4  [AS25] calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  17.518 ms  16.535 ms  15.097 ms  17.833 ms  18.475 ms
+
+hostname allspice.lcs.mit.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  16.177 ms  15.442 ms  17.879 ms  80.810 ms  15.755 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.783 ms  15.944 ms  20.617 ms  21.277 ms  19.661 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  16.050 ms  15.509 ms  146.908 ms  15.748 ms  15.805 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  49.285 ms  18.053 ms  17.434 ms  18.188 ms  17.186 ms
+ 5  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  192.910 ms  153.516 ms  164.044 ms  41.078 ms  130.280 ms
+ 6  [AS0] et-7-3-0.4070.rtsw.salt.net.internet2.edu (198.71.45.24)  172.533 ms  144.978 ms  168.243 ms  190.938 ms  153.845 ms
+ 7  [AS0] et-4-1-0.4070.rtsw.kans.net.internet2.edu (198.71.45.18)  128.126 ms  171.664 ms  172.009 ms  173.775 ms  71.208 ms
+ 8  [AS0] et-5-3-0.4070.rtsw.chic.net.internet2.edu (198.71.45.14)  81.908 ms  82.446 ms  88.005 ms  83.301 ms  134.763 ms
+ 9  [AS0] et-4-1-0.4070.rtsw.clev.net.internet2.edu (198.71.45.9)  126.604 ms  157.734 ms  94.960 ms  91.923 ms  91.749 ms
+10  [AS0] nox1sumgw1-i2-re.nox.org (192.5.89.17)  104.174 ms  104.443 ms  129.110 ms  105.111 ms  104.783 ms
+11  [AS549] mit-re-nox1sumgw1.nox.org (207.210.143.110)  104.280 ms  106.435 ms  109.291 ms  108.874 ms  101.020 ms
+12  [AS3] dmz-rtr-1-external-rtr-3.mit.edu (18.192.7.1)  106.227 ms  104.588 ms  107.933 ms  107.900 ms  105.031 ms
+13  [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  109.838 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  108.443 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  130.338 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  106.548 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  104.494 ms
+14  * * * * *
+15  [AS3] helicon-ext.trantor.csail.mit.edu (128.30.13.6)  263.128 ms  143.446 ms  109.125 ms  104.680 ms  110.186 ms
+16  * * * * *
+17  [AS3] mercury.lcs.mit.edu (18.26.0.122)  169.944 ms !Z  108.468 ms !Z  104.191 ms !Z  141.054 ms !Z  104.241 ms !Z
+
+hostname todayhumor.co.kr
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  22.705 ms  16.175 ms  31.002 ms  16.247 ms  17.546 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  161.721 ms  67.746 ms  16.677 ms  16.782 ms  138.988 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  15.001 ms  16.040 ms  20.660 ms  132.122 ms  173.710 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  129.389 ms  147.519 ms  21.586 ms  19.389 ms  126.389 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7)  19.243 ms  129.249 ms  18.333 ms  17.920 ms  133.393 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  19.633 ms  140.943 ms  19.108 ms  151.481 ms  17.767 ms
+ 7  * * * * *
+ 8  [AS12956] 213.140.53.132 (213.140.53.132)  85.278 ms  85.277 ms  84.482 ms  87.776 ms  86.492 ms
+ 9  [AS12956] gi0-0-0-4-grtmiabr6.net.telefonicaglobalsolutions.com (213.140.37.187)  113.128 ms
+    [AS0] 8-0-16-grtmiabr2.net.telefonicaglobalsolutions.com (5.53.6.26)  107.760 ms
+    [AS0] xe19-0-17-0-grtmiabr2.net.telefonicaglobalsolutions.com (176.52.255.6)  96.959 ms
+    [AS12956] gi0-0-0-4-grtmiabr6.net.telefonicaglobalsolutions.com (213.140.37.187)  106.304 ms
+    [AS0] te0-8-0-3-grtmiabr6.net.telefonicaglobalsolutions.com (94.142.126.185)  106.198 ms
+10  [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  106.436 ms  227.576 ms  248.044 ms
+    [AS12956] et-27-0-0-0-4-grtmiabr4.red.telefonica-wholesale.net (84.16.15.129)  150.890 ms  167.145 ms
+11  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  170.474 ms  441.314 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  206.206 ms
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  189.992 ms  167.548 ms
+12  [AS13335] 141.101.121.191 (141.101.121.191)  171.330 ms
+    [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  120.798 ms  96.627 ms  108.669 ms
+    [AS13335] 141.101.121.191 (141.101.121.191)  94.687 ms
+
+hostname www.city.kobe.lg.jp
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  15.792 ms  17.701 ms  15.503 ms  15.432 ms  15.551 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.690 ms  18.841 ms  14.746 ms  18.377 ms  17.797 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  20.076 ms  15.521 ms  15.440 ms  18.814 ms  18.319 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  15.997 ms  16.555 ms  16.206 ms  15.980 ms  15.995 ms
+ 5  [AS2152] dc-oak-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.11)  17.232 ms  17.197 ms  16.913 ms  20.443 ms  19.836 ms
+ 6  [AS2152] dc-paix-px1--oak-agg4-10ge.cenic.net (137.164.47.174)  18.430 ms  17.872 ms  17.366 ms  22.851 ms  25.086 ms
+ 7  [AS4637] ix-pa3.kddnet.ad.jp (198.32.176.66)  31.745 ms  17.780 ms  32.009 ms  17.520 ms  18.168 ms
+ 8  [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  19.233 ms
+    [AS2516] pajbb002.kddnet.ad.jp (124.211.34.133)  81.813 ms
+    [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  18.450 ms
+    [AS2516] pajbb001.kddnet.ad.jp (124.211.34.125)  87.178 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  19.107 ms
+ 9  [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  139.587 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.181)  121.907 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  130.881 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.85)  124.138 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  187.960 ms
+10  [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.114)  125.489 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.14)  133.171 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.34)  127.460 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.38)  136.267 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.114)  136.524 ms
+11  [AS2516] 125.29.30.126 (125.29.30.126)  131.816 ms  123.659 ms  128.614 ms  132.117 ms  129.139 ms
+12  [AS17511] 121.83.230.226 (121.83.230.226)  124.885 ms
+    [AS17511] 121.83.230.230 (121.83.230.230)  129.425 ms  132.624 ms
+    [AS17511] 121.83.230.226 (121.83.230.226)  129.797 ms  193.726 ms
+13  [AS17511] 121.83.231.126 (121.83.231.126)  134.779 ms  134.971 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  181.715 ms
+    [AS17511] 121.83.231.126 (121.83.231.126)  130.057 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  133.199 ms
+14  [AS17511] 218.228.242.6 (218.228.242.6)  127.460 ms  192.346 ms  144.947 ms  128.982 ms  190.088 ms
+15  [AS17511] kobecity.kobe-ic.net (203.140.74.187)  133.849 ms  128.556 ms  135.957 ms  132.640 ms  133.804 ms
+16  [AS17511] 202.246.160.48 (202.246.160.48)  123.868 ms  129.870 ms  132.771 ms  129.836 ms  173.748 ms
+
+hostname www.vutbr.cz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  28.109 ms  15.945 ms  17.965 ms  15.326 ms  15.564 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  14.922 ms  15.912 ms  15.492 ms  15.173 ms  18.948 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  16.720 ms  16.212 ms  16.769 ms  43.200 ms  146.093 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  51.590 ms  19.507 ms  16.680 ms  41.159 ms  66.122 ms
+ 5  [AS2152] hpr-lax-hpr3--svl-hpr3-100ge.cenic.net (137.164.25.73)  26.428 ms  149.978 ms  25.915 ms  140.364 ms  25.781 ms
+ 6  [AS2152] hpr-i2--lax-hpr2-r&e.cenic.net (137.164.26.201)  148.509 ms  145.288 ms  28.527 ms  141.866 ms  25.530 ms
+ 7  [AS0] et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  148.386 ms  128.096 ms  170.579 ms  180.067 ms  161.636 ms
+ 8  [AS0] et-3-3-0.4070.rtsw.atla.net.internet2.edu (198.71.45.12)  167.682 ms  82.212 ms  81.879 ms  82.866 ms  150.063 ms
+ 9  [AS0] et-11-1-0.4072.rtsw.wash.net.internet2.edu (198.71.45.7)  97.247 ms  97.317 ms  96.735 ms  99.760 ms  94.030 ms
+10  [AS21320] internet2.mx1.lon.uk.geant.net (62.40.124.44)  172.012 ms  171.282 ms  168.855 ms  174.854 ms  169.370 ms
+11  [AS21320] ae0.mx1.ams.nl.geant.net (62.40.98.81)  196.844 ms  193.130 ms  196.346 ms  279.605 ms  195.099 ms
+12  [AS21320] ae0.mx1.fra.de.geant.net (62.40.98.128)  195.652 ms  195.460 ms  376.301 ms  197.671 ms  193.514 ms
+13  [AS21320] ae4.mx1.pra.cz.geant.net (62.40.98.74)  191.204 ms  195.197 ms  190.589 ms  192.037 ms  190.429 ms
+14  [AS21320] cesnet-gw.mx1.pra.cz.geant.net (62.40.124.30)  190.028 ms  192.769 ms  189.724 ms  191.436 ms  188.734 ms
+15  [AS2852] 195.113.235.81 (195.113.235.81)  198.012 ms  200.185 ms  199.439 ms  200.546 ms  199.849 ms
+16  [AS5588] 62.168.32.34 (62.168.32.34)  198.843 ms  197.334 ms  194.687 ms  205.636 ms  191.835 ms
+17  [AS197451] pe-kou.net.vutbr.cz (147.229.252.113)  196.247 ms  201.889 ms  197.633 ms  195.073 ms  195.759 ms
+18  [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  194.533 ms  310.286 ms  194.811 ms  322.419 ms  240.300 ms
+19  [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  236.791 ms !Z  321.319 ms !Z  335.407 ms !Z  297.434 ms !Z  205.540 ms !Z
+
+hostname zanvarsity.ac.tz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  15.945 ms  138.384 ms  15.084 ms  15.257 ms  137.653 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  15.767 ms  18.183 ms  15.912 ms  144.621 ms  15.984 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  141.180 ms  49.352 ms  15.546 ms  15.126 ms  15.608 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  16.680 ms  20.974 ms  16.585 ms  15.912 ms  15.959 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  22.843 ms  21.127 ms  17.721 ms  19.344 ms  18.041 ms
+ 6  * [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  17.936 ms  17.872 ms  19.766 ms  18.806 ms
+ 7  [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  155.164 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  153.985 ms  159.429 ms
+    [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  215.093 ms
+    [AS3356] ae-116-3502.edge3.london15.level3.net (4.69.167.78)  152.297 ms
+ 8  [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  152.642 ms
+    [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  153.465 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  151.709 ms
+    [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  152.729 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  152.169 ms
+ 9  [AS9057] wananchi-gr.edge3.london15.level3.net (212.113.9.182)  152.850 ms  157.265 ms  153.424 ms  153.546 ms  152.842 ms
+10  [AS15399] 41.212.1.86 (41.212.1.86)  156.813 ms  154.507 ms  154.342 ms  218.498 ms  153.028 ms
+11  [AS15399] 82.2.212.41.in-addr.arpa (41.212.2.82)  288.393 ms  293.242 ms  290.519 ms  450.284 ms  296.065 ms
+12  [AS36930] 41.204.128.169 (41.204.128.169)  324.810 ms  340.271 ms  340.513 ms  304.622 ms  342.087 ms
+13  * * * * *
+14  * [AS36930] 41.204.148.5 (41.204.148.5)  324.131 ms *  387.555 ms  306.896 ms
+15  [AS36930] 41.204.148.1 (41.204.148.1)  300.892 ms  356.425 ms  409.704 ms  427.592 ms  391.901 ms
+
+done
+
+timestamp 1478421786.1
+hostname google.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  22.609 ms  15.504 ms  16.431 ms  20.830 ms  21.497 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  16.476 ms  15.586 ms  15.482 ms  16.155 ms  15.180 ms
+ 3  [AS25] xe-5-2-0.inr-002-reccev.berkeley.edu (128.32.0.38)  15.606 ms  15.425 ms  16.133 ms  16.118 ms  15.575 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  16.552 ms  21.066 ms  17.817 ms  16.899 ms  16.451 ms
+ 5  [AS15169] 74.125.48.172 (74.125.48.172)  24.642 ms  18.362 ms  16.951 ms  17.202 ms  17.721 ms
+ 6  [AS15169] 108.170.242.241 (108.170.242.241)  17.695 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  19.258 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  23.155 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  150.067 ms  144.659 ms
+ 7  [AS15169] 108.170.235.239 (108.170.235.239)  21.775 ms  60.712 ms
+    [AS15169] 108.170.235.237 (108.170.235.237)  17.918 ms
+    [AS15169] 108.170.235.239 (108.170.235.239)  81.100 ms  22.072 ms
+ 8  [AS15169] sfo07s16-in-f14.1e100.net (216.58.195.78)  19.615 ms  18.216 ms  17.776 ms  18.500 ms  17.839 ms
+
+hostname facebook.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  19.859 ms  16.398 ms  16.146 ms  15.678 ms  15.196 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  93.536 ms  16.189 ms  16.719 ms  97.955 ms  20.046 ms
+ 3  [AS25] xe-0-2-0.inr-002-reccev.berkeley.edu (128.32.0.36)  16.749 ms  16.447 ms  12.677 ms  14.998 ms  16.354 ms
+ 4  [AS2152] oak-agg4--ucb-10g.cenic.net (137.164.50.30)  17.009 ms  16.224 ms  44.806 ms  16.539 ms  17.538 ms
+ 5  [AS2152] zayo--oak-agg4-paix-sv8.cenic.net (198.32.251.126)  18.648 ms  18.594 ms  21.069 ms  18.188 ms  18.279 ms
+ 6  [AS0] ae6.cr1.sjc2.us.zip.zayo.com (64.125.31.45)  19.173 ms  18.005 ms  18.478 ms  18.064 ms  18.086 ms
+ 7  [AS0] ae27.cs1.sjc2.us.eth.zayo.com (64.125.30.230)  86.465 ms  89.524 ms  138.485 ms  88.035 ms  91.230 ms
+ 8  [AS0] ae2.cs1.lax112.us.eth.zayo.com (64.125.28.145)  88.770 ms  84.552 ms  85.719 ms  89.225 ms  93.742 ms
+ 9  [AS0] ae3.cs1.dfw2.us.eth.zayo.com (64.125.29.52)  84.290 ms  85.770 ms  85.583 ms  88.003 ms  86.913 ms
+10  [AS0] ae5.cs1.iah1.us.eth.zayo.com (64.125.28.98)  86.504 ms  85.806 ms  85.647 ms  88.887 ms  94.222 ms
+11  [AS0] ae3.cs1.dca2.us.eth.zayo.com (64.125.29.48)  88.408 ms  84.883 ms  107.524 ms  86.909 ms  85.625 ms
+12  [AS0] ae27.cr1.dca2.us.zip.zayo.com (64.125.30.247)  111.068 ms  86.592 ms  82.261 ms  86.235 ms  82.617 ms
+13  [AS0] ae6.er1.iad10.us.zip.zayo.com (64.125.20.118)  87.944 ms  91.910 ms  88.518 ms  85.701 ms  87.318 ms
+14  [AS3557] 128.177.165.238.ipyx-100687-840-zyo.zip.zayo.com (128.177.165.238)  87.871 ms  89.068 ms  92.528 ms  88.840 ms  113.729 ms
+15  [AS32934] po101.psw01d.iad3.tfbnw.net (31.13.27.215)  87.032 ms
+    [AS32934] po101.psw01a.iad3.tfbnw.net (31.13.27.89)  88.462 ms
+    [AS32934] po101.psw01d.iad3.tfbnw.net (31.13.27.215)  90.087 ms  91.023 ms
+    [AS32934] po101.psw01b.iad3.tfbnw.net (31.13.27.97)  93.166 ms
+16  [AS32934] 173.252.67.27 (173.252.67.27)  87.604 ms
+    [AS32934] 173.252.67.149 (173.252.67.149)  89.457 ms
+    [AS32934] 173.252.67.151 (173.252.67.151)  88.896 ms
+    [AS32934] 173.252.67.89 (173.252.67.89)  93.401 ms
+    [AS32934] 173.252.67.135 (173.252.67.135)  93.959 ms
+17  [AS32934] edge-star-mini-shv-01-iad3.facebook.com (31.13.69.228)  94.425 ms  88.542 ms  89.596 ms  87.413 ms  89.251 ms
+
+hostname www.berkeley.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  78.833 ms  16.441 ms  16.770 ms  15.330 ms  15.706 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.710 ms  20.854 ms  16.268 ms  16.302 ms  15.792 ms
+ 3  [AS25] e3-47.inr-310-ewdc.berkeley.edu (128.32.0.99)  20.384 ms  16.782 ms  16.882 ms  15.841 ms  11.403 ms
+ 4  [AS25] calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  18.550 ms  21.429 ms  15.650 ms  16.849 ms  15.619 ms
+
+hostname allspice.lcs.mit.edu
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  20.019 ms  22.106 ms  16.560 ms  16.197 ms  18.106 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  20.533 ms  17.143 ms  15.898 ms  15.454 ms  16.995 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  16.602 ms  16.765 ms  16.202 ms  17.423 ms  17.410 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  21.531 ms  18.834 ms  21.279 ms  18.898 ms  17.674 ms
+ 5  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  42.280 ms  44.899 ms  108.347 ms  107.690 ms  42.284 ms
+ 6  [AS0] et-7-3-0.4070.rtsw.salt.net.internet2.edu (198.71.45.24)  44.510 ms  44.449 ms  44.641 ms  46.908 ms  170.552 ms
+ 7  [AS0] et-4-1-0.4070.rtsw.kans.net.internet2.edu (198.71.45.18)  73.175 ms  72.304 ms  71.466 ms  73.702 ms  73.703 ms
+ 8  [AS0] et-5-3-0.4070.rtsw.chic.net.internet2.edu (198.71.45.14)  82.437 ms  86.197 ms  82.884 ms  83.446 ms  86.873 ms
+ 9  [AS0] et-4-1-0.4070.rtsw.clev.net.internet2.edu (198.71.45.9)  93.326 ms  92.613 ms  141.968 ms  165.821 ms  228.962 ms
+10  [AS0] nox1sumgw1-i2-re.nox.org (192.5.89.17)  246.992 ms  105.372 ms  134.738 ms  163.198 ms  167.148 ms
+11  [AS549] mit-re-nox1sumgw1.nox.org (207.210.143.110)  172.621 ms  169.545 ms  169.698 ms  168.043 ms  181.368 ms
+12  [AS3] dmz-rtr-1-external-rtr-3.mit.edu (18.192.7.1)  160.437 ms  302.208 ms  169.626 ms  170.214 ms  171.224 ms
+13  [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  163.719 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  108.045 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  104.423 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  104.788 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  104.526 ms
+14  * * * * *
+15  [AS3] helicon-ext.trantor.csail.mit.edu (128.30.13.6)  105.324 ms  106.589 ms  200.267 ms  235.130 ms  241.197 ms
+16  [AS3] asperta.helicon.csail.mit.edu (128.30.0.246)  145.796 ms * * * *
+17  [AS3] mercury.lcs.mit.edu (18.26.0.122)  154.917 ms !Z  104.969 ms !Z  104.165 ms !Z  108.334 ms !Z  110.271 ms !Z
+
+hostname todayhumor.co.kr
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.486 ms  15.440 ms  15.887 ms  15.679 ms  15.851 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  15.808 ms  19.761 ms  15.501 ms  18.318 ms  15.410 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  15.106 ms  15.163 ms  18.986 ms  16.639 ms  14.999 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  22.821 ms  17.172 ms  17.816 ms  16.259 ms  16.417 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7)  18.919 ms  26.644 ms  17.209 ms  27.424 ms  22.678 ms
+ 6  [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  21.797 ms  22.897 ms  18.897 ms  19.667 ms  18.784 ms
+ 7  * * * * [AS3356] ae-2-3602.ear2.washington12.level3.net (4.69.140.121)  973.528 ms
+ 8  [AS12956] 213.140.53.132 (213.140.53.132)  86.018 ms  88.214 ms  85.039 ms  87.647 ms  89.520 ms
+ 9  [AS12956] te0-4-0-12-grtmiabr6.net.telefonicaglobalsolutions.com (213.140.38.126)  109.195 ms
+    [AS0] te0-8-0-3-grtmiabr6.net.telefonicaglobalsolutions.com (94.142.126.185)  153.632 ms
+    [AS0] te0-2-0-8-grtmiabr6.net.telefonicaglobalsolutions.com (176.52.255.10)  153.128 ms
+    [AS0] xe-9-1-17-0-grtmiabr2.net.telefonicaglobalsolutions.com (5.53.4.23)  166.422 ms
+    [AS0] xe13-1-8-0-grtmiabr4.red.telefonica-wholesale.net (176.52.249.121)  155.111 ms
+10  [AS12956] et-27-0-0-0-4-grtmiabr4.red.telefonica-wholesale.net (84.16.15.129)  169.797 ms  172.779 ms  163.138 ms  170.779 ms  128.811 ms
+11  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  167.187 ms  167.887 ms  171.675 ms  195.204 ms
+    [AS12956] et-2-0-0-4-grtmiana2.net.telefonicaglobalsolutions.com (84.16.14.189)  139.890 ms
+12  [AS0] cloudflare-ae31-0-grtmiana2.net.telefonicaglobalsolutions.com (176.52.253.225)  98.764 ms  108.905 ms  106.431 ms
+    [AS13335] 141.101.121.192 (141.101.121.192)  100.509 ms  158.618 ms
+
+hostname www.city.kobe.lg.jp
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  24.543 ms  19.514 ms  18.139 ms  15.279 ms  16.948 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  151.311 ms  148.148 ms  289.714 ms  141.888 ms  213.417 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  15.278 ms  15.912 ms  15.624 ms  15.460 ms  15.891 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  87.636 ms  15.714 ms  16.083 ms  17.213 ms  16.082 ms
+ 5  [AS2152] dc-oak-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.11)  18.523 ms  18.602 ms  16.477 ms  17.308 ms  17.033 ms
+ 6  [AS2152] dc-paix-px1--oak-agg4-10ge.cenic.net (137.164.47.174)  17.349 ms  17.871 ms  18.248 ms  17.681 ms  17.531 ms
+ 7  [AS4637] ix-pa3.kddnet.ad.jp (198.32.176.66)  20.593 ms  21.144 ms  18.434 ms  17.824 ms  17.744 ms
+ 8  [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  18.301 ms
+    [AS2516] pajbb001.kddnet.ad.jp (124.211.34.125)  18.556 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.29)  18.459 ms
+    [AS2516] pajbb002.kddnet.ad.jp (124.211.34.133)  17.983 ms
+    [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.5)  17.690 ms
+ 9  [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  126.792 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.85)  125.834 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (203.181.100.185)  142.412 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.181)  128.397 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.141)  130.454 ms
+10  [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.118)  117.810 ms  124.023 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.82)  132.019 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.114)  124.584 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.34)  123.339 ms
+11  [AS2516] 125.29.30.126 (125.29.30.126)  129.250 ms  131.146 ms  132.035 ms  126.161 ms  131.439 ms
+12  [AS17511] 121.83.230.226 (121.83.230.226)  129.067 ms  135.114 ms  125.282 ms  130.040 ms  131.763 ms
+13  [AS17511] 121.83.231.122 (121.83.231.122)  130.089 ms  124.445 ms  183.849 ms  166.026 ms  132.953 ms
+14  [AS17511] 218.228.242.6 (218.228.242.6)  126.853 ms  128.087 ms  130.443 ms  129.622 ms  124.912 ms
+15  [AS17511] kobecity.kobe-ic.net (203.140.74.187)  149.147 ms  136.349 ms  133.691 ms  130.666 ms  137.881 ms
+16  [AS17511] 202.246.160.48 (202.246.160.48)  142.929 ms  130.315 ms  128.106 ms  130.204 ms  128.118 ms
+
+hostname www.vutbr.cz
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  44.233 ms  39.196 ms  18.992 ms  16.086 ms  15.179 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  88.818 ms  19.261 ms  15.115 ms  15.645 ms  16.097 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  15.615 ms  16.374 ms  16.419 ms  15.666 ms  15.793 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  17.881 ms  21.713 ms  21.338 ms  17.223 ms  26.055 ms
+ 5  [AS2152] hpr-lax-hpr3--svl-hpr3-100ge.cenic.net (137.164.25.73)  62.339 ms  25.366 ms  25.600 ms  25.570 ms  25.546 ms
+ 6  [AS2152] hpr-i2--lax-hpr2-r&e.cenic.net (137.164.26.201)  29.951 ms  28.067 ms  26.635 ms  92.148 ms  25.858 ms
+ 7  [AS0] et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  59.525 ms  61.152 ms  58.213 ms  58.447 ms  59.127 ms
+ 8  [AS0] et-3-3-0.4070.rtsw.atla.net.internet2.edu (198.71.45.12)  82.501 ms  83.102 ms  158.935 ms  81.692 ms  82.752 ms
+ 9  [AS0] et-11-1-0.4072.rtsw.wash.net.internet2.edu (198.71.45.7)  155.603 ms  172.239 ms  130.450 ms  167.145 ms  169.262 ms
+10  [AS21320] internet2.mx1.lon.uk.geant.net (62.40.124.44)  168.610 ms  171.379 ms  317.149 ms  169.356 ms  169.968 ms
+11  * [AS21320] ae0.mx1.ams.nl.geant.net (62.40.98.81)  194.490 ms  193.669 ms  196.675 ms  193.576 ms
+12  [AS21320] ae0.mx1.fra.de.geant.net (62.40.98.128)  193.932 ms  193.927 ms  219.054 ms  194.143 ms  194.056 ms
+13  [AS21320] ae4.mx1.pra.cz.geant.net (62.40.98.74)  190.864 ms  193.703 ms  193.399 ms  191.697 ms  258.891 ms
+14  [AS21320] cesnet-gw.mx1.pra.cz.geant.net (62.40.124.30)  195.807 ms  190.050 ms  193.789 ms  189.591 ms  188.138 ms
+15  [AS2852] 195.113.235.81 (195.113.235.81)  201.458 ms  371.444 ms  199.007 ms  199.372 ms  202.373 ms
+16  [AS5588] 62.168.32.34 (62.168.32.34)  193.912 ms  200.865 ms  196.550 ms  194.059 ms  195.226 ms
+17  [AS197451] pe-kou.net.vutbr.cz (147.229.252.113)  199.276 ms  198.565 ms  196.555 ms  200.648 ms  196.167 ms
+18  [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  333.984 ms  205.373 ms  294.670 ms  195.536 ms  316.991 ms
+19  [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  301.063 ms !Z  205.819 ms !Z  608.479 ms !Z  206.120 ms !Z  299.920 ms !Z
+
+hostname zanvarsity.ac.tz
+1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  21.451 ms  16.058 ms  15.931 ms  16.496 ms  16.538 ms
+2  [AS25] 128.32.0.108 (128.32.0.108)  87.523 ms  18.345 ms  19.832 ms  19.629 ms  123.320 ms
+3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  81.305 ms  16.692 ms  16.049 ms  16.085 ms  16.388 ms
+4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  17.615 ms  18.792 ms  18.316 ms  17.997 ms  17.084 ms
+5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  19.513 ms  88.771 ms  19.768 ms  27.237 ms  22.655 ms
+6  * * [AS3356] 10-1-1-91.ear1.sanjose1.level3.net (4.15.122.45)  120.179 ms  142.027 ms  18.217 ms
+7  [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  154.731 ms
+   [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  152.563 ms
+   [AS3356] ae-227-3603.edge3.london15.level3.net (4.69.167.98)  153.456 ms
+   [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  154.333 ms
+   [AS3356] ae-228-3604.edge3.london15.level3.net (4.69.167.102)  152.464 ms
+8  [AS3356] ae-116-3502.edge3.london15.level3.net (4.69.167.78)  199.419 ms
+   [AS3356] ae-115-3501.edge3.london15.level3.net (4.69.167.74)  157.311 ms
+   [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  152.123 ms
+   [AS3356] ae-116-3502.edge3.london15.level3.net (4.69.167.78)  156.511 ms
+   [AS3356] ae-115-3501.edge3.london15.level3.net (4.69.167.74)  153.493 ms
+9  [AS9057] wananchi-gr.edge3.london15.level3.net (212.113.9.182)  186.235 ms  156.294 ms  154.181 ms  155.028 ms  153.682 ms
+10  [AS15399] 238.2.212.41.in-addr.arpa (41.212.2.238)  162.579 ms  153.223 ms  154.016 ms  174.619 ms  167.666 ms
+11  [AS15399] 82.2.212.41.in-addr.arpa (41.212.2.82)  374.653 ms  328.168 ms  410.478 ms  307.201 ms  408.345 ms
+12  [AS36930] 41.204.128.169 (41.204.128.169)  410.486 ms  343.155 ms  308.178 ms  306.979 ms  412.694 ms
+13  * * * * *
+14  [AS36930] 41.204.148.5 (41.204.148.5)  371.853 ms *  322.443 ms  408.937 ms  410.426 ms
+15  [AS36930] 41.204.148.1 (41.204.148.1)  412.355 ms  324.178 ms  349.629 ms  312.901 ms  500.480 ms
+
+done

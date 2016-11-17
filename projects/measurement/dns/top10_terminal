@@ -1,0 +1,4519 @@
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.com
+
+;; global options: +cmd
+
+.			502284	IN	NS	l.root-servers.net.
+
+.			502284	IN	NS	m.root-servers.net.
+
+.			502284	IN	NS	a.root-servers.net.
+
+.			502284	IN	NS	b.root-servers.net.
+
+.			502284	IN	NS	c.root-servers.net.
+
+.			502284	IN	NS	d.root-servers.net.
+
+.			502284	IN	NS	e.root-servers.net.
+
+.			502284	IN	NS	f.root-servers.net.
+
+.			502284	IN	NS	g.root-servers.net.
+
+.			502284	IN	NS	h.root-servers.net.
+
+.			502284	IN	NS	i.root-servers.net.
+
+.			502284	IN	NS	j.root-servers.net.
+
+.			502284	IN	NS	k.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 301 ms
+
+
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+;; Received 500 bytes from 2001:500:2::c#53(2001:500:2::c) in 297 ms
+
+
+
+google.com.		172800	IN	NS	ns2.google.com.
+
+google.com.		172800	IN	NS	ns1.google.com.
+
+google.com.		172800	IN	NS	ns3.google.com.
+
+google.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 164 bytes from 192.42.93.30#53(192.42.93.30) in 91 ms
+
+
+
+google.com.		300	IN	A	172.217.5.110
+
+;; Received 44 bytes from 216.239.34.10#53(216.239.34.10) in 59 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.com
+
+;; global options: +cmd
+
+.			502283	IN	NS	b.root-servers.net.
+
+.			502283	IN	NS	c.root-servers.net.
+
+.			502283	IN	NS	d.root-servers.net.
+
+.			502283	IN	NS	e.root-servers.net.
+
+.			502283	IN	NS	f.root-servers.net.
+
+.			502283	IN	NS	g.root-servers.net.
+
+.			502283	IN	NS	h.root-servers.net.
+
+.			502283	IN	NS	i.root-servers.net.
+
+.			502283	IN	NS	j.root-servers.net.
+
+.			502283	IN	NS	k.root-servers.net.
+
+.			502283	IN	NS	l.root-servers.net.
+
+.			502283	IN	NS	m.root-servers.net.
+
+.			502283	IN	NS	a.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 54 ms
+
+
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+;; Received 488 bytes from 2001:500:84::b#53(2001:500:84::b) in 61 ms
+
+
+
+google.com.		172800	IN	NS	ns2.google.com.
+
+google.com.		172800	IN	NS	ns1.google.com.
+
+google.com.		172800	IN	NS	ns3.google.com.
+
+google.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 164 bytes from 192.54.112.30#53(192.54.112.30) in 37 ms
+
+
+
+google.com.		300	IN	A	172.217.3.174
+
+;; Received 44 bytes from 216.239.32.10#53(216.239.32.10) in 38 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.com
+
+;; global options: +cmd
+
+.			502283	IN	NS	g.root-servers.net.
+
+.			502283	IN	NS	h.root-servers.net.
+
+.			502283	IN	NS	i.root-servers.net.
+
+.			502283	IN	NS	j.root-servers.net.
+
+.			502283	IN	NS	k.root-servers.net.
+
+.			502283	IN	NS	l.root-servers.net.
+
+.			502283	IN	NS	m.root-servers.net.
+
+.			502283	IN	NS	a.root-servers.net.
+
+.			502283	IN	NS	b.root-servers.net.
+
+.			502283	IN	NS	c.root-servers.net.
+
+.			502283	IN	NS	d.root-servers.net.
+
+.			502283	IN	NS	e.root-servers.net.
+
+.			502283	IN	NS	f.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 38 ms
+
+
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+;; Received 488 bytes from 192.112.36.4#53(192.112.36.4) in 90 ms
+
+
+
+google.com.		172800	IN	NS	ns2.google.com.
+
+google.com.		172800	IN	NS	ns1.google.com.
+
+google.com.		172800	IN	NS	ns3.google.com.
+
+google.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 164 bytes from 192.42.93.30#53(192.42.93.30) in 19 ms
+
+
+
+google.com.		300	IN	A	172.217.5.110
+
+;; Received 44 bytes from 216.239.32.10#53(216.239.32.10) in 56 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.com
+
+;; global options: +cmd
+
+.			464564	IN	NS	d.root-servers.net.
+
+.			464564	IN	NS	c.root-servers.net.
+
+.			464564	IN	NS	b.root-servers.net.
+
+.			464564	IN	NS	j.root-servers.net.
+
+.			464564	IN	NS	k.root-servers.net.
+
+.			464564	IN	NS	g.root-servers.net.
+
+.			464564	IN	NS	m.root-servers.net.
+
+.			464564	IN	NS	f.root-servers.net.
+
+.			464564	IN	NS	e.root-servers.net.
+
+.			464564	IN	NS	h.root-servers.net.
+
+.			464564	IN	NS	l.root-servers.net.
+
+.			464564	IN	NS	i.root-servers.net.
+
+.			464564	IN	NS	a.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 44 ms
+
+
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+;; Received 488 bytes from 192.33.4.12#53(192.33.4.12) in 40 ms
+
+
+
+google.com.		172800	IN	NS	ns2.google.com.
+
+google.com.		172800	IN	NS	ns1.google.com.
+
+google.com.		172800	IN	NS	ns3.google.com.
+
+google.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 164 bytes from 192.33.14.30#53(192.33.14.30) in 93 ms
+
+
+
+google.com.		300	IN	A	172.217.5.110
+
+;; Received 44 bytes from 216.239.36.10#53(216.239.36.10) in 133 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.com
+
+;; global options: +cmd
+
+.			465179	IN	NS	a.root-servers.net.
+
+.			465179	IN	NS	b.root-servers.net.
+
+.			465179	IN	NS	c.root-servers.net.
+
+.			465179	IN	NS	d.root-servers.net.
+
+.			465179	IN	NS	e.root-servers.net.
+
+.			465179	IN	NS	f.root-servers.net.
+
+.			465179	IN	NS	g.root-servers.net.
+
+.			465179	IN	NS	h.root-servers.net.
+
+.			465179	IN	NS	i.root-servers.net.
+
+.			465179	IN	NS	j.root-servers.net.
+
+.			465179	IN	NS	k.root-servers.net.
+
+.			465179	IN	NS	l.root-servers.net.
+
+.			465179	IN	NS	m.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 39 ms
+
+
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+;; Received 488 bytes from 192.33.4.12#53(192.33.4.12) in 33 ms
+
+
+
+google.com.		172800	IN	NS	ns2.google.com.
+
+google.com.		172800	IN	NS	ns1.google.com.
+
+google.com.		172800	IN	NS	ns3.google.com.
+
+google.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 164 bytes from 192.35.51.30#53(192.35.51.30) in 17 ms
+
+
+
+google.com.		300	IN	A	172.217.5.110
+
+;; Received 44 bytes from 216.239.38.10#53(216.239.38.10) in 36 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail youtube.com
+
+;; global options: +cmd
+
+.			465182	IN	NS	d.root-servers.net.
+
+.			465182	IN	NS	e.root-servers.net.
+
+.			465182	IN	NS	f.root-servers.net.
+
+.			465182	IN	NS	g.root-servers.net.
+
+.			465182	IN	NS	h.root-servers.net.
+
+.			465182	IN	NS	i.root-servers.net.
+
+.			465182	IN	NS	j.root-servers.net.
+
+.			465182	IN	NS	k.root-servers.net.
+
+.			465182	IN	NS	l.root-servers.net.
+
+.			465182	IN	NS	m.root-servers.net.
+
+.			465182	IN	NS	a.root-servers.net.
+
+.			465182	IN	NS	b.root-servers.net.
+
+.			465182	IN	NS	c.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 74 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 501 bytes from 2001:7fd::1#53(2001:7fd::1) in 102 ms
+
+
+
+youtube.com.		172800	IN	NS	ns2.google.com.
+
+youtube.com.		172800	IN	NS	ns1.google.com.
+
+youtube.com.		172800	IN	NS	ns3.google.com.
+
+youtube.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 172 bytes from 192.54.112.30#53(192.54.112.30) in 32 ms
+
+
+
+youtube.com.		300	IN	A	172.217.5.110
+
+;; Received 45 bytes from 216.239.32.10#53(216.239.32.10) in 37 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail youtube.com
+
+;; global options: +cmd
+
+.			464563	IN	NS	h.root-servers.net.
+
+.			464563	IN	NS	l.root-servers.net.
+
+.			464563	IN	NS	i.root-servers.net.
+
+.			464563	IN	NS	a.root-servers.net.
+
+.			464563	IN	NS	d.root-servers.net.
+
+.			464563	IN	NS	c.root-servers.net.
+
+.			464563	IN	NS	b.root-servers.net.
+
+.			464563	IN	NS	j.root-servers.net.
+
+.			464563	IN	NS	k.root-servers.net.
+
+.			464563	IN	NS	g.root-servers.net.
+
+.			464563	IN	NS	m.root-servers.net.
+
+.			464563	IN	NS	f.root-servers.net.
+
+.			464563	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 48 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 489 bytes from 193.0.14.129#53(193.0.14.129) in 98 ms
+
+
+
+youtube.com.		172800	IN	NS	ns2.google.com.
+
+youtube.com.		172800	IN	NS	ns1.google.com.
+
+youtube.com.		172800	IN	NS	ns3.google.com.
+
+youtube.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 172 bytes from 192.54.112.30#53(192.54.112.30) in 34 ms
+
+
+
+youtube.com.		300	IN	A	172.217.5.110
+
+;; Received 45 bytes from 216.239.34.10#53(216.239.34.10) in 58 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail youtube.com
+
+;; global options: +cmd
+
+.			502282	IN	NS	b.root-servers.net.
+
+.			502282	IN	NS	c.root-servers.net.
+
+.			502282	IN	NS	d.root-servers.net.
+
+.			502282	IN	NS	e.root-servers.net.
+
+.			502282	IN	NS	f.root-servers.net.
+
+.			502282	IN	NS	g.root-servers.net.
+
+.			502282	IN	NS	h.root-servers.net.
+
+.			502282	IN	NS	i.root-servers.net.
+
+.			502282	IN	NS	j.root-servers.net.
+
+.			502282	IN	NS	k.root-servers.net.
+
+.			502282	IN	NS	l.root-servers.net.
+
+.			502282	IN	NS	m.root-servers.net.
+
+.			502282	IN	NS	a.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+;; Received 501 bytes from 2001:7fd::1#53(2001:7fd::1) in 103 ms
+
+
+
+youtube.com.		172800	IN	NS	ns2.google.com.
+
+youtube.com.		172800	IN	NS	ns1.google.com.
+
+youtube.com.		172800	IN	NS	ns3.google.com.
+
+youtube.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 172 bytes from 192.55.83.30#53(192.55.83.30) in 180 ms
+
+
+
+youtube.com.		300	IN	A	172.217.5.110
+
+;; Received 45 bytes from 216.239.34.10#53(216.239.34.10) in 59 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail youtube.com
+
+;; global options: +cmd
+
+.			464562	IN	NS	d.root-servers.net.
+
+.			464562	IN	NS	c.root-servers.net.
+
+.			464562	IN	NS	b.root-servers.net.
+
+.			464562	IN	NS	j.root-servers.net.
+
+.			464562	IN	NS	k.root-servers.net.
+
+.			464562	IN	NS	g.root-servers.net.
+
+.			464562	IN	NS	m.root-servers.net.
+
+.			464562	IN	NS	f.root-servers.net.
+
+.			464562	IN	NS	e.root-servers.net.
+
+.			464562	IN	NS	h.root-servers.net.
+
+.			464562	IN	NS	l.root-servers.net.
+
+.			464562	IN	NS	i.root-servers.net.
+
+.			464562	IN	NS	a.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 38 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 501 bytes from 2001:500:1::53#53(2001:500:1::53) in 99 ms
+
+
+
+youtube.com.		172800	IN	NS	ns2.google.com.
+
+youtube.com.		172800	IN	NS	ns1.google.com.
+
+youtube.com.		172800	IN	NS	ns3.google.com.
+
+youtube.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 172 bytes from 2001:503:231d::2:30#53(2001:503:231d::2:30) in 18 ms
+
+
+
+youtube.com.		300	IN	A	172.217.5.110
+
+;; Received 45 bytes from 216.239.34.10#53(216.239.34.10) in 58 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail youtube.com
+
+;; global options: +cmd
+
+.			464562	IN	NS	j.root-servers.net.
+
+.			464562	IN	NS	k.root-servers.net.
+
+.			464562	IN	NS	g.root-servers.net.
+
+.			464562	IN	NS	m.root-servers.net.
+
+.			464562	IN	NS	f.root-servers.net.
+
+.			464562	IN	NS	e.root-servers.net.
+
+.			464562	IN	NS	h.root-servers.net.
+
+.			464562	IN	NS	l.root-servers.net.
+
+.			464562	IN	NS	i.root-servers.net.
+
+.			464562	IN	NS	a.root-servers.net.
+
+.			464562	IN	NS	d.root-servers.net.
+
+.			464562	IN	NS	c.root-servers.net.
+
+.			464562	IN	NS	b.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 36 ms
+
+
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+;; Received 501 bytes from 2001:500:2f::f#53(2001:500:2f::f) in 20 ms
+
+
+
+youtube.com.		172800	IN	NS	ns2.google.com.
+
+youtube.com.		172800	IN	NS	ns1.google.com.
+
+youtube.com.		172800	IN	NS	ns3.google.com.
+
+youtube.com.		172800	IN	NS	ns4.google.com.
+
+;; Received 172 bytes from 192.26.92.30#53(192.26.92.30) in 46 ms
+
+
+
+youtube.com.		300	IN	A	172.217.5.110
+
+;; Received 45 bytes from 216.239.32.10#53(216.239.32.10) in 37 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail facebook.com
+
+;; global options: +cmd
+
+.			464562	IN	NS	l.root-servers.net.
+
+.			464562	IN	NS	i.root-servers.net.
+
+.			464562	IN	NS	a.root-servers.net.
+
+.			464562	IN	NS	d.root-servers.net.
+
+.			464562	IN	NS	c.root-servers.net.
+
+.			464562	IN	NS	b.root-servers.net.
+
+.			464562	IN	NS	j.root-servers.net.
+
+.			464562	IN	NS	k.root-servers.net.
+
+.			464562	IN	NS	g.root-servers.net.
+
+.			464562	IN	NS	m.root-servers.net.
+
+.			464562	IN	NS	f.root-servers.net.
+
+.			464562	IN	NS	e.root-servers.net.
+
+.			464562	IN	NS	h.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 38 ms
+
+
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+;; Received 490 bytes from 192.5.5.241#53(192.5.5.241) in 102 ms
+
+
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 153 bytes from 192.48.79.30#53(192.48.79.30) in 83 ms
+
+
+
+facebook.com.		300	IN	A	31.13.74.36
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 169 bytes from 2a03:2880:fffe:c:face:b00c::35#53(2a03:2880:fffe:c:face:b00c::35) in 14 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail facebook.com
+
+;; global options: +cmd
+
+.			502281	IN	NS	f.root-servers.net.
+
+.			502281	IN	NS	g.root-servers.net.
+
+.			502281	IN	NS	h.root-servers.net.
+
+.			502281	IN	NS	i.root-servers.net.
+
+.			502281	IN	NS	j.root-servers.net.
+
+.			502281	IN	NS	k.root-servers.net.
+
+.			502281	IN	NS	l.root-servers.net.
+
+.			502281	IN	NS	m.root-servers.net.
+
+.			502281	IN	NS	a.root-servers.net.
+
+.			502281	IN	NS	b.root-servers.net.
+
+.			502281	IN	NS	c.root-servers.net.
+
+.			502281	IN	NS	d.root-servers.net.
+
+.			502281	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 36 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 490 bytes from 198.97.190.53#53(198.97.190.53) in 119 ms
+
+
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 153 bytes from 192.52.178.30#53(192.52.178.30) in 217 ms
+
+
+
+facebook.com.		300	IN	A	31.13.65.36
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 169 bytes from 69.171.239.12#53(69.171.239.12) in 18 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail facebook.com
+
+;; global options: +cmd
+
+.			465180	IN	NS	g.root-servers.net.
+
+.			465180	IN	NS	h.root-servers.net.
+
+.			465180	IN	NS	i.root-servers.net.
+
+.			465180	IN	NS	j.root-servers.net.
+
+.			465180	IN	NS	k.root-servers.net.
+
+.			465180	IN	NS	l.root-servers.net.
+
+.			465180	IN	NS	m.root-servers.net.
+
+.			465180	IN	NS	a.root-servers.net.
+
+.			465180	IN	NS	b.root-servers.net.
+
+.			465180	IN	NS	c.root-servers.net.
+
+.			465180	IN	NS	d.root-servers.net.
+
+.			465180	IN	NS	e.root-servers.net.
+
+.			465180	IN	NS	f.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 36 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 490 bytes from 2001:500:9f::42#53(2001:500:9f::42) in 39 ms
+
+
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 153 bytes from 192.35.51.30#53(192.35.51.30) in 34 ms
+
+
+
+facebook.com.		300	IN	A	31.13.65.36
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 169 bytes from 69.171.255.12#53(69.171.255.12) in 27 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail facebook.com
+
+;; global options: +cmd
+
+.			465184	IN	NS	e.root-servers.net.
+
+.			465184	IN	NS	f.root-servers.net.
+
+.			465184	IN	NS	g.root-servers.net.
+
+.			465184	IN	NS	h.root-servers.net.
+
+.			465184	IN	NS	i.root-servers.net.
+
+.			465184	IN	NS	j.root-servers.net.
+
+.			465184	IN	NS	k.root-servers.net.
+
+.			465184	IN	NS	l.root-servers.net.
+
+.			465184	IN	NS	m.root-servers.net.
+
+.			465184	IN	NS	a.root-servers.net.
+
+.			465184	IN	NS	b.root-servers.net.
+
+.			465184	IN	NS	c.root-servers.net.
+
+.			465184	IN	NS	d.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 36 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 490 bytes from 2001:500:9f::42#53(2001:500:9f::42) in 28 ms
+
+
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 153 bytes from 192.52.178.30#53(192.52.178.30) in 208 ms
+
+
+
+facebook.com.		300	IN	A	31.13.65.36
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 169 bytes from 69.171.239.12#53(69.171.239.12) in 28 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail facebook.com
+
+;; global options: +cmd
+
+.			465187	IN	NS	i.root-servers.net.
+
+.			465187	IN	NS	j.root-servers.net.
+
+.			465187	IN	NS	k.root-servers.net.
+
+.			465187	IN	NS	l.root-servers.net.
+
+.			465187	IN	NS	m.root-servers.net.
+
+.			465187	IN	NS	a.root-servers.net.
+
+.			465187	IN	NS	b.root-servers.net.
+
+.			465187	IN	NS	c.root-servers.net.
+
+.			465187	IN	NS	d.root-servers.net.
+
+.			465187	IN	NS	e.root-servers.net.
+
+.			465187	IN	NS	f.root-servers.net.
+
+.			465187	IN	NS	g.root-servers.net.
+
+.			465187	IN	NS	h.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 83 ms
+
+
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+;; Received 502 bytes from 2001:7fe::53#53(2001:7fe::53) in 43 ms
+
+
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 153 bytes from 192.31.80.30#53(192.31.80.30) in 26 ms
+
+
+
+facebook.com.		300	IN	A	31.13.65.36
+
+facebook.com.		172800	IN	NS	a.ns.facebook.com.
+
+facebook.com.		172800	IN	NS	b.ns.facebook.com.
+
+;; Received 169 bytes from 69.171.239.12#53(69.171.239.12) in 17 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail baidu.com
+
+;; global options: +cmd
+
+.			502280	IN	NS	k.root-servers.net.
+
+.			502280	IN	NS	l.root-servers.net.
+
+.			502280	IN	NS	m.root-servers.net.
+
+.			502280	IN	NS	a.root-servers.net.
+
+.			502280	IN	NS	b.root-servers.net.
+
+.			502280	IN	NS	c.root-servers.net.
+
+.			502280	IN	NS	d.root-servers.net.
+
+.			502280	IN	NS	e.root-servers.net.
+
+.			502280	IN	NS	f.root-servers.net.
+
+.			502280	IN	NS	g.root-servers.net.
+
+.			502280	IN	NS	h.root-servers.net.
+
+.			502280	IN	NS	i.root-servers.net.
+
+.			502280	IN	NS	j.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 487 bytes from 2001:500:2d::d#53(2001:500:2d::d) in 21 ms
+
+
+
+baidu.com.		172800	IN	NS	dns.baidu.com.
+
+baidu.com.		172800	IN	NS	ns2.baidu.com.
+
+baidu.com.		172800	IN	NS	ns3.baidu.com.
+
+baidu.com.		172800	IN	NS	ns4.baidu.com.
+
+baidu.com.		172800	IN	NS	ns7.baidu.com.
+
+;; Received 197 bytes from 192.42.93.30#53(192.42.93.30) in 440 ms
+
+
+
+baidu.com.		600	IN	A	220.181.57.217
+
+baidu.com.		600	IN	A	111.13.101.208
+
+baidu.com.		600	IN	A	123.125.114.144
+
+baidu.com.		600	IN	A	180.149.132.47
+
+baidu.com.		86400	IN	NS	ns4.baidu.com.
+
+baidu.com.		86400	IN	NS	ns3.baidu.com.
+
+baidu.com.		86400	IN	NS	ns7.baidu.com.
+
+baidu.com.		86400	IN	NS	ns2.baidu.com.
+
+baidu.com.		86400	IN	NS	dns.baidu.com.
+
+;; Received 261 bytes from 202.108.22.220#53(202.108.22.220) in 249 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail baidu.com
+
+;; global options: +cmd
+
+.			465179	IN	NS	m.root-servers.net.
+
+.			465179	IN	NS	a.root-servers.net.
+
+.			465179	IN	NS	b.root-servers.net.
+
+.			465179	IN	NS	c.root-servers.net.
+
+.			465179	IN	NS	d.root-servers.net.
+
+.			465179	IN	NS	e.root-servers.net.
+
+.			465179	IN	NS	f.root-servers.net.
+
+.			465179	IN	NS	g.root-servers.net.
+
+.			465179	IN	NS	h.root-servers.net.
+
+.			465179	IN	NS	i.root-servers.net.
+
+.			465179	IN	NS	j.root-servers.net.
+
+.			465179	IN	NS	k.root-servers.net.
+
+.			465179	IN	NS	l.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 43 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 487 bytes from 198.41.0.4#53(198.41.0.4) in 29 ms
+
+
+
+baidu.com.		172800	IN	NS	dns.baidu.com.
+
+baidu.com.		172800	IN	NS	ns2.baidu.com.
+
+baidu.com.		172800	IN	NS	ns3.baidu.com.
+
+baidu.com.		172800	IN	NS	ns4.baidu.com.
+
+baidu.com.		172800	IN	NS	ns7.baidu.com.
+
+;; Received 197 bytes from 192.5.6.30#53(192.5.6.30) in 24 ms
+
+
+
+baidu.com.		600	IN	A	220.181.57.217
+
+baidu.com.		600	IN	A	111.13.101.208
+
+baidu.com.		600	IN	A	123.125.114.144
+
+baidu.com.		600	IN	A	180.149.132.47
+
+baidu.com.		86400	IN	NS	ns4.baidu.com.
+
+baidu.com.		86400	IN	NS	ns3.baidu.com.
+
+baidu.com.		86400	IN	NS	ns7.baidu.com.
+
+baidu.com.		86400	IN	NS	ns2.baidu.com.
+
+baidu.com.		86400	IN	NS	dns.baidu.com.
+
+;; Received 261 bytes from 61.135.165.235#53(61.135.165.235) in 394 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail baidu.com
+
+;; global options: +cmd
+
+.			464559	IN	NS	j.root-servers.net.
+
+.			464559	IN	NS	k.root-servers.net.
+
+.			464559	IN	NS	g.root-servers.net.
+
+.			464559	IN	NS	m.root-servers.net.
+
+.			464559	IN	NS	f.root-servers.net.
+
+.			464559	IN	NS	e.root-servers.net.
+
+.			464559	IN	NS	h.root-servers.net.
+
+.			464559	IN	NS	l.root-servers.net.
+
+.			464559	IN	NS	i.root-servers.net.
+
+.			464559	IN	NS	a.root-servers.net.
+
+.			464559	IN	NS	d.root-servers.net.
+
+.			464559	IN	NS	c.root-servers.net.
+
+.			464559	IN	NS	b.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 50 ms
+
+
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+;; Received 487 bytes from 192.228.79.201#53(192.228.79.201) in 32 ms
+
+
+
+baidu.com.		172800	IN	NS	dns.baidu.com.
+
+baidu.com.		172800	IN	NS	ns2.baidu.com.
+
+baidu.com.		172800	IN	NS	ns3.baidu.com.
+
+baidu.com.		172800	IN	NS	ns4.baidu.com.
+
+baidu.com.		172800	IN	NS	ns7.baidu.com.
+
+;; Received 197 bytes from 192.5.6.30#53(192.5.6.30) in 25 ms
+
+
+
+baidu.com.		600	IN	A	111.13.101.208
+
+baidu.com.		600	IN	A	123.125.114.144
+
+baidu.com.		600	IN	A	180.149.132.47
+
+baidu.com.		600	IN	A	220.181.57.217
+
+baidu.com.		86400	IN	NS	ns7.baidu.com.
+
+baidu.com.		86400	IN	NS	ns4.baidu.com.
+
+baidu.com.		86400	IN	NS	dns.baidu.com.
+
+baidu.com.		86400	IN	NS	ns2.baidu.com.
+
+baidu.com.		86400	IN	NS	ns3.baidu.com.
+
+;; Received 261 bytes from 220.181.38.10#53(220.181.38.10) in 200 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail baidu.com
+
+;; global options: +cmd
+
+.			464559	IN	NS	l.root-servers.net.
+
+.			464559	IN	NS	i.root-servers.net.
+
+.			464559	IN	NS	a.root-servers.net.
+
+.			464559	IN	NS	d.root-servers.net.
+
+.			464559	IN	NS	c.root-servers.net.
+
+.			464559	IN	NS	b.root-servers.net.
+
+.			464559	IN	NS	j.root-servers.net.
+
+.			464559	IN	NS	k.root-servers.net.
+
+.			464559	IN	NS	g.root-servers.net.
+
+.			464559	IN	NS	m.root-servers.net.
+
+.			464559	IN	NS	f.root-servers.net.
+
+.			464559	IN	NS	e.root-servers.net.
+
+.			464559	IN	NS	h.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 51 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 487 bytes from 192.58.128.30#53(192.58.128.30) in 207 ms
+
+
+
+baidu.com.		172800	IN	NS	dns.baidu.com.
+
+baidu.com.		172800	IN	NS	ns2.baidu.com.
+
+baidu.com.		172800	IN	NS	ns3.baidu.com.
+
+baidu.com.		172800	IN	NS	ns4.baidu.com.
+
+baidu.com.		172800	IN	NS	ns7.baidu.com.
+
+;; Received 197 bytes from 192.35.51.30#53(192.35.51.30) in 18 ms
+
+
+
+baidu.com.		600	IN	A	220.181.57.217
+
+baidu.com.		600	IN	A	111.13.101.208
+
+baidu.com.		600	IN	A	123.125.114.144
+
+baidu.com.		600	IN	A	180.149.132.47
+
+baidu.com.		86400	IN	NS	ns2.baidu.com.
+
+baidu.com.		86400	IN	NS	ns4.baidu.com.
+
+baidu.com.		86400	IN	NS	ns7.baidu.com.
+
+baidu.com.		86400	IN	NS	dns.baidu.com.
+
+baidu.com.		86400	IN	NS	ns3.baidu.com.
+
+;; Received 261 bytes from 119.75.219.82#53(119.75.219.82) in 390 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail baidu.com
+
+;; global options: +cmd
+
+.			464557	IN	NS	h.root-servers.net.
+
+.			464557	IN	NS	l.root-servers.net.
+
+.			464557	IN	NS	i.root-servers.net.
+
+.			464557	IN	NS	a.root-servers.net.
+
+.			464557	IN	NS	d.root-servers.net.
+
+.			464557	IN	NS	c.root-servers.net.
+
+.			464557	IN	NS	b.root-servers.net.
+
+.			464557	IN	NS	j.root-servers.net.
+
+.			464557	IN	NS	k.root-servers.net.
+
+.			464557	IN	NS	g.root-servers.net.
+
+.			464557	IN	NS	m.root-servers.net.
+
+.			464557	IN	NS	f.root-servers.net.
+
+.			464557	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 43 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 499 bytes from 2001:7fd::1#53(2001:7fd::1) in 289 ms
+
+
+
+baidu.com.		172800	IN	NS	dns.baidu.com.
+
+baidu.com.		172800	IN	NS	ns2.baidu.com.
+
+baidu.com.		172800	IN	NS	ns3.baidu.com.
+
+baidu.com.		172800	IN	NS	ns4.baidu.com.
+
+baidu.com.		172800	IN	NS	ns7.baidu.com.
+
+;; Received 197 bytes from 192.26.92.30#53(192.26.92.30) in 23 ms
+
+
+
+baidu.com.		600	IN	A	123.125.114.144
+
+baidu.com.		600	IN	A	180.149.132.47
+
+baidu.com.		600	IN	A	220.181.57.217
+
+baidu.com.		600	IN	A	111.13.101.208
+
+baidu.com.		86400	IN	NS	ns4.baidu.com.
+
+baidu.com.		86400	IN	NS	ns7.baidu.com.
+
+baidu.com.		86400	IN	NS	ns2.baidu.com.
+
+baidu.com.		86400	IN	NS	dns.baidu.com.
+
+baidu.com.		86400	IN	NS	ns3.baidu.com.
+
+;; Received 261 bytes from 220.181.38.10#53(220.181.38.10) in 301 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail wikipedia.org
+
+;; global options: +cmd
+
+.			465176	IN	NS	e.root-servers.net.
+
+.			465176	IN	NS	f.root-servers.net.
+
+.			465176	IN	NS	g.root-servers.net.
+
+.			465176	IN	NS	h.root-servers.net.
+
+.			465176	IN	NS	i.root-servers.net.
+
+.			465176	IN	NS	j.root-servers.net.
+
+.			465176	IN	NS	k.root-servers.net.
+
+.			465176	IN	NS	l.root-servers.net.
+
+.			465176	IN	NS	m.root-servers.net.
+
+.			465176	IN	NS	a.root-servers.net.
+
+.			465176	IN	NS	b.root-servers.net.
+
+.			465176	IN	NS	c.root-servers.net.
+
+.			465176	IN	NS	d.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+org.			172800	IN	NS	a0.org.afilias-nst.info.
+
+org.			172800	IN	NS	a2.org.afilias-nst.info.
+
+org.			172800	IN	NS	b0.org.afilias-nst.org.
+
+org.			172800	IN	NS	b2.org.afilias-nst.org.
+
+org.			172800	IN	NS	c0.org.afilias-nst.info.
+
+org.			172800	IN	NS	d0.org.afilias-nst.org.
+
+;; Received 433 bytes from 2001:503:c27::2:30#53(2001:503:c27::2:30) in 956 ms
+
+
+
+wikipedia.org.		86400	IN	NS	ns0.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns1.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns2.wikimedia.org.
+
+;; Received 143 bytes from 2001:500:40::1#53(2001:500:40::1) in 200 ms
+
+
+
+wikipedia.org.		600	IN	A	198.35.26.96
+
+;; Received 75 bytes from 208.80.154.238#53(208.80.154.238) in 96 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail wikipedia.org
+
+;; global options: +cmd
+
+.			465178	IN	NS	c.root-servers.net.
+
+.			465178	IN	NS	d.root-servers.net.
+
+.			465178	IN	NS	e.root-servers.net.
+
+.			465178	IN	NS	f.root-servers.net.
+
+.			465178	IN	NS	g.root-servers.net.
+
+.			465178	IN	NS	h.root-servers.net.
+
+.			465178	IN	NS	i.root-servers.net.
+
+.			465178	IN	NS	j.root-servers.net.
+
+.			465178	IN	NS	k.root-servers.net.
+
+.			465178	IN	NS	l.root-servers.net.
+
+.			465178	IN	NS	m.root-servers.net.
+
+.			465178	IN	NS	a.root-servers.net.
+
+.			465178	IN	NS	b.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 44 ms
+
+
+
+org.			172800	IN	NS	a0.org.afilias-nst.info.
+
+org.			172800	IN	NS	a2.org.afilias-nst.info.
+
+org.			172800	IN	NS	b0.org.afilias-nst.org.
+
+org.			172800	IN	NS	b2.org.afilias-nst.org.
+
+org.			172800	IN	NS	c0.org.afilias-nst.info.
+
+org.			172800	IN	NS	d0.org.afilias-nst.org.
+
+;; Received 433 bytes from 198.41.0.4#53(198.41.0.4) in 29 ms
+
+
+
+wikipedia.org.		86400	IN	NS	ns2.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns1.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns0.wikimedia.org.
+
+;; Received 143 bytes from 2001:500:f::1#53(2001:500:f::1) in 21 ms
+
+
+
+wikipedia.org.		600	IN	A	198.35.26.96
+
+;; Received 75 bytes from 208.80.153.231#53(208.80.153.231) in 60 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail wikipedia.org
+
+;; global options: +cmd
+
+.			465174	IN	NS	m.root-servers.net.
+
+.			465174	IN	NS	a.root-servers.net.
+
+.			465174	IN	NS	b.root-servers.net.
+
+.			465174	IN	NS	c.root-servers.net.
+
+.			465174	IN	NS	d.root-servers.net.
+
+.			465174	IN	NS	e.root-servers.net.
+
+.			465174	IN	NS	f.root-servers.net.
+
+.			465174	IN	NS	g.root-servers.net.
+
+.			465174	IN	NS	h.root-servers.net.
+
+.			465174	IN	NS	i.root-servers.net.
+
+.			465174	IN	NS	j.root-servers.net.
+
+.			465174	IN	NS	k.root-servers.net.
+
+.			465174	IN	NS	l.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 43 ms
+
+
+
+org.			172800	IN	NS	a0.org.afilias-nst.info.
+
+org.			172800	IN	NS	a2.org.afilias-nst.info.
+
+org.			172800	IN	NS	c0.org.afilias-nst.info.
+
+org.			172800	IN	NS	b0.org.afilias-nst.org.
+
+org.			172800	IN	NS	b2.org.afilias-nst.org.
+
+org.			172800	IN	NS	d0.org.afilias-nst.org.
+
+;; Received 433 bytes from 2001:500:12::d0d#53(2001:500:12::d0d) in 80 ms
+
+
+
+wikipedia.org.		86400	IN	NS	ns0.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns1.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns2.wikimedia.org.
+
+;; Received 143 bytes from 2001:500:e::1#53(2001:500:e::1) in 86 ms
+
+
+
+wikipedia.org.		600	IN	A	198.35.26.96
+
+;; Received 75 bytes from 208.80.154.238#53(208.80.154.238) in 88 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail wikipedia.org
+
+;; global options: +cmd
+
+.			465178	IN	NS	h.root-servers.net.
+
+.			465178	IN	NS	i.root-servers.net.
+
+.			465178	IN	NS	j.root-servers.net.
+
+.			465178	IN	NS	k.root-servers.net.
+
+.			465178	IN	NS	l.root-servers.net.
+
+.			465178	IN	NS	m.root-servers.net.
+
+.			465178	IN	NS	a.root-servers.net.
+
+.			465178	IN	NS	b.root-servers.net.
+
+.			465178	IN	NS	c.root-servers.net.
+
+.			465178	IN	NS	d.root-servers.net.
+
+.			465178	IN	NS	e.root-servers.net.
+
+.			465178	IN	NS	f.root-servers.net.
+
+.			465178	IN	NS	g.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 42 ms
+
+
+
+org.			172800	IN	NS	a2.org.afilias-nst.info.
+
+org.			172800	IN	NS	d0.org.afilias-nst.org.
+
+org.			172800	IN	NS	b0.org.afilias-nst.org.
+
+org.			172800	IN	NS	b2.org.afilias-nst.org.
+
+org.			172800	IN	NS	c0.org.afilias-nst.info.
+
+org.			172800	IN	NS	a0.org.afilias-nst.info.
+
+;; Received 433 bytes from 2001:500:2d::d#53(2001:500:2d::d) in 20 ms
+
+
+
+wikipedia.org.		86400	IN	NS	ns2.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns1.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns0.wikimedia.org.
+
+;; Received 143 bytes from 199.19.57.1#53(199.19.57.1) in 29 ms
+
+
+
+wikipedia.org.		600	IN	A	198.35.26.96
+
+;; Received 75 bytes from 208.80.154.238#53(208.80.154.238) in 86 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail wikipedia.org
+
+;; global options: +cmd
+
+.			465181	IN	NS	j.root-servers.net.
+
+.			465181	IN	NS	k.root-servers.net.
+
+.			465181	IN	NS	l.root-servers.net.
+
+.			465181	IN	NS	m.root-servers.net.
+
+.			465181	IN	NS	a.root-servers.net.
+
+.			465181	IN	NS	b.root-servers.net.
+
+.			465181	IN	NS	c.root-servers.net.
+
+.			465181	IN	NS	d.root-servers.net.
+
+.			465181	IN	NS	e.root-servers.net.
+
+.			465181	IN	NS	f.root-servers.net.
+
+.			465181	IN	NS	g.root-servers.net.
+
+.			465181	IN	NS	h.root-servers.net.
+
+.			465181	IN	NS	i.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 47 ms
+
+
+
+org.			172800	IN	NS	a0.org.afilias-nst.info.
+
+org.			172800	IN	NS	a2.org.afilias-nst.info.
+
+org.			172800	IN	NS	b0.org.afilias-nst.org.
+
+org.			172800	IN	NS	b2.org.afilias-nst.org.
+
+org.			172800	IN	NS	d0.org.afilias-nst.org.
+
+org.			172800	IN	NS	c0.org.afilias-nst.info.
+
+;; Received 433 bytes from 2001:dc3::35#53(2001:dc3::35) in 176 ms
+
+
+
+wikipedia.org.		86400	IN	NS	ns0.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns1.wikimedia.org.
+
+wikipedia.org.		86400	IN	NS	ns2.wikimedia.org.
+
+;; Received 143 bytes from 199.249.120.1#53(199.249.120.1) in 64 ms
+
+
+
+wikipedia.org.		600	IN	A	198.35.26.96
+
+;; Received 75 bytes from 208.80.153.231#53(208.80.153.231) in 61 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail yahoo.com
+
+;; global options: +cmd
+
+.			464554	IN	NS	e.root-servers.net.
+
+.			464554	IN	NS	h.root-servers.net.
+
+.			464554	IN	NS	l.root-servers.net.
+
+.			464554	IN	NS	i.root-servers.net.
+
+.			464554	IN	NS	a.root-servers.net.
+
+.			464554	IN	NS	d.root-servers.net.
+
+.			464554	IN	NS	c.root-servers.net.
+
+.			464554	IN	NS	b.root-servers.net.
+
+.			464554	IN	NS	j.root-servers.net.
+
+.			464554	IN	NS	k.root-servers.net.
+
+.			464554	IN	NS	g.root-servers.net.
+
+.			464554	IN	NS	m.root-servers.net.
+
+.			464554	IN	NS	f.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 38 ms
+
+
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+;; Received 499 bytes from 2001:7fe::53#53(2001:7fe::53) in 25 ms
+
+
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+;; Received 281 bytes from 2001:503:231d::2:30#53(2001:503:231d::2:30) in 112 ms
+
+
+
+yahoo.com.		1800	IN	A	98.139.183.24
+
+yahoo.com.		1800	IN	A	98.138.253.109
+
+yahoo.com.		1800	IN	A	206.190.36.45
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns6.yahoo.com.
+
+;; Received 391 bytes from 2001:4998:130::1001#53(2001:4998:130::1001) in 13 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail yahoo.com
+
+;; global options: +cmd
+
+.			465180	IN	NS	f.root-servers.net.
+
+.			465180	IN	NS	g.root-servers.net.
+
+.			465180	IN	NS	h.root-servers.net.
+
+.			465180	IN	NS	i.root-servers.net.
+
+.			465180	IN	NS	j.root-servers.net.
+
+.			465180	IN	NS	k.root-servers.net.
+
+.			465180	IN	NS	l.root-servers.net.
+
+.			465180	IN	NS	m.root-servers.net.
+
+.			465180	IN	NS	a.root-servers.net.
+
+.			465180	IN	NS	b.root-servers.net.
+
+.			465180	IN	NS	c.root-servers.net.
+
+.			465180	IN	NS	d.root-servers.net.
+
+.			465180	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 36 ms
+
+
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+;; Received 487 bytes from 192.33.4.12#53(192.33.4.12) in 47 ms
+
+
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+;; Received 281 bytes from 192.55.83.30#53(192.55.83.30) in 179 ms
+
+
+
+yahoo.com.		1800	IN	A	206.190.36.45
+
+yahoo.com.		1800	IN	A	98.138.253.109
+
+yahoo.com.		1800	IN	A	98.139.183.24
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns6.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+;; Received 391 bytes from 203.84.221.53#53(203.84.221.53) in 300 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail yahoo.com
+
+;; global options: +cmd
+
+.			502273	IN	NS	a.root-servers.net.
+
+.			502273	IN	NS	b.root-servers.net.
+
+.			502273	IN	NS	c.root-servers.net.
+
+.			502273	IN	NS	d.root-servers.net.
+
+.			502273	IN	NS	e.root-servers.net.
+
+.			502273	IN	NS	f.root-servers.net.
+
+.			502273	IN	NS	g.root-servers.net.
+
+.			502273	IN	NS	h.root-servers.net.
+
+.			502273	IN	NS	i.root-servers.net.
+
+.			502273	IN	NS	j.root-servers.net.
+
+.			502273	IN	NS	k.root-servers.net.
+
+.			502273	IN	NS	l.root-servers.net.
+
+.			502273	IN	NS	m.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 35 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 487 bytes from 2001:500:9f::42#53(2001:500:9f::42) in 21 ms
+
+
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+;; Received 281 bytes from 192.43.172.30#53(192.43.172.30) in 46 ms
+
+
+
+yahoo.com.		1800	IN	A	98.138.253.109
+
+yahoo.com.		1800	IN	A	206.190.36.45
+
+yahoo.com.		1800	IN	A	98.139.183.24
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns6.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+;; Received 391 bytes from 2001:4998:140::1002#53(2001:4998:140::1002) in 146 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail yahoo.com
+
+;; global options: +cmd
+
+.			502272	IN	NS	m.root-servers.net.
+
+.			502272	IN	NS	a.root-servers.net.
+
+.			502272	IN	NS	b.root-servers.net.
+
+.			502272	IN	NS	c.root-servers.net.
+
+.			502272	IN	NS	d.root-servers.net.
+
+.			502272	IN	NS	e.root-servers.net.
+
+.			502272	IN	NS	f.root-servers.net.
+
+.			502272	IN	NS	g.root-servers.net.
+
+.			502272	IN	NS	h.root-servers.net.
+
+.			502272	IN	NS	i.root-servers.net.
+
+.			502272	IN	NS	j.root-servers.net.
+
+.			502272	IN	NS	k.root-servers.net.
+
+.			502272	IN	NS	l.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+;; Received 499 bytes from 2001:500:2f::f#53(2001:500:2f::f) in 36 ms
+
+
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+;; Received 281 bytes from 192.43.172.30#53(192.43.172.30) in 37 ms
+
+
+
+yahoo.com.		1800	IN	A	98.139.183.24
+
+yahoo.com.		1800	IN	A	206.190.36.45
+
+yahoo.com.		1800	IN	A	98.138.253.109
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns6.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+;; Received 391 bytes from 68.180.131.16#53(68.180.131.16) in 24 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail yahoo.com
+
+;; global options: +cmd
+
+.			465176	IN	NS	k.root-servers.net.
+
+.			465176	IN	NS	l.root-servers.net.
+
+.			465176	IN	NS	m.root-servers.net.
+
+.			465176	IN	NS	a.root-servers.net.
+
+.			465176	IN	NS	b.root-servers.net.
+
+.			465176	IN	NS	c.root-servers.net.
+
+.			465176	IN	NS	d.root-servers.net.
+
+.			465176	IN	NS	e.root-servers.net.
+
+.			465176	IN	NS	f.root-servers.net.
+
+.			465176	IN	NS	g.root-servers.net.
+
+.			465176	IN	NS	h.root-servers.net.
+
+.			465176	IN	NS	i.root-servers.net.
+
+.			465176	IN	NS	j.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+;; Received 487 bytes from 192.5.5.241#53(192.5.5.241) in 106 ms
+
+
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+;; Received 281 bytes from 192.33.14.30#53(192.33.14.30) in 91 ms
+
+
+
+yahoo.com.		1800	IN	A	206.190.36.45
+
+yahoo.com.		1800	IN	A	98.138.253.109
+
+yahoo.com.		1800	IN	A	98.139.183.24
+
+yahoo.com.		172800	IN	NS	ns4.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns3.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns1.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns2.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns6.yahoo.com.
+
+yahoo.com.		172800	IN	NS	ns5.yahoo.com.
+
+;; Received 391 bytes from 98.138.11.157#53(98.138.11.157) in 59 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.co.in
+
+;; global options: +cmd
+
+.			465172	IN	NS	f.root-servers.net.
+
+.			465172	IN	NS	g.root-servers.net.
+
+.			465172	IN	NS	h.root-servers.net.
+
+.			465172	IN	NS	i.root-servers.net.
+
+.			465172	IN	NS	j.root-servers.net.
+
+.			465172	IN	NS	k.root-servers.net.
+
+.			465172	IN	NS	l.root-servers.net.
+
+.			465172	IN	NS	m.root-servers.net.
+
+.			465172	IN	NS	a.root-servers.net.
+
+.			465172	IN	NS	b.root-servers.net.
+
+.			465172	IN	NS	c.root-servers.net.
+
+.			465172	IN	NS	d.root-servers.net.
+
+.			465172	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 40 ms
+
+
+
+in.			172800	IN	NS	a2.in.afilias-nst.info.
+
+in.			172800	IN	NS	a1.in.afilias-nst.in.
+
+in.			172800	IN	NS	b2.in.afilias-nst.org.
+
+in.			172800	IN	NS	b0.in.afilias-nst.org.
+
+in.			172800	IN	NS	b1.in.afilias-nst.in.
+
+in.			172800	IN	NS	a0.in.afilias-nst.info.
+
+in.			172800	IN	NS	c0.in.afilias-nst.info.
+
+;; Received 509 bytes from 202.12.27.33#53(202.12.27.33) in 659 ms
+
+
+
+google.co.in.		86400	IN	NS	ns1.google.com.
+
+google.co.in.		86400	IN	NS	ns2.google.com.
+
+google.co.in.		86400	IN	NS	ns3.google.com.
+
+;; Received 94 bytes from 2001:500:45::1#53(2001:500:45::1) in 31 ms
+
+
+
+google.co.in.		300	IN	A	172.217.5.99
+
+;; Received 46 bytes from 216.239.32.10#53(216.239.32.10) in 36 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.co.in
+
+;; global options: +cmd
+
+.			465168	IN	NS	i.root-servers.net.
+
+.			465168	IN	NS	j.root-servers.net.
+
+.			465168	IN	NS	k.root-servers.net.
+
+.			465168	IN	NS	l.root-servers.net.
+
+.			465168	IN	NS	m.root-servers.net.
+
+.			465168	IN	NS	a.root-servers.net.
+
+.			465168	IN	NS	b.root-servers.net.
+
+.			465168	IN	NS	c.root-servers.net.
+
+.			465168	IN	NS	d.root-servers.net.
+
+.			465168	IN	NS	e.root-servers.net.
+
+.			465168	IN	NS	f.root-servers.net.
+
+.			465168	IN	NS	g.root-servers.net.
+
+.			465168	IN	NS	h.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 39 ms
+
+
+
+in.			172800	IN	NS	a0.in.afilias-nst.info.
+
+in.			172800	IN	NS	a1.in.afilias-nst.in.
+
+in.			172800	IN	NS	a2.in.afilias-nst.info.
+
+in.			172800	IN	NS	b0.in.afilias-nst.org.
+
+in.			172800	IN	NS	b1.in.afilias-nst.in.
+
+in.			172800	IN	NS	b2.in.afilias-nst.org.
+
+in.			172800	IN	NS	c0.in.afilias-nst.info.
+
+;; Received 509 bytes from 192.203.230.10#53(192.203.230.10) in 88 ms
+
+
+
+google.co.in.		86400	IN	NS	ns3.google.com.
+
+google.co.in.		86400	IN	NS	ns2.google.com.
+
+google.co.in.		86400	IN	NS	ns1.google.com.
+
+;; Received 94 bytes from 199.253.57.1#53(199.253.57.1) in 87 ms
+
+
+
+google.co.in.		300	IN	A	172.217.5.99
+
+;; Received 46 bytes from 216.239.36.10#53(216.239.36.10) in 91 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.co.in
+
+;; global options: +cmd
+
+.			502270	IN	NS	d.root-servers.net.
+
+.			502270	IN	NS	e.root-servers.net.
+
+.			502270	IN	NS	f.root-servers.net.
+
+.			502270	IN	NS	g.root-servers.net.
+
+.			502270	IN	NS	h.root-servers.net.
+
+.			502270	IN	NS	i.root-servers.net.
+
+.			502270	IN	NS	j.root-servers.net.
+
+.			502270	IN	NS	k.root-servers.net.
+
+.			502270	IN	NS	l.root-servers.net.
+
+.			502270	IN	NS	m.root-servers.net.
+
+.			502270	IN	NS	a.root-servers.net.
+
+.			502270	IN	NS	b.root-servers.net.
+
+.			502270	IN	NS	c.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 45 ms
+
+
+
+in.			172800	IN	NS	a0.in.afilias-nst.info.
+
+in.			172800	IN	NS	a1.in.afilias-nst.in.
+
+in.			172800	IN	NS	a2.in.afilias-nst.info.
+
+in.			172800	IN	NS	b0.in.afilias-nst.org.
+
+in.			172800	IN	NS	b1.in.afilias-nst.in.
+
+in.			172800	IN	NS	b2.in.afilias-nst.org.
+
+in.			172800	IN	NS	c0.in.afilias-nst.info.
+
+;; Received 509 bytes from 2001:500:a8::e#53(2001:500:a8::e) in 19 ms
+
+
+
+google.co.in.		86400	IN	NS	ns1.google.com.
+
+google.co.in.		86400	IN	NS	ns3.google.com.
+
+google.co.in.		86400	IN	NS	ns2.google.com.
+
+;; Received 94 bytes from 2001:4528:fff:13::142#53(2001:4528:fff:13::142) in 326 ms
+
+
+
+google.co.in.		300	IN	A	172.217.5.99
+
+;; Received 46 bytes from 216.239.36.10#53(216.239.36.10) in 86 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.co.in
+
+;; global options: +cmd
+
+.			465169	IN	NS	e.root-servers.net.
+
+.			465169	IN	NS	f.root-servers.net.
+
+.			465169	IN	NS	g.root-servers.net.
+
+.			465169	IN	NS	h.root-servers.net.
+
+.			465169	IN	NS	i.root-servers.net.
+
+.			465169	IN	NS	j.root-servers.net.
+
+.			465169	IN	NS	k.root-servers.net.
+
+.			465169	IN	NS	l.root-servers.net.
+
+.			465169	IN	NS	m.root-servers.net.
+
+.			465169	IN	NS	a.root-servers.net.
+
+.			465169	IN	NS	b.root-servers.net.
+
+.			465169	IN	NS	c.root-servers.net.
+
+.			465169	IN	NS	d.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 39 ms
+
+
+
+in.			172800	IN	NS	b1.in.afilias-nst.in.
+
+in.			172800	IN	NS	b0.in.afilias-nst.org.
+
+in.			172800	IN	NS	a0.in.afilias-nst.info.
+
+in.			172800	IN	NS	a1.in.afilias-nst.in.
+
+in.			172800	IN	NS	a2.in.afilias-nst.info.
+
+in.			172800	IN	NS	c0.in.afilias-nst.info.
+
+in.			172800	IN	NS	b2.in.afilias-nst.org.
+
+;; Received 509 bytes from 192.33.4.12#53(192.33.4.12) in 33 ms
+
+
+
+google.co.in.		86400	IN	NS	ns3.google.com.
+
+google.co.in.		86400	IN	NS	ns1.google.com.
+
+google.co.in.		86400	IN	NS	ns2.google.com.
+
+;; Received 94 bytes from 115.249.164.142#53(115.249.164.142) in 332 ms
+
+
+
+google.co.in.		300	IN	A	172.217.5.99
+
+;; Received 46 bytes from 216.239.32.10#53(216.239.32.10) in 39 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail google.co.in
+
+;; global options: +cmd
+
+.			502269	IN	NS	a.root-servers.net.
+
+.			502269	IN	NS	b.root-servers.net.
+
+.			502269	IN	NS	c.root-servers.net.
+
+.			502269	IN	NS	d.root-servers.net.
+
+.			502269	IN	NS	e.root-servers.net.
+
+.			502269	IN	NS	f.root-servers.net.
+
+.			502269	IN	NS	g.root-servers.net.
+
+.			502269	IN	NS	h.root-servers.net.
+
+.			502269	IN	NS	i.root-servers.net.
+
+.			502269	IN	NS	j.root-servers.net.
+
+.			502269	IN	NS	k.root-servers.net.
+
+.			502269	IN	NS	l.root-servers.net.
+
+.			502269	IN	NS	m.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 45 ms
+
+
+
+in.			172800	IN	NS	c0.in.afilias-nst.info.
+
+in.			172800	IN	NS	b0.in.afilias-nst.org.
+
+in.			172800	IN	NS	a1.in.afilias-nst.in.
+
+in.			172800	IN	NS	a0.in.afilias-nst.info.
+
+in.			172800	IN	NS	b1.in.afilias-nst.in.
+
+in.			172800	IN	NS	b2.in.afilias-nst.org.
+
+in.			172800	IN	NS	a2.in.afilias-nst.info.
+
+;; Received 509 bytes from 2001:500:2f::f#53(2001:500:2f::f) in 25 ms
+
+
+
+google.co.in.		86400	IN	NS	ns1.google.com.
+
+google.co.in.		86400	IN	NS	ns2.google.com.
+
+google.co.in.		86400	IN	NS	ns3.google.com.
+
+;; Received 94 bytes from 2001:500:51::1#53(2001:500:51::1) in 87 ms
+
+
+
+google.co.in.		300	IN	A	172.217.5.99
+
+;; Received 46 bytes from 216.239.32.10#53(216.239.32.10) in 36 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail twitter.com
+
+;; global options: +cmd
+
+.			465169	IN	NS	g.root-servers.net.
+
+.			465169	IN	NS	h.root-servers.net.
+
+.			465169	IN	NS	i.root-servers.net.
+
+.			465169	IN	NS	j.root-servers.net.
+
+.			465169	IN	NS	k.root-servers.net.
+
+.			465169	IN	NS	l.root-servers.net.
+
+.			465169	IN	NS	m.root-servers.net.
+
+.			465169	IN	NS	a.root-servers.net.
+
+.			465169	IN	NS	b.root-servers.net.
+
+.			465169	IN	NS	c.root-servers.net.
+
+.			465169	IN	NS	d.root-servers.net.
+
+.			465169	IN	NS	e.root-servers.net.
+
+.			465169	IN	NS	f.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 80 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 489 bytes from 2001:503:ba3e::2:30#53(2001:503:ba3e::2:30) in 32 ms
+
+
+
+twitter.com.		172800	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-02.ns.twtrdns.net.
+
+;; Received 270 bytes from 192.26.92.30#53(192.26.92.30) in 138 ms
+
+
+
+twitter.com.		300	IN	A	104.244.42.65
+
+twitter.com.		300	IN	A	104.244.42.193
+
+twitter.com.		300	IN	A	104.244.42.1
+
+twitter.com.		300	IN	A	104.244.42.129
+
+twitter.com.		13999	IN	NS	ns2.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	d01-02.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	ns1.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	r01-01.ns.twtrdns.net.
+
+;; Received 274 bytes from 204.13.250.34#53(204.13.250.34) in 15 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail twitter.com
+
+;; global options: +cmd
+
+.			465172	IN	NS	f.root-servers.net.
+
+.			465172	IN	NS	g.root-servers.net.
+
+.			465172	IN	NS	h.root-servers.net.
+
+.			465172	IN	NS	i.root-servers.net.
+
+.			465172	IN	NS	j.root-servers.net.
+
+.			465172	IN	NS	k.root-servers.net.
+
+.			465172	IN	NS	l.root-servers.net.
+
+.			465172	IN	NS	m.root-servers.net.
+
+.			465172	IN	NS	a.root-servers.net.
+
+.			465172	IN	NS	b.root-servers.net.
+
+.			465172	IN	NS	c.root-servers.net.
+
+.			465172	IN	NS	d.root-servers.net.
+
+.			465172	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 61 ms
+
+
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+;; Received 489 bytes from 2001:500:12::d0d#53(2001:500:12::d0d) in 82 ms
+
+
+
+twitter.com.		172800	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-02.ns.twtrdns.net.
+
+;; Received 270 bytes from 192.52.178.30#53(192.52.178.30) in 202 ms
+
+
+
+twitter.com.		300	IN	A	104.244.42.193
+
+twitter.com.		14409	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		14409	IN	NS	d01-02.ns.twtrdns.net.
+
+twitter.com.		14409	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		14409	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		14409	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		14409	IN	NS	r01-02.ns.twtrdns.net.
+
+;; Received 190 bytes from 205.251.195.113#53(205.251.195.113) in 16 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail twitter.com
+
+;; global options: +cmd
+
+.			464549	IN	NS	g.root-servers.net.
+
+.			464549	IN	NS	m.root-servers.net.
+
+.			464549	IN	NS	f.root-servers.net.
+
+.			464549	IN	NS	e.root-servers.net.
+
+.			464549	IN	NS	h.root-servers.net.
+
+.			464549	IN	NS	l.root-servers.net.
+
+.			464549	IN	NS	i.root-servers.net.
+
+.			464549	IN	NS	a.root-servers.net.
+
+.			464549	IN	NS	d.root-servers.net.
+
+.			464549	IN	NS	c.root-servers.net.
+
+.			464549	IN	NS	b.root-servers.net.
+
+.			464549	IN	NS	j.root-servers.net.
+
+.			464549	IN	NS	k.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 43 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+;; Received 489 bytes from 192.228.79.201#53(192.228.79.201) in 33 ms
+
+
+
+twitter.com.		172800	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-02.ns.twtrdns.net.
+
+;; Received 270 bytes from 192.55.83.30#53(192.55.83.30) in 183 ms
+
+
+
+twitter.com.		300	IN	A	104.244.42.193
+
+twitter.com.		300	IN	A	104.244.42.129
+
+twitter.com.		300	IN	A	104.244.42.1
+
+twitter.com.		300	IN	A	104.244.42.65
+
+twitter.com.		13999	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	ns1.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	ns2.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	d01-02.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	ns3.p34.dynect.net.
+
+;; Received 274 bytes from 208.78.70.34#53(208.78.70.34) in 15 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail twitter.com
+
+;; global options: +cmd
+
+.			465172	IN	NS	d.root-servers.net.
+
+.			465172	IN	NS	e.root-servers.net.
+
+.			465172	IN	NS	f.root-servers.net.
+
+.			465172	IN	NS	g.root-servers.net.
+
+.			465172	IN	NS	h.root-servers.net.
+
+.			465172	IN	NS	i.root-servers.net.
+
+.			465172	IN	NS	j.root-servers.net.
+
+.			465172	IN	NS	k.root-servers.net.
+
+.			465172	IN	NS	l.root-servers.net.
+
+.			465172	IN	NS	m.root-servers.net.
+
+.			465172	IN	NS	a.root-servers.net.
+
+.			465172	IN	NS	b.root-servers.net.
+
+.			465172	IN	NS	c.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 63 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 489 bytes from 2001:500:9f::42#53(2001:500:9f::42) in 53 ms
+
+
+
+twitter.com.		172800	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-02.ns.twtrdns.net.
+
+;; Received 270 bytes from 192.33.14.30#53(192.33.14.30) in 94 ms
+
+
+
+twitter.com.		300	IN	A	104.244.42.129
+
+twitter.com.		14409	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		14409	IN	NS	d01-02.ns.twtrdns.net.
+
+twitter.com.		14409	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		14409	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		14409	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		14409	IN	NS	r01-02.ns.twtrdns.net.
+
+;; Received 190 bytes from 205.251.195.113#53(205.251.195.113) in 16 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail twitter.com
+
+;; global options: +cmd
+
+.			465167	IN	NS	f.root-servers.net.
+
+.			465167	IN	NS	g.root-servers.net.
+
+.			465167	IN	NS	h.root-servers.net.
+
+.			465167	IN	NS	i.root-servers.net.
+
+.			465167	IN	NS	j.root-servers.net.
+
+.			465167	IN	NS	k.root-servers.net.
+
+.			465167	IN	NS	l.root-servers.net.
+
+.			465167	IN	NS	m.root-servers.net.
+
+.			465167	IN	NS	a.root-servers.net.
+
+.			465167	IN	NS	b.root-servers.net.
+
+.			465167	IN	NS	c.root-servers.net.
+
+.			465167	IN	NS	d.root-servers.net.
+
+.			465167	IN	NS	e.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 489 bytes from 199.7.83.42#53(199.7.83.42) in 23 ms
+
+
+
+twitter.com.		172800	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		172800	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		172800	IN	NS	d01-02.ns.twtrdns.net.
+
+;; Received 270 bytes from 192.43.172.30#53(192.43.172.30) in 70 ms
+
+
+
+twitter.com.		300	IN	A	104.244.42.129
+
+twitter.com.		300	IN	A	104.244.42.1
+
+twitter.com.		300	IN	A	104.244.42.193
+
+twitter.com.		300	IN	A	104.244.42.65
+
+twitter.com.		13999	IN	NS	r01-02.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	ns3.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	ns4.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	ns2.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	d01-01.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	ns1.p34.dynect.net.
+
+twitter.com.		13999	IN	NS	r01-01.ns.twtrdns.net.
+
+twitter.com.		13999	IN	NS	d01-02.ns.twtrdns.net.
+
+;; Received 274 bytes from 204.13.250.34#53(204.13.250.34) in 29 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail amazon.com
+
+;; global options: +cmd
+
+.			464548	IN	NS	m.root-servers.net.
+
+.			464548	IN	NS	f.root-servers.net.
+
+.			464548	IN	NS	e.root-servers.net.
+
+.			464548	IN	NS	h.root-servers.net.
+
+.			464548	IN	NS	l.root-servers.net.
+
+.			464548	IN	NS	i.root-servers.net.
+
+.			464548	IN	NS	a.root-servers.net.
+
+.			464548	IN	NS	d.root-servers.net.
+
+.			464548	IN	NS	c.root-servers.net.
+
+.			464548	IN	NS	b.root-servers.net.
+
+.			464548	IN	NS	j.root-servers.net.
+
+.			464548	IN	NS	k.root-servers.net.
+
+.			464548	IN	NS	g.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 46 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 488 bytes from 2001:500:9f::42#53(2001:500:9f::42) in 22 ms
+
+
+
+amazon.com.		172800	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		172800	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		172800	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns4.p31.dynect.net.
+
+;; Received 285 bytes from 192.31.80.30#53(192.31.80.30) in 165 ms
+
+
+
+amazon.com.		60	IN	A	54.239.25.208
+
+amazon.com.		60	IN	A	54.239.25.192
+
+amazon.com.		60	IN	A	54.239.17.6
+
+amazon.com.		60	IN	A	54.239.17.7
+
+amazon.com.		60	IN	A	54.239.26.128
+
+amazon.com.		60	IN	A	54.239.25.200
+
+amazon.com.		3600	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		3600	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		3600	IN	NS	ns4.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns2.p31.dynect.net.
+
+;; Received 273 bytes from 204.13.250.31#53(204.13.250.31) in 15 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail amazon.com
+
+;; global options: +cmd
+
+.			465174	IN	NS	h.root-servers.net.
+
+.			465174	IN	NS	i.root-servers.net.
+
+.			465174	IN	NS	j.root-servers.net.
+
+.			465174	IN	NS	k.root-servers.net.
+
+.			465174	IN	NS	l.root-servers.net.
+
+.			465174	IN	NS	m.root-servers.net.
+
+.			465174	IN	NS	a.root-servers.net.
+
+.			465174	IN	NS	b.root-servers.net.
+
+.			465174	IN	NS	c.root-servers.net.
+
+.			465174	IN	NS	d.root-servers.net.
+
+.			465174	IN	NS	e.root-servers.net.
+
+.			465174	IN	NS	f.root-servers.net.
+
+.			465174	IN	NS	g.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 46 ms
+
+
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+;; Received 488 bytes from 192.5.5.241#53(192.5.5.241) in 88 ms
+
+
+
+amazon.com.		172800	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		172800	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		172800	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns4.p31.dynect.net.
+
+;; Received 285 bytes from 192.54.112.30#53(192.54.112.30) in 46 ms
+
+
+
+amazon.com.		60	IN	A	54.239.25.200
+
+amazon.com.		60	IN	A	54.239.25.208
+
+amazon.com.		60	IN	A	54.239.26.128
+
+amazon.com.		60	IN	A	54.239.25.192
+
+amazon.com.		60	IN	A	54.239.17.7
+
+amazon.com.		60	IN	A	54.239.17.6
+
+amazon.com.		3600	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		3600	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		3600	IN	NS	ns4.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns2.p31.dynect.net.
+
+;; Received 273 bytes from 204.13.251.31#53(204.13.251.31) in 42 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail amazon.com
+
+;; global options: +cmd
+
+.			502267	IN	NS	a.root-servers.net.
+
+.			502267	IN	NS	b.root-servers.net.
+
+.			502267	IN	NS	c.root-servers.net.
+
+.			502267	IN	NS	d.root-servers.net.
+
+.			502267	IN	NS	e.root-servers.net.
+
+.			502267	IN	NS	f.root-servers.net.
+
+.			502267	IN	NS	g.root-servers.net.
+
+.			502267	IN	NS	h.root-servers.net.
+
+.			502267	IN	NS	i.root-servers.net.
+
+.			502267	IN	NS	j.root-servers.net.
+
+.			502267	IN	NS	k.root-servers.net.
+
+.			502267	IN	NS	l.root-servers.net.
+
+.			502267	IN	NS	m.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 488 bytes from 192.203.230.10#53(192.203.230.10) in 85 ms
+
+
+
+amazon.com.		172800	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		172800	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		172800	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns4.p31.dynect.net.
+
+;; Received 285 bytes from 192.43.172.30#53(192.43.172.30) in 70 ms
+
+
+
+amazon.com.		60	IN	A	54.239.26.128
+
+amazon.com.		60	IN	A	54.239.17.6
+
+amazon.com.		60	IN	A	54.239.25.200
+
+amazon.com.		60	IN	A	54.239.25.208
+
+amazon.com.		60	IN	A	54.239.25.192
+
+amazon.com.		60	IN	A	54.239.17.7
+
+amazon.com.		3600	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		3600	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		3600	IN	NS	ns4.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns3.p31.dynect.net.
+
+;; Received 273 bytes from 208.78.70.31#53(208.78.70.31) in 15 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail amazon.com
+
+;; global options: +cmd
+
+.			465170	IN	NS	a.root-servers.net.
+
+.			465170	IN	NS	b.root-servers.net.
+
+.			465170	IN	NS	c.root-servers.net.
+
+.			465170	IN	NS	d.root-servers.net.
+
+.			465170	IN	NS	e.root-servers.net.
+
+.			465170	IN	NS	f.root-servers.net.
+
+.			465170	IN	NS	g.root-servers.net.
+
+.			465170	IN	NS	h.root-servers.net.
+
+.			465170	IN	NS	i.root-servers.net.
+
+.			465170	IN	NS	j.root-servers.net.
+
+.			465170	IN	NS	k.root-servers.net.
+
+.			465170	IN	NS	l.root-servers.net.
+
+.			465170	IN	NS	m.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 44 ms
+
+
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+;; Received 500 bytes from 2001:500:2::c#53(2001:500:2::c) in 35 ms
+
+
+
+amazon.com.		172800	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		172800	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		172800	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns4.p31.dynect.net.
+
+;; Received 285 bytes from 192.12.94.30#53(192.12.94.30) in 20 ms
+
+
+
+amazon.com.		60	IN	A	54.239.25.200
+
+amazon.com.		60	IN	A	54.239.17.6
+
+amazon.com.		60	IN	A	54.239.26.128
+
+amazon.com.		60	IN	A	54.239.17.7
+
+amazon.com.		60	IN	A	54.239.25.192
+
+amazon.com.		60	IN	A	54.239.25.208
+
+amazon.com.		3600	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		3600	IN	NS	ns4.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	pdns6.ultradns.co.uk.
+
+;; Received 273 bytes from 2610:a1:1017::1#53(2610:a1:1017::1) in 36 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail amazon.com
+
+;; global options: +cmd
+
+.			465163	IN	NS	d.root-servers.net.
+
+.			465163	IN	NS	e.root-servers.net.
+
+.			465163	IN	NS	f.root-servers.net.
+
+.			465163	IN	NS	g.root-servers.net.
+
+.			465163	IN	NS	h.root-servers.net.
+
+.			465163	IN	NS	i.root-servers.net.
+
+.			465163	IN	NS	j.root-servers.net.
+
+.			465163	IN	NS	k.root-servers.net.
+
+.			465163	IN	NS	l.root-servers.net.
+
+.			465163	IN	NS	m.root-servers.net.
+
+.			465163	IN	NS	a.root-servers.net.
+
+.			465163	IN	NS	b.root-servers.net.
+
+.			465163	IN	NS	c.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 85 ms
+
+
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+;; Received 488 bytes from 192.112.36.4#53(192.112.36.4) in 83 ms
+
+
+
+amazon.com.		172800	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		172800	IN	NS	pdns6.ultradns.co.uk.
+
+amazon.com.		172800	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		172800	IN	NS	ns4.p31.dynect.net.
+
+;; Received 285 bytes from 2001:503:a83e::2:30#53(2001:503:a83e::2:30) in 35 ms
+
+
+
+amazon.com.		60	IN	A	54.239.25.200
+
+amazon.com.		60	IN	A	54.239.25.208
+
+amazon.com.		60	IN	A	54.239.17.7
+
+amazon.com.		60	IN	A	54.239.26.128
+
+amazon.com.		60	IN	A	54.239.17.6
+
+amazon.com.		60	IN	A	54.239.25.192
+
+amazon.com.		3600	IN	NS	ns3.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns4.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns2.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	ns1.p31.dynect.net.
+
+amazon.com.		3600	IN	NS	pdns1.ultradns.net.
+
+amazon.com.		3600	IN	NS	pdns6.ultradns.co.uk.
+
+;; Received 273 bytes from 208.78.71.31#53(208.78.71.31) in 15 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail qq.com
+
+;; global options: +cmd
+
+.			465163	IN	NS	m.root-servers.net.
+
+.			465163	IN	NS	a.root-servers.net.
+
+.			465163	IN	NS	b.root-servers.net.
+
+.			465163	IN	NS	c.root-servers.net.
+
+.			465163	IN	NS	d.root-servers.net.
+
+.			465163	IN	NS	e.root-servers.net.
+
+.			465163	IN	NS	f.root-servers.net.
+
+.			465163	IN	NS	g.root-servers.net.
+
+.			465163	IN	NS	h.root-servers.net.
+
+.			465163	IN	NS	i.root-servers.net.
+
+.			465163	IN	NS	j.root-servers.net.
+
+.			465163	IN	NS	k.root-servers.net.
+
+.			465163	IN	NS	l.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 54 ms
+
+
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+;; Received 512 bytes from 2001:7fd::1#53(2001:7fd::1) in 99 ms
+
+
+
+qq.com.			172800	IN	NS	ns1.qq.com.
+
+qq.com.			172800	IN	NS	ns2.qq.com.
+
+qq.com.			172800	IN	NS	ns3.qq.com.
+
+qq.com.			172800	IN	NS	ns4.qq.com.
+
+;; Received 256 bytes from 2001:503:a83e::2:30#53(2001:503:a83e::2:30) in 335 ms
+
+
+
+qq.com.			600	IN	A	125.39.240.113
+
+qq.com.			600	IN	A	61.135.157.156
+
+qq.com.			86400	IN	NS	ns4.qq.com.
+
+qq.com.			86400	IN	NS	ns1.qq.com.
+
+qq.com.			86400	IN	NS	ns2.qq.com.
+
+qq.com.			86400	IN	NS	ns3.qq.com.
+
+;; Received 128 bytes from 182.140.167.157#53(182.140.167.157) in 257 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail qq.com
+
+;; global options: +cmd
+
+.			465159	IN	NS	b.root-servers.net.
+
+.			465159	IN	NS	c.root-servers.net.
+
+.			465159	IN	NS	d.root-servers.net.
+
+.			465159	IN	NS	e.root-servers.net.
+
+.			465159	IN	NS	f.root-servers.net.
+
+.			465159	IN	NS	g.root-servers.net.
+
+.			465159	IN	NS	h.root-servers.net.
+
+.			465159	IN	NS	i.root-servers.net.
+
+.			465159	IN	NS	j.root-servers.net.
+
+.			465159	IN	NS	k.root-servers.net.
+
+.			465159	IN	NS	l.root-servers.net.
+
+.			465159	IN	NS	m.root-servers.net.
+
+.			465159	IN	NS	a.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 93 ms
+
+
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+;; Received 512 bytes from 2001:500:84::b#53(2001:500:84::b) in 138 ms
+
+
+
+qq.com.			172800	IN	NS	ns1.qq.com.
+
+qq.com.			172800	IN	NS	ns2.qq.com.
+
+qq.com.			172800	IN	NS	ns3.qq.com.
+
+qq.com.			172800	IN	NS	ns4.qq.com.
+
+;; Received 256 bytes from 192.52.178.30#53(192.52.178.30) in 209 ms
+
+
+
+qq.com.			600	IN	A	61.135.157.156
+
+qq.com.			600	IN	A	125.39.240.113
+
+qq.com.			86400	IN	NS	ns1.qq.com.
+
+qq.com.			86400	IN	NS	ns2.qq.com.
+
+qq.com.			86400	IN	NS	ns3.qq.com.
+
+qq.com.			86400	IN	NS	ns4.qq.com.
+
+;; Received 128 bytes from 101.227.169.106#53(101.227.169.106) in 242 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail qq.com
+
+;; global options: +cmd
+
+.			465164	IN	NS	c.root-servers.net.
+
+.			465164	IN	NS	d.root-servers.net.
+
+.			465164	IN	NS	e.root-servers.net.
+
+.			465164	IN	NS	f.root-servers.net.
+
+.			465164	IN	NS	g.root-servers.net.
+
+.			465164	IN	NS	h.root-servers.net.
+
+.			465164	IN	NS	i.root-servers.net.
+
+.			465164	IN	NS	j.root-servers.net.
+
+.			465164	IN	NS	k.root-servers.net.
+
+.			465164	IN	NS	l.root-servers.net.
+
+.			465164	IN	NS	m.root-servers.net.
+
+.			465164	IN	NS	a.root-servers.net.
+
+.			465164	IN	NS	b.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 41 ms
+
+
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+;; Received 512 bytes from 2001:500:2::c#53(2001:500:2::c) in 33 ms
+
+
+
+qq.com.			172800	IN	NS	ns1.qq.com.
+
+qq.com.			172800	IN	NS	ns2.qq.com.
+
+qq.com.			172800	IN	NS	ns3.qq.com.
+
+qq.com.			172800	IN	NS	ns4.qq.com.
+
+;; Received 256 bytes from 2001:503:231d::2:30#53(2001:503:231d::2:30) in 22 ms
+
+
+
+qq.com.			600	IN	A	125.39.240.113
+
+qq.com.			600	IN	A	61.135.157.156
+
+qq.com.			86400	IN	NS	ns3.qq.com.
+
+qq.com.			86400	IN	NS	ns4.qq.com.
+
+qq.com.			86400	IN	NS	ns1.qq.com.
+
+qq.com.			86400	IN	NS	ns2.qq.com.
+
+;; Received 128 bytes from 203.205.144.156#53(203.205.144.156) in 238 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail qq.com
+
+;; global options: +cmd
+
+.			465159	IN	NS	g.root-servers.net.
+
+.			465159	IN	NS	h.root-servers.net.
+
+.			465159	IN	NS	i.root-servers.net.
+
+.			465159	IN	NS	j.root-servers.net.
+
+.			465159	IN	NS	k.root-servers.net.
+
+.			465159	IN	NS	l.root-servers.net.
+
+.			465159	IN	NS	m.root-servers.net.
+
+.			465159	IN	NS	a.root-servers.net.
+
+.			465159	IN	NS	b.root-servers.net.
+
+.			465159	IN	NS	c.root-servers.net.
+
+.			465159	IN	NS	d.root-servers.net.
+
+.			465159	IN	NS	e.root-servers.net.
+
+.			465159	IN	NS	f.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 35 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 512 bytes from 198.97.190.53#53(198.97.190.53) in 95 ms
+
+
+
+qq.com.			172800	IN	NS	ns1.qq.com.
+
+qq.com.			172800	IN	NS	ns2.qq.com.
+
+qq.com.			172800	IN	NS	ns3.qq.com.
+
+qq.com.			172800	IN	NS	ns4.qq.com.
+
+;; Received 256 bytes from 192.31.80.30#53(192.31.80.30) in 32 ms
+
+
+
+qq.com.			600	IN	A	61.135.157.156
+
+qq.com.			600	IN	A	125.39.240.113
+
+qq.com.			86400	IN	NS	ns3.qq.com.
+
+qq.com.			86400	IN	NS	ns4.qq.com.
+
+qq.com.			86400	IN	NS	ns1.qq.com.
+
+qq.com.			86400	IN	NS	ns2.qq.com.
+
+;; Received 128 bytes from 101.226.68.138#53(101.226.68.138) in 346 ms
+
+
+
+
+
+; <<>> DiG 9.8.3-P1 <<>> +trace +tries=1 +nofail qq.com
+
+;; global options: +cmd
+
+.			464535	IN	NS	f.root-servers.net.
+
+.			464535	IN	NS	e.root-servers.net.
+
+.			464535	IN	NS	h.root-servers.net.
+
+.			464535	IN	NS	l.root-servers.net.
+
+.			464535	IN	NS	i.root-servers.net.
+
+.			464535	IN	NS	a.root-servers.net.
+
+.			464535	IN	NS	d.root-servers.net.
+
+.			464535	IN	NS	c.root-servers.net.
+
+.			464535	IN	NS	b.root-servers.net.
+
+.			464535	IN	NS	j.root-servers.net.
+
+.			464535	IN	NS	k.root-servers.net.
+
+.			464535	IN	NS	g.root-servers.net.
+
+.			464535	IN	NS	m.root-servers.net.
+
+;; Received 508 bytes from 75.75.75.75#53(75.75.75.75) in 45 ms
+
+
+
+com.			172800	IN	NS	a.gtld-servers.net.
+
+com.			172800	IN	NS	b.gtld-servers.net.
+
+com.			172800	IN	NS	c.gtld-servers.net.
+
+com.			172800	IN	NS	d.gtld-servers.net.
+
+com.			172800	IN	NS	e.gtld-servers.net.
+
+com.			172800	IN	NS	f.gtld-servers.net.
+
+com.			172800	IN	NS	g.gtld-servers.net.
+
+com.			172800	IN	NS	h.gtld-servers.net.
+
+com.			172800	IN	NS	i.gtld-servers.net.
+
+com.			172800	IN	NS	j.gtld-servers.net.
+
+com.			172800	IN	NS	k.gtld-servers.net.
+
+com.			172800	IN	NS	l.gtld-servers.net.
+
+com.			172800	IN	NS	m.gtld-servers.net.
+
+;; Received 512 bytes from 2001:503:ba3e::2:30#53(2001:503:ba3e::2:30) in 35 ms
+
+
+
+qq.com.			172800	IN	NS	ns1.qq.com.
+
+qq.com.			172800	IN	NS	ns2.qq.com.
+
+qq.com.			172800	IN	NS	ns3.qq.com.
+
+qq.com.			172800	IN	NS	ns4.qq.com.
+
+;; Received 256 bytes from 192.26.92.30#53(192.26.92.30) in 28 ms
+
+
+
+qq.com.			600	IN	A	125.39.240.113
+
+qq.com.			600	IN	A	61.135.157.156
+
+qq.com.			86400	IN	NS	ns2.qq.com.
+
+qq.com.			86400	IN	NS	ns3.qq.com.
+
+qq.com.			86400	IN	NS	ns4.qq.com.
+
+qq.com.			86400	IN	NS	ns1.qq.com.
+
+;; Received 128 bytes from 184.105.206.124#53(184.105.206.124) in 15 ms
+
+
+
+>>>

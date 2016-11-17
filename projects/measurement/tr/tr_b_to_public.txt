@@ -1,0 +1,61 @@
+timestamp 1478754574.28
+hostname tpr-route-server.saix.net
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  153.780 ms  16.909 ms *
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  18.522 ms  16.437 ms  15.797 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  15.818 ms  15.467 ms  16.327 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  16.906 ms  17.496 ms  17.043 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-2.cenic.net (137.164.22.7)  33.404 ms  83.501 ms  22.847 ms
+ 6  [AS0] xe-1-1-0.0.rtr.paix.net.internet2.edu (64.57.21.6)  18.656 ms  18.385 ms
+    [AS0] xe-0-1-0.0.rtr.paix.net.internet2.edu (64.57.21.4)  23.078 ms
+ 7  [AS0] xe-2-2-0.80.rtsw.losa.net.internet2.edu (64.57.20.124)  25.295 ms  27.575 ms  26.881 ms
+ 8  [AS0] et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  27.482 ms  27.443 ms  25.607 ms
+ 9  [AS14365] pccw-global.as3491.any2ix.coresite.com (206.72.210.49)  28.108 ms  30.980 ms  29.632 ms
+10  [AS3491] tenge10-1.br01.frf06.pccwbtn.net (63.218.232.41)  191.690 ms  198.928 ms  195.744 ms
+11  [AS3491] 63-218-233-14.static.pccwglobal.net (63.218.233.14)  320.280 ms  191.909 ms  196.461 ms
+12  [AS5713] tbnb-ip-cr-1-atm-1-3-1.telkom-ipnet.co.za (196.43.8.142)  410.219 ms  418.837 ms  400.276 ms
+13  [AS5713] tpr-route-server.saix.net (196.25.9.46)  377.601 ms  458.956 ms *
+
+hostname route-server.ip-plus.net
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  28.989 ms  16.866 ms  21.768 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  20.047 ms  18.818 ms  15.910 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  15.221 ms  15.597 ms  166.201 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  17.581 ms  16.075 ms  15.988 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  17.693 ms  19.876 ms  17.082 ms
+ 6  [AS0] xe-1-1-0.0.rtr.paix.net.internet2.edu (64.57.21.6)  22.087 ms  25.402 ms
+    [AS0] xe-0-1-0.0.rtr.paix.net.internet2.edu (64.57.21.4)  17.527 ms
+ 7  [AS0] xe-2-2-0.80.rtsw.losa.net.internet2.edu (64.57.20.124)  27.362 ms  25.821 ms  26.865 ms
+ 8  [AS0] ae-2.80.rtsw.salt.net.internet2.edu (64.57.20.145)  53.218 ms  38.650 ms  37.886 ms
+ 9  [AS0] ae-2.80.rtsw.kans.net.internet2.edu (64.57.20.147)  57.901 ms  58.044 ms  57.911 ms
+10  [AS0] ae-0.80.rtsw.chic.net.internet2.edu (64.57.20.149)  70.621 ms  126.474 ms  72.615 ms
+11  [AS0] ae-4.80.rtr.eqch.net.internet2.edu (64.57.20.151)  74.323 ms  70.174 ms  133.555 ms
+12  [AS0] equinix-chicago.bb.ip-plus.net (206.223.119.82)  95.132 ms  97.973 ms  98.517 ms
+13  [AS3303] i68geb-005-ten0-1-0-1-7.bb.ip-plus.net (138.187.159.18)  181.399 ms  178.118 ms  181.056 ms
+14  [AS3303] route-server.ip-plus.net (193.247.171.26)  184.160 ms  190.049 ms *
+
+hostname route-views.oregon-ix.net
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  18.203 ms  15.431 ms  16.191 ms
+ 2  [AS25] 128.32.0.110 (128.32.0.110)  15.666 ms  16.537 ms  17.592 ms
+ 3  [AS25] xe-5-2-0.inr-001-sut.berkeley.edu (128.32.0.66)  16.251 ms  15.766 ms  15.157 ms
+ 4  [AS2152] hpr-svl--ucb-10ge.cenic.net (137.164.27.132)  18.429 ms  17.277 ms  18.142 ms
+ 5  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  44.664 ms  42.808 ms  42.149 ms
+ 6  [AS0] uo-re2-gw.oregon-gigapop.net (198.32.165.73)  51.246 ms
+    [AS0] uo-re1-gw.oregon-gigapop.net (198.32.165.72)  47.356 ms
+    [AS0] uo-re2-gw.oregon-gigapop.net (198.32.165.73)  47.621 ms
+ 7  [AS3582] vl-2-gw.uoregon.edu (128.223.2.1)  87.598 ms
+    [AS3582] vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  45.475 ms  61.653 ms
+ 8  [AS3582] route-views.routeviews.org (128.223.51.103)  77.197 ms *  84.877 ms
+
+hostname route-views.on.bb.telus.com
+ 1  [AS25] vlan715.inr-340-mulcev.berkeley.edu (136.152.208.1)  22.089 ms  31.191 ms  16.968 ms
+ 2  [AS25] 128.32.0.108 (128.32.0.108)  16.504 ms  16.073 ms  16.280 ms
+ 3  [AS25] xe-0-2-0.inr-001-sut.berkeley.edu (128.32.0.64)  24.009 ms  17.661 ms  17.058 ms
+ 4  [AS2152] dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  90.029 ms  19.608 ms  16.748 ms
+ 5  [AS2152] dc-svl-agg4--sfo-agg1-10ge-1.cenic.net (137.164.22.27)  18.545 ms  23.056 ms  82.360 ms
+ 6  [AS0] xe-0-1-0.0.rtr.paix.net.internet2.edu (64.57.21.4)  18.432 ms  18.737 ms
+    [AS0] xe-1-1-0.0.rtr.paix.net.internet2.edu (64.57.21.6)  30.315 ms
+ 7  [AS0] xe-0-1-1.0.rtsw.seat.net.internet2.edu (64.57.20.133)  47.363 ms  46.959 ms  109.419 ms
+ 8  [AS22773] six.telus.com (206.81.80.227)  43.106 ms  42.710 ms  44.162 ms
+ 9  [AS852] toroonxndr02.bb.telus.com (154.11.6.99)  197.446 ms  147.626 ms  207.646 ms
+10  [AS852] route-views.on.bb.telus.com (154.11.63.86)  99.819 ms *  100.862 ms
+
+done
